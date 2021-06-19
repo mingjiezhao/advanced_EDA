@@ -1,0 +1,1106 @@
+Place	Div/Tot	Num	Name	Ag	Hometown	Gun Tim	Net Tim	Pace
+1	1/86	30	Florence Jepkosgei	22	Kenya .	32:59	32:58#	5:19
+2	2/86	8	Eunice Chepkirui	21	Kenya .	33:14	33:13#	5:21
+3	1/247	3200	Elena Orlova	36	Gaithersburg MD	34:26	34:25#	5:33
+4	1/173	2	Susannah Kvasnicka	34	Great Falls VA	34:43	34:42#	5:35
+5	1/142	6	Casey Smith	26	Arlington VA	35:04	35:02	5:39
+6	1/110	28	Lyubov Kremleva	45	Russia .	35:05	35:04*	5:39
+7	2/173	3040	Mary Jo Saunders	31	Harrisonburg VA	36:27	36:25	5:52
+8	3/86	26	Erin Swain	24	Clifton VA	36:51	36:49	5:56
+9	4/86	740	Cheryl Carr	23	Arlington VA	37:38	37:35	6:03
+10	1/26	2062	Anya Oleynik	17	Gaithersburg MD	38:00	37:59*	6:07
+11	2/247	2674	Christy Underdonk	37	Potomac MD	38:18	38:15	6:10
+12	5/86	1816	Erica Marrari	24	College Park MD	38:53	38:48	6:15
+13	2/142	12	Eileen Kickish	26	Washington DC	38:59	38:56	6:16
+14	6/86	1060	Kristen Ettensohn	23	Bethesda MD	39:22	39:19	6:20
+15	2/110	834	Cindy Conant	45	Kensington MD	39:36	39:34*	6:22
+16	2/26	3266	Amanda Robotti	18	College Park MD	39:39	39:34	6:23
+17	1/173	2013	Laura Nelson	40	Woodstock VA	39:48	39:45	6:24
+18	3/173	790	Connie Chow Dowler	31	Kensington MD	39:56	39:51	6:25
+19	2/173	1596	Sheryl Kline	43	Arnold MD	40:08	40:05	6:27
+20	3/247	2127	Paula Pels	38	Bethesda MD	40:29	40:24	6:31
+21	4/247	1441	Jane Inglese	36	Bethesda MD	40:31	40:28	6:31
+22	3/26	413	Aisling Gardner	19	College Park MD	40:43	40:39	6:33
+23	1/76	2581	Alison Suckling	50	Arnold MD	40:44	40:42*	6:33
+24	3/110	2940	Liliana Baron	47	Potomac MD	40:46	40:43*	6:34
+25	3/142	1736	Caroline Little	25	Washington DC	40:50	40:44	6:34
+26	3/173	14	Helen Beven	40	Kensington MD	41:10	41:09	6:38
+27	4/26	3228	Michele Levy	18	Gaithersburg MD	41:33	41:31	6:41
+28	4/173	1039	Nicola Elliott	40	Vienna VA	41:37	41:33	6:42
+29	4/173	2037	Elisa Norris	30	Rockville MD	41:55	41:50	6:44
+30	5/247	163	Stephanie Hammond	38	Springfield VA	42:00	41:56	6:45
+31	5/173	2153	Emily Pierce	30	Silver Spring M	D   42:03	41:56	6:45
+32	6/247	481	Alida Anderson	36	Bethesda MD	43:07	42:04	6:47
+33	5/173	1764	Jeannette Lussi	43	Kensington MD	43:15	42:13	6:48
+34	7/86	1852	Marycolle Mcallister	22	Silver Spring M	D   43:24	42:19	6:49
+35	6/173	676	Christine Brophy	41	Mongtomery Vill	43:34	42:33	6:51
+36	5/26	618	Erin Bliss	17	Woodbridge VA	42:48	42:43	6:53
+37	8/86	2010	Megan Nechanicky	24	Montgomery Vill	42:54	42:48	6:54
+38	7/247	1561	Christina Kichula	35	Silver Spring M	D   44:00	42:58	6:55
+39	8/247	3335	Kim Chenen	36	Leesburg VA	43:10	43:05	6:56
+40	6/173	2498	Cheryl Smoker	31	Rockville MD	44:39	43:32	7:01
+41	2/76	2578	Amy Subar	50	Potomac MD	44:47	43:38*	7:02
+42	7/173	1875	Michele Mcgleish	40	Germantown MD	44:59	43:39	7:02
+43	9/247	571	Michelle Beard	36	Montgomery Vill	44:46	43:39	7:02
+44	8/173	555	Sarah Barpoulis	41	Potomac MD	44:48	43:42	7:02
+45	4/142	2577	Sarah Stup	25	Rockville MD	44:48	43:46	7:03
+46	10/247	2727	Paige Waterman	38	Silver Spring M	D   45:01	43:51	7:04
+47	4/110	113	Beverly Black	45	Frederick MD	43:55	43:52	7:04
+48	7/173	2625	Kimberley Thomas	31	Rockville MD	45:08	44:06	7:06
+49	6/26	407	Clairice Ahn	19	College Park MD	45:28	44:16	7:08
+50	9/86	2663	Elizabeth Tullberg	24	Bethesda MD	47:22	44:19	7:08
+51	11/247	1822	Lisa Martin	36	Brookeville MD	44:24	44:20	7:08
+52	9/173	42	Susan Pereles	42	Potomac MD	44:29	44:24	7:09
+53	12/247	1997	Andrea Myers	37	Bethesda MD	45:33	44:24	7:09
+54	5/142	180	Katherine Lee	28	Bethesda MD	45:50	44:44	7:12
+55	13/247	642	Angelique Bosse	38	Rockville MD	44:51	44:47	7:13
+56	10/173	2993	Laura Gurney	41	Bethesda MD	45:52	44:49	7:13
+57	5/110	1180	Paula Galliani	46	Gaithersbur MD	44:54	44:51	7:13
+58	14/247	818	Cindy Cohen	38	Washington DC	45:55	44:53	7:14
+59	7/26	1655	Krisztina Larson	19	Silver Spring M	D   46:03	44:59	7:15
+60	8/173	138	Patricia Darrah	33	Washington DC	46:22	45:04	7:16
+61	6/142	1234	Laura Gittleson	29	Rockville MD	46:20	45:09	7:16
+62	1/28	152	Alice Franks	57	Rockville MD	45:16	45:11*	7:17
+63	15/247	1979	Kristina Muldoon	35	Bethesda MD	48:16	45:12	7:17
+64	8/26	973	Linh-Yen Do	19	Gaithersburg MD	45:19	45:13	7:17
+65	10/86	3033	Sarah Ramsey	24	Arlington VA	46:33	45:25	7:19
+66	11/86	2039	Rebecca Novinsky	22	Ellcott City MD	46:54	45:32	7:20
+67	16/247	3341	Joy Langford	36	Bethesda MD	46:36	45:32	7:20
+68	6/110	16	Sarah Buckheit	45	Reson VA	45:39	45:37	7:21
+69	11/173	2505	Anna Soevik	40	Bethesda MD	47:08	45:41	7:21
+70	12/86	1106	Kate Finn	24	Bethesda MD	46:46	45:44	7:22
+71	7/142	1360	Jessica Heinze	29	North Bethesda	M   47:04	45:47	7:22
+72	12/173	474	Leslie Anchor	43	Rockville MD	47:00	45:48	7:23
+73	17/247	659	Melissa Brault	39	Brookeville MD	47:21	45:58	7:24
+74	13/173	3323	Deborah Arnold	42	Bethesda MD	47:15	46:01	7:25
+75	14/173	1704	Robin Lerner	43	Bethesda MD	47:16	46:01	7:25
+76	9/173	1966	Leilani Morton	31	Fairfax VA	47:06	46:01	7:25
+77	18/247	1616	Stephanie Kramer	37	New Market MD	47:11	46:02	7:25
+78	10/173	2074	Meshelle Osborne	32	Chicago IL	47:30	46:04	7:25
+79	11/173	1883	Megan Mckenzie	30	Rockville MD	47:09	46:06	7:26
+80	1/19	864	Chris Craun	60	Bethesda MD	49:12	46:07*	7:26
+81	7/110	1798	Janis Maloney	48	Silver Spring M	D   46:14	46:10	7:26
+82	13/86	1300	Rebecca Guzman	22	Ijamsville MD	47:17	46:11	7:26
+83	3/76	1049	Carol English	51	Germantown MD	47:30	46:12	7:27
+84	8/142	2591	Tansy Szeliga	28	Gaithersburg MD	47:49	46:20	7:28
+85	9/142	904	Amy Davis	25	Ellicott City M	D   47:41	46:22	7:28
+86	19/247	128	Janet Choi	36	Oakton VA	47:27	46:22	7:28
+87	10/142	979	Connie Dodmead	28	Rockville MD	47:49	46:22	7:28
+88	20/247	1762	Janice Lunenfeld	36	Rockville MD	47:36	46:24	7:28
+89	15/173	524	Debbie Austin	41	Kensington MD	50:19	46:28	7:29
+90	21/247	215	Karen Strykul	36	Arlington VA	47:38	46:29	7:29
+91	11/142	1774	Melissa Macdermid	28	High Point NC	47:43	46:30	7:29
+92	16/173	2994	Heather Chen-Mayer	44	Garret Park MD	47:46	46:31	7:30
+93	22/247	2685	Andrea Varea	36	Bethesda MD	47:36	46:31	7:30
+94	23/247	2802	Amy Wolverton	35	Washington DC	47:38	46:31	7:30
+95	8/110	1634	Ann Kurzweil	47	Great Falls VA	48:01	46:31	7:30
+96	9/26	1352	Whitney Hayre	19	Olney MD	51:34	46:34	7:30
+97	24/247	1967	Valerie Moser	39	Baltimore MD	47:40	46:36	7:30
+98	9/110	490	Sherry Ansher	49	Bethesda MD	47:42	46:36	7:30
+99	25/247	2038	Liz Notter	39	Gaithersburg MD	47:50	46:43	7:31
+100	12/142	646	Jenny Boyd	28	Germantown MD	48:11	46:45	7:32
+101	26/247	3304	Jennifer Lowndes	38	Bethesda MD	48:11	46:46	7:32
+102	14/86	2163	Katie Piringer	23	Chevy Chase MD	49:55	46:47	7:32
+103	12/173	1727	Katherine Limon	32	Washington DC	49:53	46:47	7:32
+104	17/173	2856	Lynn Zipf	41	Silver Spring M	D   47:58	46:48	7:32
+105	4/76	2032	Shelley Niwa	53	Derwood MD	46:55	46:50	7:33
+106	18/173	2528	Susan Spicer	43	Rockville MD	48:10	46:50	7:33
+107	27/247	2540	Tracy Stake	37	Olney MD	48:11	46:52	7:33
+108	15/86	1920	Lindsay Metcalfe	23	Arlington VA	48:02	46:54	7:33
+109	28/247	1647	Carolyn Langille	36	Mt. Airy MD	48:03	46:54	7:33
+110	19/173	2958	Wendy Ponvert	44	Bethesda MD	48:00	46:56	7:34
+111	29/247	507	Jordana Ashe	38	Rockville MD	48:15	46:57	7:34
+112	30/247	2629	Elizabeth Thompson	36	Laurel MD	48:17	46:59	7:34
+113	13/173	1035	Beju Ekperigin	30	Montgomery Vill	50:06	47:04	7:35
+114	10/110	3232	Leena Clarke	48	Rockville MD	50:10	47:08	7:36
+115	11/110	2075	Anne Ostrenga	48	Derwood MD	48:38	47:19	7:37
+116	2/19	1576	B. J. King	61	Crofton MD	47:25	47:21*	7:38
+117	14/173	2168	Joy Pochatila	31	Alexandria VA	48:53	47:22	7:38
+118	16/86	1031	Helen Egelhoff	23	Montgomery Vill	47:27	47:24	7:38
+119	20/173	3334	Melissa Belman	42	Annapolis MD	47:33	47:26	7:38
+120	15/173	1804	Wendy Manning	33	Silver Spring M	D   50:34	47:28	7:39
+121	12/110	875	Fran Cueto	47	Gaithersburg MD	50:31	47:29	7:39
+122	13/110	1471	Natalie Jenkins	46	Gaithersburg MD	48:38	47:33	7:39
+123	16/173	1285	Amy Greene	31	Rockville MD	50:37	47:34	7:40
+124	17/173	420	Lisa Hoffman	32	Rockville MD	51:07	47:35	7:40
+125	18/173	617	Cathy Blessing	34	Sterling VA	49:04	47:39	7:41
+126	14/110	1948	Kirsten Molloy	45	Rockville MD	49:08	47:40	7:41
+127	13/142	2861	Joanna Zuercher	25	Washington DC	50:41	47:41	7:41
+128	31/247	3336	Annemarie Kirlin	38	Bethesda MD	48:57	47:45	7:41
+129	21/173	819	Stephanie Cohen	40	Darnestown MD	48:54	47:47	7:42
+130	19/173	1751	Sara Loschiavo	30	Silver Spring M	D   47:57	47:49	7:42
+131	14/142	664	Jola Breegle	25	Arlington VA	49:00	47:50	7:42
+132	3/19	3312	Meredith Bonta	60	Crofton MD	48:08	48:04*	7:45
+133	15/110	964	Tsippora Dingott	45	Potomac MD	49:19	48:05	7:45
+134	15/142	3224	Diane Bartley	26	Arlington VA	49:13	48:05	7:45
+135	22/173	1482	Jill Johnson	40	Arlington VA	51:06	48:05	7:45
+136	16/110	1307	Eileen Haase	45	Rockville MD	49:10	48:06	7:45
+137	20/173	2610	Nydia Taylor	30	Keedysville MD	49:23	48:06	7:45
+138	32/247	2690	Michele Ver Ploeg	36	Arlington VA	51:14	48:06	7:45
+139	21/173	2393	Jennifer Schwartz	34	Rockville MD	51:29	48:06	7:45
+140	33/247	731	Sharon Carlstrom	35	Kensington MD	51:30	48:06	7:45
+141	23/173	1100	Linda Fertal	43	Oakton VA	49:23	48:15	7:46
+142	10/26	974	Anh-Chi Do	15	Gaithersburg MD	48:19	48:17	7:47
+143	34/247	3202	Jen Norris	35	Arlington VA	49:46	48:23	7:48
+144	17/86	2347	Mojdeh Saba	24	Baltimore MD	51:34	48:25	7:48
+145	16/142	1784	Lisa Magdaleno	27	Kensington MD	51:46	48:26	7:48
+146	17/142	1793	Cecilia Mak	26	Silver Spring M	D   49:52	48:31	7:49
+147	18/142	1944	Holly Moden	25	Clarksburg MD	49:38	48:31	7:49
+148	22/173	3247	Sara Warleck	30	Kensington MD	50:04	48:34	7:49
+149	35/247	1857	Marci Mccalley	35	Gaithersburg MD	50:04	48:34	7:49
+150	23/173	2609	Julia Taylor	34	Arlington VA	49:51	48:34	7:49
+151	24/173	198	Michelle Powell	43	Rockville MD	50:07	48:39	7:50
+152	25/173	1811	Malinda Marcus	40	Germantown MD	49:57	48:45	7:51
+153	4/19	2014	Dee Nelson	62	Gaithersburg MD	48:49	48:45*	7:51
+154	19/142	2543	Sarah Stanley	26	Gaithersburg MD	51:45	48:45	7:51
+155	36/247	1497	Kim Joseph	37	Bethesda MD	49:55	48:47	7:51
+156	37/247	2088	Margie Paguyo	35	Olney MD	49:57	48:49	7:52
+157	17/110	2222	Barbara Raimondo	46	Washington Grov	52:39	48:53	7:52
+158	20/142	2147	Kathleen Phelan	25	North Potomac M	D   50:16	48:54	7:53
+159	38/247	1513	Jill Kane	35	Rockville MD	50:23	48:56	7:53
+160	2/28	527	Nancy Avitabile	58	Bethesda MD	50:16	48:56	7:53
+161	21/142	3305	Amy Mason	29	Chevy Chase MD	50:05	48:57	7:53
+162	39/247	1927	Melinda Miller	36	Chevy Chase MD	52:20	48:58	7:53
+163	18/110	462	Nancy Alexaner	49	Kensington MD	50:14	49:04	7:54
+164	22/142	1574	Natalie King	28	Gaithersburg MD	50:22	49:05	7:54
+165	23/142	3344	Hillary Crehan	26	Arlington VA	53:04	49:06	7:55
+166	26/173	1186	Gallya Gannot	41	Rockville MD	52:12	49:07	7:55
+167	24/173	621	Beth Bobb	34	Rockville MD	50:36	49:08	7:55
+168	40/247	708	Teresa Byrnes	39	Gaithersburg MD	50:30	49:09	7:55
+169	18/86	3331	Kelly Gagliardo	24	Gaithersburg MD	52:16	49:12	7:55
+170	25/173	2475	Jennifer Sleeman	33	Clarksville MD	50:43	49:15	7:56
+171	26/173	1526	Jacquelin Kascic	31	Frederick MD	52:45	49:15	7:56
+172	27/173	2844	Meredith Zanni	31	Rockville MD	50:43	49:16	7:56
+173	27/173	2375	Katherine Schexneider	44	Germantown MD	52:25	49:16	7:56
+174	24/142	1326	Karen Hannegrefs	29	Rockville MD	50:43	49:17	7:56
+175	11/26	3329	Perri Miller	15	Potomac MD	50:41	49:17	7:56
+176	28/173	772	Jessica Chapman	43	Bethesda MD	52:18	49:17	7:56
+177	25/142	522	Mindy Aungst	26	Fairfax VA	50:37	49:19	7:57
+178	19/110	2077	Ellen Ottenstein	48	Potomac MD	50:40	49:21	7:57
+179	26/142	2497	Donna Smojice	29	Germantown MD	50:42	49:21	7:57
+180	28/173	1711	Cheska Levy	33	Bethesda MD	50:44	49:22	7:57
+181	5/19	22	Priscila Prunella	62	Rockville MD	49:29	49:24*	7:57
+182	29/173	1779	Jodi Macklin	42	Chevy Chase MD	50:55	49:28	7:58
+183	29/173	609	Carrie Blain	33	Rockville MD	50:49	49:29	7:58
+184	19/86	167	Kimberly Hurney	23	Laytonsville MD	52:34	49:30	7:58
+185	20/110	3326	Christine Davison	46	Cabin John MD	50:51	49:30	7:58
+186	27/142	1667	Julie Lawson	27	Washington DC	52:39	49:33	7:59
+187	30/173	103	Jean Arthur	43	Silver Spring M	D   50:38	49:36	7:59
+188	12/26	1675	Jeanna Leclaire	19	Waldorf MD	53:16	49:39	8:00
+189	31/173	3243	Susie Schofield	43	Rockville MD	52:50	49:44	8:01
+190	41/247	542	Wendy Bailey	37	Bethesda MD	51:19	49:48	8:01
+191	28/142	2076	Amy Ostrow	26	Gaithersburg MD	53:01	49:50	8:02
+192	30/173	2004	Melissa Nash	32	Olney MD	51:23	49:55	8:02
+193	31/173	1442	Hetty Irmer	32	Takoma Park MD	53:00	49:55	8:02
+194	32/173	1458	Joanne Jacobson	44	Potomac MD	51:04	49:57	8:03
+195	29/142	1170	Robin Funkhouser	26	Gaithersburg MD	51:23	49:58	8:03
+196	1/15	1399	Maddy Horan	14	Gaithersburg MD	51:16	49:59	8:03
+197	33/173	1185	Gail Gannon	41	Montgomery Vill	53:21	50:00	8:03
+198	42/247	1971	Lisa Moss	38	Rockville MD	51:37	50:07	8:04
+199	43/247	439	Anne Ackerman	39	Rockville MD	51:37	50:08	8:04
+200	44/247	626	Danielle Boggio	38	Millersville MD	51:29	50:15	8:06
+201	34/173	475	Melissa Andersen	43	Kensington MD	51:50	50:16	8:06
+202	45/247	596	Laini Bettencourt	35	Gaithersburg MD	51:36	50:18	8:06
+203	20/86	3348	Amy Padilla	22	Ft Meade MD	53:30	50:18	8:06
+204	32/173	558	Natalia Barrionuevo	31	Rockville MD	51:43	50:18	8:06
+205	21/86	634	Elizabeth Bolton	23	Washington DC	51:33	50:24	8:07
+206	33/173	1559	Annabel Khouri	32	Rockville MD	53:36	50:29	8:08
+207	22/86	2308	Ida Rosenblum	24	Greensboro NC	51:40	50:30	8:08
+208	46/247	1110	Sandra Fitzpatrick	37	Rockville MD	54:18	50:34	8:09
+209	47/247	234	Julie Ann Smith	37	Rockville MD	51:59	50:35	8:09
+210	35/173	1102	Cece Finan	41	Chevy Chase MD	53:55	50:38	8:09
+211	21/110	2115	Heidi Paxton	45	Herndon VA	53:46	50:39	8:09
+212	5/76	619	Donna Blumenauer	50	Germantown MD	51:46	50:40	8:10
+213	48/247	121	Amy Bunk	39	Falls Church VA	54:00	50:40	8:10
+214	6/76	2309	Cathie Rosenfeld	54	Olney MD	53:44	50:41	8:10
+215	30/142	2949	Kim Charmatz	29	Gaithersburg MD	52:08	50:44	8:10
+216	3/28	846	Ellen Cooper	55	Rockville MD	52:09	50:45	8:10
+217	49/247	3230	Susan King	36	Monrovia MD	53:57	50:49	8:11
+218	36/173	1615	Teri Kozlowski	43	New Market MD	52:05	50:49	8:11
+219	31/142	866	Hillary Crehan	26	Arlington VA	51:55	50:51	8:11
+220	34/173	2492	Keira Smith	30	Burke VA	54:11	50:51	8:11
+221	37/173	936	Sharlene Deskins	41	Seabrook MD	54:36	50:53	8:12
+222	23/86	1612	Erica Korb	22	Washington DC	53:54	50:53	8:12
+223	38/173	3368	Sharlene Deskins	41	.	54:37	50:53	8:12
+224	13/26	2697	Cezarina Viqueira	17	Germantown MD	52:05	50:57	8:12
+225	22/110	1456	Connie Jacobson	48	Rockville MD	54:59	51:01	8:13
+226	50/247	2261	Jennifer Renne	39	Greenbelt MD	52:10	51:02	8:13
+227	6/19	3291	Yolanda Perez	63	Takoma Park MD	54:09	51:02*	8:13
+228	23/110	1357	Lorri Heatwole	46	Gaithersburg MD	54:05	51:04	8:13
+229	24/110	485	Jill Andrews	45	Olney MD	54:12	51:05	8:14
+230	35/173	2206	Julie Quelet	31	Hagerstown MD	54:15	51:08	8:14
+231	39/173	2672	Jeanne Ulrich	42	Jefferson MD	54:44	51:08	8:14
+232	7/76	205	Roxane Sismanidis	50	Washington DC	54:34	51:09	8:14
+233	24/86	949	Yana Dieringer	24	Bethesda MD	54:11	51:10	8:14
+234	51/247	449	Vivian Adkins	36	Potomac MD	54:12	51:10	8:14
+235	52/247	1813	Katya Marin	36	Bethesda MD	54:17	51:14	8:15
+236	36/173	1431	Laura Hustead	32	Bethesda MD	54:18	51:18	8:16
+237	37/173	2787	Stephanie Willis	33	Silver Spring M	D   52:29	51:18	8:16
+238	53/247	1826	Anne Martin	35	Chevy Chase MD	54:28	51:18	8:16
+239	54/247	2047	Melissa O'connor	38	G'burg MD	54:36	51:19	8:16
+240	25/110	1520	Nancy Karabaic	46	Silver Spring M	D   52:43	51:19	8:16
+241	26/110	3349	Holly Mcgulgan	45	Mclean VA	52:49	51:21	8:16
+242	27/110	2207	Robin Quinn	45	Woodbridge VA	54:51	51:22	8:16
+243	28/110	2450	Jean Silverman	49	Kensington MD	54:59	51:25	8:17
+244	38/173	663	Jessica Bravo	31	Germantown MD	52:30	51:26	8:17
+245	39/173	1732	Elaine Lippmann	32	Silver Spring M	D   54:40	51:27	8:17
+246	55/247	1358	Kimberly Heifetz	35	Washington DC	54:41	51:27	8:17
+247	40/173	1982	Nina Munck	41	Bethesda MD	52:56	51:29	8:18
+248	41/173	2760	Kim Westervelt	43	Clarksburg MD	54:37	51:31	8:18
+249	32/142	873	Diana Crysler	26	Columbia MD	54:47	51:33	8:18
+250	40/173	2323	Adriana Ruan	31	Potomac MD	54:41	51:35	8:18
+251	41/173	1532	Amy Katz	34	Potomac MD	54:41	51:35	8:18
+252	2/15	1755	Hananh Lowell	13	Catlett VA	54:51	51:35	8:18
+253	42/173	1318	Tish Halle	43	Gaithersburg MD	54:38	51:35	8:18
+254	56/247	2228	Kimberly Ramsay	35	Kensington MD	54:38	51:35	8:18
+255	8/76	1261	Cathy Gormley	50	Bowie MD	54:55	51:36	8:19
+256	57/247	2823	Weining Xu	36	Centreville VA	52:50	51:39	8:19
+257	33/142	2305	Laura Rosenbaum	28	Gaithersburg MD	54:55	51:42	8:20
+258	29/110	759	Maria Cepeda	47	Silver Spring M	D   52:57	51:43	8:20
+259	58/247	2906	Marie Whiteis	38	Germantown MD	55:48	51:47	8:20
+260	30/110	1591	Audrey Klein	47	Gaithersburg MD	55:32	51:48	8:21
+261	34/142	2620	Chani Thakkar	28	Damascus MD	53:17	51:53	8:21
+262	35/142	984	Gina Domis	28	Wash DC	55:52	51:56	8:22
+263	42/173	2714	Courtney Wallin	30	Rockville MD	53:00	51:56	8:22
+264	25/86	606	Cassie Billinger	22	Montgomery Vill	55:03	51:58	8:22
+265	43/173	1765	Meredith Luther	33	Kensington MD	55:30	52:00	8:22
+266	36/142	1075	Rabna Fana	28	Washington DC	53:36	52:01	8:23
+267	44/173	611	Nancy Blanco	30	Bethesda MD	55:04	52:02	8:23
+268	43/173	641	Phyllis Borreda	44	Brookeville MD	55:09	52:04	8:23
+269	59/247	723	Christine Caprario	35	Mount Airy MD	55:37	52:05	8:23
+270	44/173	1021	Margaret Eccles	43	Derwood MD	55:23	52:05	8:23
+271	9/76	1077	Behnaz Fardshisheh	53	Potomac MD	53:14	52:06	8:23
+272	4/28	1846	Maryvonne Maupriez-Ma	57	Bethesda MD	53:14	52:06	8:24
+273	60/247	878	Leslie Curtis	39	Laurel MD	55:29	52:08	8:24
+274	14/26	1906	Mary Megorden	18	Gaithersburg MD	55:32	52:09	8:24
+275	45/173	1588	Wendy Klecker	41	Gaithersburg MD	55:57	52:11	8:24
+276	37/142	2789	Barbara Wilson	28	Gaithersburg MD	53:48	52:13	8:25
+277	45/173	3236	Jessica Bruner	31	Gaithersburg MD	53:33	52:14	8:25
+278	38/142	197	Catherine Poole	29	Germantown MD	55:16	52:14	8:25
+279	61/247	703	Virginia Bute-Riley	35	Beltsville MD	56:07	52:17	8:25
+280	10/76	2533	Jennifer Sproul	51	Gaithersburg MD	56:14	52:20	8:26
+281	62/247	2867	Beth Mcavoy	38	Chevy Chase MD	55:43	52:23	8:26
+282	26/86	537	Michelle Bahe	23	Silver Spring M	D   55:59	52:25	8:26
+283	46/173	3234	Jennifer Clark	32	Vienna VA	55:40	52:27	8:27
+284	27/86	2847	Kristen Zeligs	22	Rockville MD	55:48	52:29	8:27
+285	63/247	625	Lauren Bogart	39	Gaithersburg MD	54:01	52:29	8:27
+286	46/173	652	Suzette Bradbury	44	Kensington MD	55:59	52:30	8:27
+287	1/3	1038	Margery Elliott	73	Bethesda MD	52:35	52:34*	8:28
+288	5/28	827	Lynne Collard	56	Gaithersburg MD	55:41	52:40	8:29
+289	64/247	1861	Kelly Mcconnell	39	Germantown MD	55:58	52:43	8:29
+290	1/5	2481	Betty Smith	65	Rockville MD	53:59	52:44*	8:30
+291	28/86	1319	Rebekah Hamelink	22	Gaithersburg MD	56:09	52:45	8:30
+292	39/142	425	Jennifer Porter	28	Woodstock MD	56:22	52:49	8:30
+293	40/142	1348	Carrie Hastings	27	Westminster MD	56:04	52:55	8:31
+294	41/142	2298	Susan Rohrer	25	Hanover PA	56:04	52:55	8:31
+295	47/173	2739	Jill Weber	32	Chevy Chase MD	56:09	52:55	8:31
+296	65/247	2836	Erica Yuan	38	Kensington MD	56:08	52:58	8:32
+297	66/247	2552	Elizabeth Sterling	37	Olney MD	56:27	52:58	8:32
+298	3/15	3017	Mathilde Arandia	12	Mclean VA	53:04	52:59	8:32
+299	29/86	2195	Alyssa Prorok	23	Brookeville MD	56:49	52:59	8:32
+300	31/110	2567	Dianne Strite	49	Damascus MD	56:53	52:59	8:32
+301	42/142	2800	Elizabeth Wolfe	28	Washington DC	54:16	52:59	8:32
+302	48/173	1378	April Hipkins	30	Germantown MD	56:25	52:59	8:32
+303	47/173	647	Laura Boyer	42	Silver Spring M	D   56:54	53:01	8:32
+304	30/86	1743	Heidi Logothetti	23	Alexandria VA	56:03	53:01	8:32
+305	67/247	173	Rosie Kelly	39	Wasington DC	56:11	53:01	8:32
+306	68/247	434	Karyn Tauber	37	Gaithersburg MD	54:33	53:05	8:33
+307	48/173	2709	Diana Walker	40	Olney MD	54:32	53:06	8:33
+308	49/173	2114	Lisa Pavia	41	Silver Spring M	D   56:32	53:08	8:33
+309	7/19	3310	Katherine Sandler	64	Bethesda MD	56:17	53:10	8:34
+310	32/110	1511	Lori Kaleikau	47	Germantown MD	54:35	53:10	8:34
+311	49/173	1204	Nicole Geifman	34	Rockville MD	54:38	53:11	8:34
+312	11/76	3246	Susie Loutoo	53	Gaithersburg MD	56:27	53:13	8:34
+313	43/142	2278	Cortney Riese	27	Silver Spring M	D   57:22	53:16	8:35
+314	44/142	2737	Tina Webb	28	Rockville MD	56:45	53:16	8:35
+315	69/247	1462	Jane Jakubczak	39	Bethesda MD	56:27	53:17	8:35
+316	31/86	961	Kathryn Dincher	22	Baltimore MD	56:27	53:17	8:35
+317	45/142	2644	Rebecca Topham	29	Rockville MD	56:46	53:17	8:35
+318	70/247	2751	Traci Weinstein	36	Potomac MD	58:49	53:18	8:35
+319	71/247	2677	Erin Uy	37	Derwood MD	56:34	53:19	8:35
+320	72/247	2051	Catherine O'hara	37	Boyds MD	56:26	53:20	8:35
+321	46/142	891	Katie Daniel	27	Alexandria VA	56:34	53:21	8:36
+322	33/110	1311	Vanessa Haigler	46	Washington DC	54:32	53:22	8:36
+323	47/142	2602	Stacey Tate	25	Washington DC	56:34	53:23	8:36
+324	73/247	1191	Cara Garretson	38	Gaithersburg MD	57:15	53:24	8:36
+325	48/142	488	Sallie Ka Angus	26	Silver Spring M	D   56:41	53:26	8:36
+326	50/173	1525	Claudia Karwoski	43	Germantown MD	57:15	53:27	8:36
+327	12/76	2387	Catherine Schuler	53	Silver Spring M	D   56:51	53:27	8:37
+328	51/173	2449	Suzanne Siguenza	44	Silver Spring M	D   57:27	53:27	8:37
+329	49/142	1690	Katherine Lefert	27	Washington DC	57:29	53:29	8:37
+330	50/173	692	Lauren Buchheister	33	College Park MD	56:45	53:29	8:37
+331	51/173	2131	Claudia Perez	32	Gaithersburg MD	56:34	53:29	8:37
+332	50/142	548	Natalie Barakat	26	Rockville MD	57:32	53:29	8:37
+333	52/173	1314	Denise Haley	42	Greencastle PA	56:55	53:29	8:37
+334	53/173	2183	Stefanie Powers	41	Silver Spring M	D   56:36	53:30	8:37
+335	52/173	3206	Phyllis Fagell	32	Bethesda MD	54:41	53:31	8:37
+336	32/86	1664	Nathalie Lavine	24	Arlington VA	54:49	53:32	8:37
+337	53/173	1144	Nikki Fraser	31	Rockville MD	57:02	53:33	8:38
+338	74/247	2684	Nancy Vanderweele	39	Silver Spring M	D   57:17	53:34	8:38
+339	54/173	1344	Ronda Hartzel	32	Gaithersburg MD	56:46	53:34	8:38
+340	75/247	612	Marlow Blankenship	39	Boyds MD	56:42	53:35	8:38
+341	54/173	624	Olafia Bogan	42	Germantown MD	57:03	53:35	8:38
+342	55/173	3351	Shannon Hopkins	40	Mt. Airy MD	54:52	53:37	8:38
+343	56/173	2436	Nancye Shipe	43	Gaithersburg MD	57:00	53:41	8:39
+344	57/173	1741	Kathleen Lockhart	43	Silver Spring M	D   57:30	53:42	8:39
+345	51/142	607	Kathy Black	28	Arlington VA	57:33	53:43	8:39
+346	52/142	2686	Megan Vaughn	29	Olney MD	54:58	53:44	8:39
+347	76/247	725	Kristen Carey	35	Frederick MD	56:55	53:45	8:39
+348	58/173	2015	Glenda Nelson	41	Rockville MD	55:13	53:45	8:39
+349	34/110	1598	Linda Klischer	45	Rockville MD	57:19	53:46	8:40
+350	13/76	3211	Linda Ridenour	52	Chevy Chase MD	56:53	53:47	8:40
+351	77/247	2120	Rachel Peck	35	Rockville MD	56:52	53:47	8:40
+352	59/173	1081	Pattie Farrell	42	Millersville MD	55:00	53:47	8:40
+353	78/247	745	Whitney Carroll	38	Damascus MD	56:50	53:49	8:40
+354	60/173	940	Linda Devlin	44	Gaithersburg MD	57:29	53:49	8:40
+355	79/247	1652	Jennifer Laroche	37	Bethesda MD	56:57	53:50	8:40
+356	61/173	645	Elise Bowman	41	Derwood MD	57:33	53:51	8:40
+357	80/247	593	Jennifer Berzok	35	Washington DC	57:43	53:52	8:40
+358	15/26	552	Ashley Barkakati	15	North Potomac M	D   55:18	53:52	8:41
+359	53/142	1468	Lindsay Jauss	29	Kensington MD	57:03	53:54	8:41
+360	55/173	2765	Leigh Ann Wheaton	30	Silver Spring M	D   57:54	53:58	8:42
+361	81/247	862	Kristine Craig	38	Gaithersburg MD	57:06	53:59	8:42
+362	35/110	2951	Lily Burch	47	Potomac MD	59:01	53:59	8:42
+363	82/247	840	Deborah Constantine	38	Mt. Airy MD	57:49	54:01	8:42
+364	83/247	629	Cynthia Bohne	36	Bethesda MD	57:13	54:02	8:42
+365	56/173	3207	Susan Schaefer	33	Bethesda MD	55:13	54:03	8:42
+366	84/247	1694	Melissa Leighton	36	Rockville MD	58:08	54:04	8:43
+367	85/247	2364	Priscilla Sandoval	39	Gaithersburg MD	57:16	54:04	8:43
+368	86/247	903	Hillary Davidson	38	Bethesda MD	57:57	54:05	8:43
+369	14/76	3003	Michele Laur	54	Rockville MD	58:11	54:06	8:43
+370	62/173	2348	Barbara Sable	42	Potomac MD	55:15	54:07	8:43
+371	36/110	2448	Julieta Siegel	45	Rockville MD	55:36	54:09	8:43
+372	54/142	1844	Jennifer Matysczak	28	Rockville MD	57:25	54:09	8:43
+373	33/86	3036	Erica Stein	23	Gaithersburg MD	58:04	54:10	8:43
+374	55/142	1543	Ana Maria Kelley	28	Germantown MD	55:15	54:12	8:44
+375	56/142	796	Gina Cimineri	26	Germantownt MD	57:32	54:12	8:44
+376	37/110	1350	Cheryl Havenstein	49	Mt. Airy MD	55:28	54:12	8:44
+377	87/247	2443	Elena Shuvalov	36	Clarksburg MD	57:26	54:14	8:44
+378	88/247	2646	Deb Toro	37	Chevy Chase MD	57:45	54:15	8:44
+379	89/247	1493	Franca Jones	36	Clarksburg MD	57:53	54:17	8:45
+380	15/76	1403	Sharon Horowitz	53	Silver Spring M	D   57:46	54:19	8:45
+381	57/173	2233	Christine Rath	30	Silver Spring M	D   57:22	54:20	8:45
+382	38/110	1936	Naomi Miner	49	Rockville MD	57:24	54:21	8:45
+383	4/15	1917	Stefanie Merritt	-1	Alexandria VA	55:33	54:22*	8:45
+384	16/76	1987	Martha Murphy	50	Gaithersburg MD	57:43	54:22	8:45
+385	63/173	1225	Alicia Gilbert	43	Rockville MD	57:27	54:23	8:46
+386	58/173	2564	Michele Strachan	34	Kensington MD	58:20	54:25	8:46
+387	17/76	500	Mariefran Armstrong	52	Rockville MD	58:23	54:26	8:46
+388	90/247	806	Miriam Clinton	35	Burke VA	58:09	54:31	8:47
+389	6/28	604	Ann Billes	56	Silver Spring M	D   57:54	54:32	8:47
+390	91/247	1152	Monique Freitas	37	Rockville MD	57:34	54:32	8:47
+391	92/247	2302	Alexandra Rose	36	Rockville MD	55:48	54:36	8:48
+392	64/173	2905	Donna Mcbride	41	Rockville MD	57:57	54:37	8:48
+393	93/247	516	Trish Audi	35	Ashton MD	57:39	54:37	8:48
+394	94/247	1572	Jenny Kimball	35	Rockville MD	57:39	54:37	8:48
+395	65/173	2999	Lesley Leonard	40	Frederick MD	58:08	54:38	8:48
+396	39/110	820	Miriam Cohen	47	Potomac MD	58:14	54:39	8:48
+397	66/173	1247	Elissa Goldfarb	44	Potomac MD	58:15	54:40	8:48
+398	34/86	1418	Leslie Hristov	24	Annandale VA	58:02	54:43	8:49
+399	95/247	1995	Karen Murrell	38	Silver Spring M	D   58:08	54:44	8:49
+400	67/173	2766	Guissella Wheeler	42	Kensington MD	58:07	54:49	8:50
+401	96/247	1964	Renee Morris	35	Stone Ridge VA	58:15	54:50	8:50
+402	40/110	883	Belinda D'agostino	47	Falls Church VA	58:35	54:53	8:50
+403	59/173	412	Kathleen Shannon	33	Silver Spring M	D   58:16	54:54	8:50
+404	41/110	1769	Amy Lwin	45	North Potomac M	D   58:41	54:54	8:51
+405	97/247	188	Doris Nedved	39	Germantown MD	58:26	54:55	8:51
+406	60/173	2507	Bridget Sokol	31	Olney MD	58:29	54:55	8:51
+407	35/86	2634	Kerin Thornton	24	Columbia MD	58:22	54:55	8:51
+408	61/173	1835	Lizabeth Massey	30	Germantown MD	58:05	54:55	8:51
+409	62/173	2568	Jennifer Strouble	32	Clarksburg MD	58:06	54:56	8:51
+410	57/142	1074	Amy Falls	27	Gaithersburg MD	58:39	54:58	8:51
+411	58/142	2402	Malverta Scott	29	Corona NY	58:57	54:58	8:51
+412	59/142	2908	Meredith Moerschbache	25	Silver Spring M	D   58:29	54:59	8:51
+413	98/247	1697	Elizabeth Lemmo	38	Olney MD	56:28	55:00	8:51
+414	99/247	1126	Gabrielle Fontana	39	Chevy Chase MD	58:23	55:02	8:52
+415	100/247	2042	Christine Nuyen	36	Gaithersburg MD	58:11	55:03	8:52
+416	36/86	812	Danielle Coghlan	23	Leesburg VA	58:28	55:07	8:53
+417	63/173	1752	Jane Doe	34	Stone Ridge VA	58:36	55:10	8:53
+418	101/247	1746	Christine Long	38	Boyds MD	58:43	55:11	8:53
+419	16/26	1570	Ann Kim	19	Silver Spring M	D   59:01	55:12	8:53
+420	60/142	1349	Nora Hattery	26	Baltimore MD	58:30	55:13	8:54
+421	2/5	24	Tami Graf	69	Lusby MD	55:19	55:14*	8:54
+422	102/247	1952	Anne Moore	38	N Bethesda MD	58:30	55:16	8:54
+423	68/173	1245	Margaret Gold	42	Rockville MD	58:30	55:16	8:54
+424	7/28	2193	Mary Proctor	57	Reston VA	58:25	55:17	8:54
+425	64/173	982	Victoria Dols	33	Rockville MD	1:00:24	55:23	8:55
+426	103/247	3307	Lesley Green	36	Sterling VA	59:01	55:24	8:55
+427	104/247	941	Maureen Dewey	36	North Potomac M	D   58:58	55:24	8:55
+428	105/247	1280	Sarah Greenberg	36	Bethesda MD	59:13	55:25	8:55
+429	65/173	1197	Jojo Gaul	30	Kensington MD	59:01	55:25	8:55
+430	66/173	1294	Sandra Guinan	32	Montgomery Vill	58:42	55:25	8:55
+431	17/26	975	Alexandra Dobbs	17	Olney MD	58:35	55:26	8:56
+432	61/142	1189	Maria F Garcia	25	Silver Spring M	D   59:08	55:26	8:56
+433	42/110	1135	Mary Foster	49	Gaithersburg MD	59:17	55:27	8:56
+434	106/247	1426	Micki Hultquist	35	Gaithersburg MD	56:58	55:28	8:56
+435	67/173	109	Alison Bartleman	32	Bethesda MD	56:58	55:28	8:56
+436	107/247	2203	Donna Quackenbush	37	Germantown MD	56:40	55:28	8:56
+437	43/110	2590	Daphna Szanto	46	Germantown MD	59:04	55:30	8:56
+438	62/142	988	Kelly Dooley	29	Rockville MD	58:56	55:31	8:57
+439	63/142	913	Mieke De Boer	25	Chevy Chase MD	58:39	55:31	8:57
+440	44/110	1782	Iris Madison	49	Gaithersburg MD	59:07	55:32	8:57
+441	108/247	1805	Kim Manthei	35	Rockville MD	59:05	55:33	8:57
+442	68/173	570	Christine Beall	33	Gaithersburg MD	59:05	55:33	8:57
+443	69/173	1671	Sonya Leaman	40	Germantown MD	59:22	55:34	8:57
+444	70/173	2753	Lee Ann Weir	41	Rockville MD	59:14	55:36	8:57
+445	109/247	1849	Sara Mayer	36	Rockville MD	58:44	55:36	8:57
+446	69/173	1529	Debbie Kates	31	Sterling VA	58:56	55:37	8:57
+447	64/142	2584	Christine Sun	29	Potomac Falls V	A   58:56	55:37	8:57
+448	45/110	698	Linda Burrell	47	Derwood MD	59:14	55:37	8:57
+449	71/173	2262	Zaida Revilla	41	Gaithersburg MD	56:44	55:38	8:58
+450	37/86	751	Hannah Castillo	23	Ijamsville MD	59:17	55:38	8:58
+451	72/173	2294	Kim Roche	44	Rockville MD	59:00	55:38	8:58
+452	18/76	1653	Jeanne Larrison	51	Chesapeake MD	59:52	55:39	8:58
+453	70/173	1382	Tara Hoffman	34	Falls Church VA	59:34	55:39	8:58
+454	110/247	2289	Holly Roberts	36	Millersville MD	59:12	55:40	8:58
+455	111/247	3032	Lenore Gelman	37	Gaithersburg MD	58:43	55:40	8:58
+456	38/86	1707	Amy Levine	22	Rockville MD	59:11	55:40	8:58
+457	65/142	1275	Jennifer Green	29	Kensington MD	59:13	55:40	8:58
+458	19/76	885	Jean Dailey	53	Rockville MD	59:14	55:41	8:58
+459	112/247	2998	Sarah Leonard	36	Gaithersburg MD	59:10	55:41	8:58
+460	20/76	1205	Lynn Geisert	54	Chevy Chase MD	59:44	55:42	8:58
+461	8/19	2828	Linda Yarr	62	Bethesda MD	56:55	55:43	8:58
+462	39/86	438	Michaela Acker	20	Leesburg VA	58:57	55:44	8:59
+463	66/142	649	Brianna Boyle	27	Fairfax VA	58:57	55:44	8:59
+464	113/247	2438	Natalie Shirley	36	Gaithersburg MD	59:14	55:45	8:59
+465	73/173	2575	Gilda Stubin	42	Silver Spring M	D   59:21	55:46	8:59
+466	114/247	1654	Deanna Larsen	37	Falls Church VA	59:13	55:48	8:59
+467	67/142	2611	Christine Taylor	29	Potomac MD	57:01	55:50	9:00
+468	71/173	599	Alicia Bevington	30	Chevy Chase MD	59:16	55:50	9:00
+469	74/173	791	Bianca Christensen	40	Silver Spring M	D   59:32	55:51	9:00
+470	75/173	1041	Linda Ellison-Dejew	41	Germantown MD	59:22	55:51	9:00
+471	40/86	917	Julia Debernardis	24	Silver Spring M	D   59:08	55:53	9:00
+472	41/86	1907	Sarah Megorden	21	Gaithersburg MD	59:18	55:54	9:00
+473	76/173	1034	Jan Eisner	43	Bethesda MD	59:45	55:56	9:00
+474	42/86	829	Annie Collins	24	Bethesda MD	57:32	55:56	9:01
+475	68/142	1829	Kristi Martinsen	26	Silver Spring M	D   59:55	56:00	9:01
+476	115/247	1640	Lisa Lafrance	38	Natick MA	59:50	56:00	9:01
+477	43/86	1255	Doria Goorevich	22	Gaithersburg MD	57:22	56:00	9:01
+478	21/76	707	Susan Byrne	50	Olney MD	59:49	56:04	9:02
+479	72/173	2031	Kathleen Nicolls	33	Germantown MD	59:35	56:07	9:02
+480	69/142	2215	Stephanie Raden	27	Germantown MD	59:35	56:07	9:02
+481	70/142	2281	Connie Righter	26	Laplata MD	1:01:16	56:08	9:02
+482	73/173	2430	Marina Shellhaas	34	Rockville MD	57:41	56:08	9:02
+483	46/110	2772	Karen Whitesell	46	North Potomac M	D   59:57	56:09	9:03
+484	47/110	1594	Kc Kleinman	45	Silver Spring M	D   59:09	56:09	9:03
+485	116/247	1278	Stefanie Greenberg	37	Rockville MD	59:41	56:10	9:03
+486	48/110	1604	Chiyo Kobayashi	45	Bethesda MD	57:37	56:13	9:03
+487	117/247	2144	Lorin Pfeil	36	Arlington VA	59:31	56:17	9:04
+488	77/173	2576	Patty Stull	43	Clarksburg MD	57:27	56:21	9:05
+489	71/142	1657	Carin Larson	28	Washington DC	1:00:16	56:22	9:05
+490	49/110	1575	Leslie King	45	Arlington VA	1:01:33	56:23	9:05
+491	74/173	588	Meredith Berlin	31	Rockville MD	57:51	56:24	9:05
+492	75/173	1190	Glenda Garcia	32	Bethesda MD	59:58	56:26	9:05
+493	78/173	865	Brett Crawford	40	Silver Spring M	D   59:51	56:27	9:05
+494	50/110	2456	Karen Simon	47	Bethesda MD	59:49	56:27	9:05
+495	79/173	916	Ana Deandreis	43	Bethesda MD	59:42	56:28	9:06
+496	22/76	2897	Melissa Polott	50	Gaithersburg MD	1:00:32	56:28	9:06
+497	118/247	1120	Laurie Flyer	38	Rockville MD	58:00	56:28	9:06
+498	80/173	1956	Maria Morasso	44	Bethesda MD	59:42	56:28	9:06
+499	119/247	757	Helen Cawley	37	Bethesda MD	1:00:10	56:29	9:06
+500	120/247	906	Sarah Davis	37	Silver Spring M	D 1:00:17	56:33	9:06
+501	51/110	118	Carrie Brancart	45	Herndon VA	1:00:13	56:36	9:07
+502	81/173	1706	Karen Lesser	42	Bethesda MD	1:02:06	56:40	9:08
+503	82/173	2641	Donna Tisdale	42	Kensington MD	1:00:13	56:40	9:08
+504	72/142	2137	Bethany Perry	28	Germantown MD	1:00:14	56:40	9:08
+505	83/173	2558	Gretchen Stiers	43	Silver Spring M	D 1:00:11	56:41	9:08
+506	18/26	1116	Michelle Fleshner	17	Bethesda MD	1:00:24	56:43	9:08
+507	84/173	1032	Debra Egloff	40	Montgomery Vill	1:00:40	56:43	9:08
+508	121/247	2021	Laura Newberry	35	Smithsburg MD	1:00:46	56:43	9:08
+509	85/173	2217	Hanada Rados	44	Germantown MD	1:00:12	56:43	9:08
+510	73/142	429	Maura Ardike	25	Bethesda MD	1:00:21	56:44	9:08
+511	122/247	2991	Leigh Bluestein	38	Germantown MD	1:00:12	56:44	9:08
+512	76/173	1510	Naoko Kakinuma	34	Rockville MD	1:00:47	56:45	9:08
+513	77/173	2512	Caryn Solomon	34	Bethesda MD	1:00:50	56:49	9:09
+514	78/173	1593	Debbie Kleinbord	34	Bethesda MD	1:00:50	56:50	9:09
+515	44/86	2442	Christine Shrout	23	Rockville MD	1:00:28	56:52	9:10
+516	123/247	2379	Jodi Scholes	38	Vienna VA	58:08	56:54	9:10
+517	124/247	2300	Tabatha Romack	37	Gaithersburg MD	1:00:29	56:58	9:10
+518	125/247	2950	Karen Anselmo	35	Rockville MD	1:00:35	56:58	9:10
+519	9/19	2886	Mary Mccann	62	Silver Spring M	D 1:02:14	56:59	9:11
+520	79/173	2429	Lori Shell	32	Gaithersburg MD	1:00:37	56:59	9:11
+521	80/173	1843	Emily Matusek	34	Derwood MD	1:00:18	57:00	9:11
+522	86/173	1824	Brauna Martin	41	Potomac MD	1:00:46	57:00	9:11
+523	87/173	741	Suzanne Carrillo	44	North Potomac M	D 1:00:49	57:02	9:11
+524	126/247	1758	Heather Lucas	35	Bethesda MD	1:00:38	57:02	9:11
+525	81/173	648	Johanna Boyers	34	Vienna VA	1:00:17	57:04	9:11
+526	45/86	45	Jade Zimerman	22	Rockville MD	1:00:52	57:13	9:13
+527	5/15	2431	Deborah Sheperd	10	Hughesville MD	1:02:21	57:14	9:13
+528	127/247	1627	Joan Kubeluis	39	Rockville MD	58:48	57:15	9:13
+529	88/173	2257	Charisse Reiner	42	Potomac MD	1:00:55	57:16	9:13
+530	74/142	1269	Sandra Grance	25	Alexandria VA	1:00:29	57:17	9:14
+531	128/247	1770	Kirsten Lyke	39	Washington DC	1:02:25	57:18	9:14
+532	75/142	2846	Cindy Zeldin	29	North Bethesda	M 1:01:09	57:20	9:14
+533	89/173	1086	Sharon Fein	44	Potomac MD	1:01:05	57:21	9:14
+534	82/173	2136	Shannon Perry	31	Rockville MD	1:00:53	57:23	9:15
+535	129/247	1698	Maria Lempicki	37	Gaithersburg MD	1:00:30	57:23	9:15
+536	76/142	2005	Tara Nasvaderani	28	Rockville MD	1:00:53	57:24	9:15
+537	90/173	2692	Robin Vestal	41	Laurel MD	1:00:58	57:26	9:15
+538	83/173	220	Megan Torpey	30	Bethesda MD	1:00:44	57:26	9:15
+539	84/173	1402	Dawn Horne	30	Washington DC	1:00:56	57:28	9:15
+540	85/173	884	Diana Daca	31	Germantown MD	58:56	57:29	9:16
+541	77/142	3294	Anna Early	28	Leesburg VA	1:00:54	57:30	9:16
+542	19/26	2445	Gabriela Siegel	16	Rockville MD	1:01:12	57:30	9:16
+543	46/86	1504	Jaclyn Kachinski	23	Arlington VA	1:00:44	57:37	9:17
+544	91/173	660	Carol Braun	42	Rockville MD	1:01:05	57:38	9:17
+545	6/15	1923	Alexandra Miles	14	Clarksburg MD	1:01:28	57:38	9:17
+546	47/86	2508	Sok Sokun	22	Abingdon MD	1:01:41	57:39	9:17
+547	130/247	2608	Denise Taylor	39	Rockville MD	1:00:57	57:43	9:18
+548	52/110	2432	Cindy Sherman	48	Washington DC	1:00:58	57:44	9:18
+549	10/19	748	Linda Carter	64	Potomac MD	1:01:03	57:45	9:18
+550	8/28	2855	Annamaria Zimmerman	55	Gaithersburg MD	1:00:47	57:46	9:18
+551	53/110	2463	Catherine Sims	48	Gaithersburg MD	1:03:08	57:49	9:19
+552	20/26	2866	Caryn Klein	15	Rockville MD	1:01:17	57:49	9:19
+553	54/110	1363	Pamela Hendershot	46	Brookeville MD	1:01:58	57:51	9:19
+554	55/110	511	Lyda Astrove	46	Rockville MD	1:02:54	57:51	9:19
+555	86/173	1564	Amy Kiger	34	Silver Spring M	D 1:01:39	57:54	9:20
+556	131/247	2246	Suzanne Redding	38	Frederick MD	1:01:47	57:54	9:20
+557	23/76	2209	Ellen Quinn	52	Washington DC	1:02:58	57:55	9:20
+558	24/76	2573	Elma Stuart	53	Kensington MD	1:02:58	57:56	9:20
+559	87/173	3029	Amy Krupka	32	Olney MD	1:03:00	57:57	9:20
+560	132/247	526	Theresa Avila Curtis	36	Silver Spring M	D 1:02:02	58:01	9:21
+561	133/247	2360	Patricia Sanders	36	Germantown MD	1:01:46	58:01	9:21
+562	25/76	653	Linda Brady	52	Rockville MD	1:01:48	58:05	9:21
+563	21/26	1004	Lily Dubin	15	Potomac MD	1:03:14	58:06	9:21
+564	48/86	1447	Jessica Iwamoto	21	Falls Church VA	1:01:45	58:07	9:22
+565	7/15	1603	Emily Knuth	14	Gaithersburg MD	1:03:25	58:08	9:22
+566	9/28	2425	Jennifer Shea	55	Bethesda MD	1:01:55	58:08	9:22
+567	92/173	2911	Mary Burgess	43	Rockville MD	1:01:47	58:09	9:22
+568	93/173	2729	Claudia Waters	42	Lake Ridge VA	1:01:30	58:10	9:22
+569	88/173	679	Scottie Brown	31	Rockville MD	1:01:51	58:10	9:22
+570	8/15	2055	Jessie Oconnor	14	Gaithersburg MD	1:03:27	58:10	9:22
+571	89/173	2892	Barbara Heath	33	Reston VA	1:01:40	58:12	9:22
+572	94/173	1373	Carrie Hibbard	42	Gaithersburg MD	1:01:26	58:12	9:22
+573	134/247	1312	Seble Hailu	38	Alexandria VA	1:01:31	58:13	9:23
+574	56/110	569	Sharon Beall	48	Germantown MD	1:01:53	58:17	9:23
+575	135/247	1817	Karin Marshall	35	Rockville MD	1:01:29	58:17	9:23
+576	49/86	2603	Lian Tay	24	West Windsor NJ	1:01:47	58:18	9:23
+577	90/173	1321	Theresa Han	33	North Potomac M	D 1:01:20	58:18	9:23
+578	50/86	2224	Kavitha Ramaswamy	23	Rockville MD	1:01:47	58:19	9:23
+579	78/142	1739	Kristen Locatelli	26	Gaithersburg MD	1:01:29	58:19	9:23
+580	57/110	838	Su Cha Connolly	45	Derwood MD	1:01:25	58:19	9:24
+581	79/142	504	Suzanne Arteaga	27	Arlington VA	1:02:05	58:20	9:24
+582	91/173	2580	Asha Subramanian	33	Kensington MD	1:02:18	58:20	9:24
+583	80/142	1659	Kristen Latham	25	Gaithersburg MD	1:01:31	58:20	9:24
+584	9/15	2056	Maggie Oconnor	12	Gaithersburg MD	1:03:38	58:21	9:24
+585	136/247	2832	Susan Youll	39	Bethesda MD	1:01:40	58:23	9:24
+586	26/76	1383	Ann Hoffman	50	Rockville MD	1:01:28	58:25	9:24
+587	137/247	2549	Natacha Steimer	35	Bethesda MD	1:01:45	58:26	9:25
+588	27/76	681	Kathryn Brown	50	Rockville MD	1:02:13	58:26	9:25
+589	81/142	2816	Brooke Wright	27	Bethesda MD	1:02:01	58:27	9:25
+590	28/76	871	Reiko Crowe	52	Woodbine MD	1:02:24	58:27	9:25
+591	82/142	539	Katie Baick	26	Columbia MD	1:01:32	58:28	9:25
+592	95/173	855	Beth Core	42	Potomac MD	1:02:17	58:28	9:25
+593	96/173	849	Laura Cooper	44	Alexandria VA	1:01:43	58:28	9:25
+594	138/247	1407	Dawn Hough	39	Derwood MD	1:01:44	58:28	9:25
+595	51/86	2928	Dayna Krakower	22	Rockville MD	1:01:45	58:31	9:25
+596	58/110	2181	Sarah Powell	47	Greenbelt MD	1:03:44	58:32	9:26
+597	97/173	2733	Caroline Waugaman	40	Centreville VA	1:01:44	58:33	9:26
+598	83/142	574	Susan Beatty	25	College Park MD	1:02:28	58:33	9:26
+599	139/247	2545	Hilleary Stecker	35	Arlington VA	1:02:15	58:35	9:26
+600	59/110	1112	Regina Flagg	45	Silver Spring M	D 1:01:47	58:38	9:27
+601	92/173	1838	Sheila Mathew	33	Poolesville MD	1:03:44	58:39	9:27
+602	98/173	2506	Deborah Sokobin	43	Rockville MD	1:02:42	58:40	9:27
+603	60/110	960	Carolyn Dimitri	46	Silver Spring M	D 1:02:42	58:41	9:27
+604	52/86	563	Caroline Battista	23	Arlington VA	1:02:16	58:42	9:27
+605	99/173	2604	Cynthia Taylor	43	Frederick MD	1:01:59	58:42	9:27
+606	140/247	1369	Holly Hesen	39	Glenwood MD	1:02:29	58:43	9:27
+607	100/173	992	Dana Dosik	40	Silver Spring M	D   59:54	58:44	9:27
+608	84/142	1334	Kate Harback	28	Bethesda MD	1:03:54	58:47	9:28
+609	101/173	456	Moji Akinnibi	43	Gaithersburg MD	1:02:46	58:48	9:28
+610	141/247	2303	Pamela Rose	37	Gaithersburg MD	1:02:42	58:51	9:29
+611	142/247	1670	Jacquelin Le	39	Rockville MD	1:01:58	58:51	9:29
+612	93/173	2483	Alyssa Smith	33	Gaithersburg MD	1:02:42	58:51	9:29
+613	102/173	2881	Jodi Steagal	40	Ellicott City M	D 1:02:40	58:53	9:29
+614	103/173	1968	Shantha Moses	44	Silver Spring M	D 1:03:59	58:54	9:29
+615	104/173	2750	Jill Weiner	40	Rockville MD	1:02:53	58:55	9:29
+616	143/247	2723	Debbie Warshaw	39	N. Potomac MD	1:02:53	58:55	9:29
+617	144/247	3203	Tierney King	36	Comus MD	1:02:52	58:55	9:29
+618	145/247	1949	Carolyn Montrose	36	Chevy Chase MD	1:02:20	58:59	9:30
+619	105/173	1181	Jody Gamber	43	Annandale VA	1:02:48	58:59	9:30
+620	106/173	1040	Kristin Ellis	40	Chevy Chase MD	1:02:06	58:59	9:30
+621	29/76	1211	Maureen George	50	Bethesda MD	1:02:09	58:59	9:30
+622	146/247	1265	Tina Gough	38	Frederick MD	1:00:16	59:00	9:30
+623	94/173	728	Angela Carey	32	Rockville MD	1:02:17	59:00	9:30
+624	61/110	2606	Jane Taylor	46	Silver Spring M	D 1:02:49	59:00	9:30
+625	11/19	581	Melinda Berge	61	Annapolis MD	1:00:02	59:00	9:30
+626	30/76	157	Frances Gipson	52	Gaithersburg MD	1:02:46	59:00	9:30
+627	147/247	2250	Rena Reese	39	Potomac MD	1:02:47	59:01	9:30
+628	62/110	2020	Pam Newbern	45	Fort Meade MD	1:03:02	59:01	9:30
+629	95/173	2089	Jennifer Pak	30	Silver Spring M	D 1:02:26	59:02	9:30
+630	107/173	1012	Eden Durbin	40	Kensington MD	1:02:40	59:05	9:31
+631	96/173	680	Marlo Brown	30	Silver Spring M	D 1:04:11	59:05	9:31
+632	108/173	3205	Jody Gan	40	Kensington MD	1:02:39	59:05	9:31
+633	109/173	2482	Carolyn Smith	44	Kensington MD	1:02:40	59:07	9:31
+634	148/247	1215	Dee Getachew	39	Alexandria VA	1:02:26	59:08	9:31
+635	63/110	1119	Beth Floyd	45	Rockville MD	1:02:17	59:08	9:31
+636	149/247	912	Ann Dayton	37	New Market MD	1:04:27	59:08	9:31
+637	97/173	2494	Erica Smith	30	Derwood MD	1:04:22	59:10	9:32
+638	98/173	2319	Lisa Rowell	30	Gaithersburg MD	1:04:22	59:10	9:32
+639	99/173	1267	Beth Goulston	33	Arlington VA	1:03:12	59:11	9:32
+640	64/110	549	Sara Barakat	46	Potomac MD	1:02:22	59:11	9:32
+641	110/173	1986	Susan Murphy	42	Welcome MD	1:04:20	59:12	9:32
+642	111/173	1586	Malia Kishore	40	Great Falls VA	1:02:37	59:13	9:32
+643	100/173	1985	Kristen Murphy	32	Alexandria VA	1:02:56	59:13	9:32
+644	31/76	1244	Marge Gold	51	Gaithersburg MD	1:02:35	59:14	9:32
+645	32/76	1195	Becky Gatwood	54	Silver Spring M	D 1:02:37	59:14	9:32
+646	101/173	817	Risa Cohen	31	Germantown MD	1:02:38	59:14	9:32
+647	33/76	2087	Kathy Pagana	54	Kensington MD	1:02:52	59:15	9:33
+648	85/142	2160	Anita Pinto	27	Catharpin VA	1:02:26	59:16	9:33
+649	86/142	1270	Becky Grandin	25	Rockville MD	1:04:34	59:18	9:33
+650	34/76	2455	Shauna Simon	51	Bethesda MD	1:00:31	59:18	9:33
+651	112/173	2980	Rebecca Neff	40	Gaithersburg MD	1:03:17	59:18	9:33
+652	150/247	2981	Paula Mckeon	38	Gaithersburg MD	1:03:17	59:19	9:33
+653	151/247	2370	Sharon Savage	37	Potomac MD	1:03:23	59:21	9:33
+654	87/142	2329	Adele Ruger	28	Bethesda MD	1:03:21	59:21	9:33
+655	88/142	843	Stacy Cook	27	Bethesda MD	1:02:40	59:22	9:34
+656	65/110	694	Lois Buitano	47	Potomac MD	1:03:18	59:22	9:34
+657	152/247	1540	Christy Keller	35	Silver Spring M	D 1:02:34	59:23	9:34
+658	153/247	2182	Christy Powell	37	Rockville MD	1:02:35	59:23	9:34
+659	89/142	496	Julie Arehart	26	Arlington VA	1:02:57	59:24	9:34
+660	53/86	2524	Sara Spears	24	Baltimore MD	1:02:58	59:25	9:34
+661	154/247	1809	Maria Marcolin Nola	35	Poolesville MD	1:03:01	59:26	9:34
+662	90/142	2521	Kathleen Spain	28	Silver Spring M	D 1:03:05	59:26	9:34
+663	113/173	1808	Carla Marcolin	44	Rockville MD	1:03:03	59:28	9:35
+664	22/26	661	Marisa Braun	15	Rockville MD	1:02:56	59:29	9:35
+665	155/247	440	Jessica Adams	36	Silver Spring M	D 1:03:02	59:31	9:35
+666	156/247	2440	Linda Shoemaker	39	Rockville MD	1:03:04	59:32	9:35
+667	54/86	2883	Lauren Crow	20	Olney MD	1:02:54	59:33	9:35
+668	114/173	2879	Michelle Braun	42	Gaithersburg MD	1:03:26	59:33	9:35
+669	55/86	1154	Rosemary Frey	24	Silver Spring M	D 1:03:19	59:34	9:36
+670	56/86	2043	Susan Nyhus	23	Silver Spring M	D 1:03:19	59:34	9:36
+671	157/247	2532	Barbara Spittle	35	Laplata MD	1:04:44	59:35	9:36
+672	91/142	2542	Jennifer Stange	26	Rockville MD	1:03:21	59:35	9:36
+673	92/142	2687	Kelly Ventura	29	Rockville MD	1:03:33	59:36	9:36
+674	158/247	2614	Cozette Teasley	38	Brooklyn MD	1:03:23	59:37	9:36
+675	115/173	1549	Katherine Kemper-Dean	43	Silver Spring M	D 1:03:38	59:38	9:36
+676	93/142	189	Martha Nguyen	28	Bethesda MD	1:02:43	59:39	9:36
+677	102/173	1645	Robin Lang	33	Bethesda MD	1:03:38	59:40	9:37
+678	35/76	3220	Linda Wilson	50	Glendale MD	1:03:28	59:41	9:37
+679	159/247	1391	Sunanda Holmes	39	Bethesda MD	1:03:22	59:43	9:37
+680	66/110	1644	Tanya Landry	46	Potomac MD	1:00:57	59:43	9:37
+681	103/173	2265	Laurie Reyes	32	Frederick MD	1:02:57	59:43	9:37
+682	94/142	636	Yuen Boon	27	Gaithersburg MD	1:02:49	59:44	9:37
+683	104/173	2325	Lauren Rubin	31	Unknown .	1:03:45	59:47	9:38
+684	116/173	2944	Jodi Reff	42	Rockville MD	1:01:36	59:49	9:38
+685	105/173	639	Candy Boparai	32	Silver Spring M	D 1:03:00	59:50	9:38
+686	117/173	2559	Susan Stillman	42	Potomac MD	1:03:28	59:53	9:39
+687	160/247	1618	Kristin Krause	37	Potomac MD	1:03:28	59:53	9:39
+688	67/110	1199	Robyn Gault	48	Gaithersburg MD	1:03:16	59:54	9:39
+689	161/247	119	Dawn Brandley	35	Springfield VA	1:03:38	59:54	9:39
+690	106/173	2968	Juanita Avila	32	Arlington VA	1:03:03	59:55	9:39
+691	95/142	2696	Tammy Villines	29	Rockville MD	1:03:43	59:55	9:39
+692	12/19	2982	Barbara Attadi	63	Rockville MD	1:03:25	59:56	9:39
+693	162/247	2783	Tiffanny Williams	37	Silver Spring M	D 1:03:58	59:56	9:39
+694	68/110	1544	Marlene Kelly	49	Gaithersburg MD	1:01:18	59:57	9:39
+695	163/247	995	Betty Dowdy	36	Gaithersburg MD	1:03:49	59:57	9:39
+696	164/247	1380	Jodie Hofacre	35	Arlington VA	1:01:07	59:59	9:40
+697	57/86	637	Zhi Boon	23	Gaithersburg MD	1:03:03	59:59	9:40
+698	118/173	1626	Suzanne Krudys	43	Rockville MD	1:03:03	1:00:00	9:40
+699	165/247	691	Melissa Bryant	36	Kensington MD	1:03:04	1:00:00	9:40
+700	166/247	2706	Lesley Wagner	39	Rockville MD	1:05:06	1:00:00	9:40
+701	36/76	1010	Janet Dunlop	52	Potomac MD	1:04:01	1:00:02	9:40
+702	167/247	924	Arlis Dellapa	39	Rockville MD	1:04:01	1:00:02	9:40
+703	119/173	1020	Cathy Eberhardt	44	Potomac MD	1:04:01	1:00:03	9:40
+704	58/86	786	Allison Chin	22	Silver Spring M	D 1:03:20	1:00:04	9:40
+705	10/15	1726	Arminda Lima	1	Silver Spring M	D 1:03:47	1:00:07	9:41
+706	59/86	3333	Kristin Fleschner	24	Washington DC	1:03:23	1:00:09	9:41
+707	168/247	2341	Holly Ryan	36	Gaithersburg MD	1:03:24	1:00:09	9:41
+708	120/173	847	Jackie Cooper	43	Lutherville MD	1:03:24	1:00:11	9:41
+709	169/247	2356	Debra Saltz	38	Ellicott City M	D 1:03:30	1:00:11	9:42
+710	37/76	2473	Deborah Skelton	51	Capitol Heights	1:04:11	1:00:14	9:42
+711	60/86	1989	Chrissy Murphy	23	Woodbine MD	1:03:56	1:00:16	9:42
+712	38/76	582	Bonnie Berger	51	Olney MD	1:05:21	1:00:16	9:42
+713	121/173	1474	Terri Jensen	44	Clarksburg MD	1:04:08	1:00:18	9:43
+714	122/173	192	Patty Oakley	41	Gaithersburg MD	1:03:37	1:00:19	9:43
+715	170/247	1384	Lara Hogston	37	Silver Spring M	D 1:04:18	1:00:19	9:43
+716	171/247	3273	Mary Slotkowski	36	Rockville MD	1:04:19	1:00:20	9:43
+717	123/173	1735	Diane Litofsky	40	Rockville MD	1:03:31	1:00:25	9:44
+718	107/173	2710	Rebecca Walker	34	Potomac MD	1:03:33	1:00:26	9:44
+719	108/173	182	Sarah Long	32	Clarksburg MD	1:01:56	1:00:27	9:44
+720	69/110	2874	Ann Crim	46	Gaithersburg MD	1:04:17	1:00:29	9:44
+721	109/173	1692	Gina Leib	33	Potomac MD	1:07:26	1:00:30	9:45
+722	96/142	2708	Heather Walenga	26	Silver Spring M	D 1:04:24	1:00:30	9:45
+723	61/86	877	Molly Curran	21	Laytonsville MD	1:04:14	1:00:33	9:45
+724	110/173	2671	Amy Ullman	33	Potomac MD	1:07:32	1:00:35	9:45
+725	10/28	3208	Joan Tapocik	58	Germantown MD	1:04:12	1:00:36	9:46
+726	124/173	236	Sandra Lemaire	44	Silver Spring M	D 1:04:38	1:00:36	9:46
+727	111/173	935	Diana Desantolo	33	Gaithersburg MD	1:04:13	1:00:37	9:46
+728	13/19	1536	Karen Kautz	62	Silver Spring M	D 1:04:15	1:00:41	9:46
+729	172/247	2596	Kate Talbot	37	Washington DC	1:04:22	1:00:44	9:47
+730	112/173	586	Elisa Berkowitz	34	Bethesda MD	1:04:23	1:00:45	9:47
+731	113/173	143	Elena Dove	32	Laytonsville MD	1:04:01	1:00:47	9:47
+732	114/173	2476	Lisa Sloane	33	Ss MD	1:04:43	1:00:51	9:48
+733	115/173	501	Sarah Arnett	32	Germantown MD	1:04:29	1:00:56	9:49
+734	70/110	207	Karen Smith	48	Rockville MD	1:05:04	1:00:57	9:49
+735	125/173	2531	Christina Spiezio	41	Silver Spring M	D 1:06:12	1:01:00	9:49
+736	39/76	1108	Dianne Fisher	51	Silver Spring M	D 1:06:14	1:01:00	9:49
+737	97/142	1978	Candace Mulcahy	29	Rockville MD	1:04:18	1:01:01	9:49
+738	126/173	567	Judi Baxter	43	Gaithersburg MD	1:06:13	1:01:02	9:50
+739	173/247	1251	Anne Golla	36	Washington DC	1:06:11	1:01:04	9:50
+740	71/110	2703	Lynda Vonbargen	49	Brookeville MD	1:04:58	1:01:05	9:50
+741	116/173	1560	Tina Kiang	30	Rockville MD	1:04:39	1:01:06	9:50
+742	174/247	1878	Jackie Mcguigan	37	Rockville MD	1:02:40	1:01:07	9:51
+743	72/110	853	Charlotte Corbett	46	Potomac MD	1:04:37	1:01:07	9:51
+744	40/76	3004	Maria Nickerson	51	Winter Park FL	1:05:13	1:01:07	9:51
+745	73/110	1550	Susan Kendzie	49	Kensington MD	1:04:46	1:01:10	9:51
+746	175/247	2470	Heather Sine	38	Washington DC	1:05:19	1:01:10	9:51
+747	74/110	1368	Robin Hershey	47	Potomac MD	1:04:41	1:01:12	9:51
+748	127/173	1488	Mary Johnston	40	Kensington MD	1:04:46	1:01:12	9:51
+749	98/142	690	Gabrielle Bryant	29	Rockville MD	1:06:23	1:01:14	9:52
+750	128/173	2232	Julie Rasicot	42	Silver Spring M	D 1:06:27	1:01:14	9:52
+751	99/142	763	Katie Chambers	25	Annapolis MD	1:04:35	1:01:16	9:52
+752	75/110	3005	Joan Nickerson	47	Gibsonia PA	1:05:23	1:01:17	9:52
+753	129/173	1918	Jolly Mesepam	42	Beltsville MD	1:02:30	1:01:18	9:52
+754	117/173	2243	Lee Read	33	Silver Spring M	D 1:04:54	1:01:23	9:53
+755	41/76	1033	Rona Eisen	53	Bethesda MD	1:06:34	1:01:24	9:53
+756	176/247	2406	Lorena Segura	36	Rockville MD	1:06:35	1:01:24	9:53
+757	177/247	546	Kim Band	39	Potomac MD	1:06:29	1:01:25	9:54
+758	178/247	560	Cindy Baruch	39	Gaithersburg MD	1:06:38	1:01:26	9:54
+759	118/173	738	Laura Carpenter	34	Hagerstown MD	1:06:33	1:01:26	9:54
+760	179/247	2306	Rebecca Rosenberg	38	Kensington MD	1:06:40	1:01:26	9:54
+761	180/247	550	Shari Barash	37	Rockville MD	1:05:26	1:01:30	9:54
+762	181/247	1713	Samantha Lewis	37	Herndon VA	1:05:27	1:01:31	9:54
+763	23/26	1361	Julieta Heldenbrand	17	Silver Spring M	D 1:05:14	1:01:32	9:55
+764	62/86	469	Katie Ambrose	24	Olney MD	1:05:18	1:01:33	9:55
+765	182/247	734	Sheila Carmines	39	Silver Spring M	D 1:05:10	1:01:34	9:55
+766	63/86	859	Jaclyn Coulter	24	Greenbelt MD	1:06:41	1:01:35	9:55
+767	130/173	898	Tamara Darvish	42	Potomac MD	1:02:39	1:01:35	9:55
+768	42/76	2655	Maria Triantis	53	Silver Spring M	D 1:05:36	1:01:36	9:55
+769	14/19	2597	Kathryn Tam	61	Potomac MD	1:05:34	1:01:37	9:55
+770	76/110	2145	Phuong Pham	45	Boyds MD	1:06:43	1:01:38	9:55
+771	43/76	2635	Patricia Thornton	52	Brookeville MD	1:05:36	1:01:40	9:56
+772	44/76	2925	Linda Spitzer	53	Brookeville MD	1:06:41	1:01:40	9:56
+773	100/142	2044	Mary O'connell	25	Rockville MD	1:06:44	1:01:41	9:56
+774	45/76	1356	Judy Hearst	53	Laytonsville MD	1:06:41	1:01:41	9:56
+775	101/142	2840	Jean Zachariasiewi	27	Washington DC	1:05:16	1:01:50	9:57
+776	131/173	2146	Thien-Kim Pham	43	Silver Spring M	D 1:06:58	1:01:52	9:58
+777	183/247	1870	Kate Mcduffie	37	Wheaton MD	1:07:06	1:01:56	9:58
+778	119/173	2863	Laura Zweig	32	Washington DC	1:05:20	1:01:58	9:59
+779	120/173	2162	Jennifer Piorko	33	Damascus MD	1:05:20	1:01:59	9:59
+780	121/173	1097	Rosie Ferraro	34	Rockville MD	1:07:10	1:02:04	10:00
+781	77/110	2554	Linda Stewart	48	Burke VA	1:06:03	1:02:06	10:00
+782	78/110	2251	Catherine Rehm	48	Gaithersburg MD	1:05:42	1:02:08	10:00
+783	132/173	1614	Bari Kotler	40	Germantown MD	1:07:10	1:02:09	10:00
+784	133/173	739	Deborah Carr	43	Bethesda MD	1:05:52	1:02:12	10:01
+785	184/247	2344	Sandra Rye	37	Pomfret MD	1:07:25	1:02:17	10:02
+786	79/110	3248	Kimberly Isreal	46	Burtonsville MD	1:03:24	1:02:22	10:03
+787	64/86	2814	Megan Woolheater	24	Gaithersburg MD	1:06:19	1:02:24	10:03
+788	102/142	3350	Sara Moothart	28	Rockville MD	1:11:45	1:02:25	10:03
+789	185/247	1203	Margery Gehan	35	Gaithersburg MD	1:07:33	1:02:25	10:03
+790	186/247	1933	Jennifer Millstone	39	Rockville MD	1:07:34	1:02:26	10:03
+791	46/76	2794	Kathryn Winsberg	54	Bethesda MD	1:07:39	1:02:26	10:03
+792	134/173	535	Alethea Bacos	43	Rockville MD	1:07:34	1:02:27	10:03
+793	80/110	752	Mary Rose Catena	46	Washington DC	1:06:24	1:02:33	10:04
+794	135/173	2594	Kimberly Tait	40	Boyds MD	1:06:32	1:02:38	10:05
+795	81/110	1000	Ellen Dragotto	45	Washington DC	1:06:33	1:02:43	10:06
+796	103/142	1607	Yanina Kogan	28	Wheaton MD	1:08:06	1:02:46	10:06
+797	104/142	766	Ho-Yan Chan	27	Washington DC	1:06:42	1:02:46	10:06
+798	105/142	2279	Darcey Rigdon	29	Falls Church VA	1:07:49	1:02:47	10:07
+799	187/247	1291	Chloe Gross	37	Washington DC	1:06:43	1:02:47	10:07
+800	188/247	1587	Lynn Kitterman	39	Bowie MD	1:06:15	1:02:50	10:07
+801	106/142	1288	Kelly Grinham	26	Germantown MD	1:08:06	1:02:54	10:08
+802	189/247	863	Kirstin Crane	37	Gaithersburg MD	1:06:15	1:02:54	10:08
+803	190/247	2683	Carla Vanbeek	36	Bethesda MD	1:06:15	1:02:54	10:08
+804	191/247	2358	Theresa Sammarco	38	N. Bethesda MD	1:06:37	1:02:57	10:08
+805	136/173	1271	Cheryl Grandinetti	41	Clarksburg MD	1:06:40	1:02:57	10:08
+806	192/247	3026	Stacey Theodorou	35	Arlington VA	1:06:33	1:03:00	10:09
+807	82/110	1063	Karylsue Evans	46	Gaithersburg MD	1:07:03	1:03:00	10:09
+808	65/86	483	Patty Ahrens	24	Baltimore MD	1:06:32	1:03:00	10:09
+809	11/15	432	Ashley Peppel	10	Germantown MD	1:06:44	1:03:01	10:09
+810	122/173	2382	Elyse Schraeder	32	Baltimore MD	1:06:07	1:03:03	10:09
+811	193/247	2565	Young Strasser	38	Potomac MD	1:07:01	1:03:03	10:09
+812	194/247	821	Leslie Cohen	38	North Potomac M	D 1:06:07	1:03:03	10:09
+813	123/173	1066	Liz Everson	32	Arlington VA	1:08:18	1:03:04	10:09
+814	195/247	1103	Laura Fingerhood	38	Potomac MD	1:08:07	1:03:06	10:10
+815	83/110	2383	Elizabeth Schrayer	45	Rockville MD	1:06:42	1:03:06	10:10
+816	47/76	2424	Judy Sharpe	50	Rio Rancho NM	1:04:28	1:03:06	10:10
+817	48/76	1470	Kathleen Jeffries	50	Falls Church VA	1:08:26	1:03:10	10:10
+818	196/247	722	Michele Canzoneri	38	Frederick MD	1:07:00	1:03:12	10:11
+819	137/173	1946	Lisa Moeller	43	Gaithersburg MD	1:06:31	1:03:16	10:11
+820	66/86	1029	Elisabeth Edwards	23	Arlington VA	1:08:29	1:03:19	10:12
+821	84/110	1874	Tracy Mcgillivary	48	Bethesda MD	1:06:50	1:03:19	10:12
+822	138/173	668	Lisa Briscoe	41	Rockville MD	1:07:05	1:03:25	10:13
+823	124/173	2194	Jessica Prorok	30	Olney MD	1:07:20	1:03:29	10:13
+824	12/15	3279	Josephine Bouquet	14	Potomac MD	1:07:22	1:03:31	10:14
+825	11/28	2659	Maida Tryon	58	Silver Spring M	D 1:08:38	1:03:31	10:14
+826	107/142	1178	Meghan Gallardo	27	Herndon VA	1:08:50	1:03:34	10:14
+827	125/173	1083	Monica Faucette	33	Silver Spring M	D 1:07:10	1:03:36	10:15
+828	108/142	1863	Melissa Mccrea	29	Baltimore MD	1:07:11	1:03:37	10:15
+829	15/19	170	Blair Jones	62	Washington DC	1:09:00	1:03:37	10:15
+830	126/173	2930	Jennifer Sheriff	34	Ijamsville MD	1:08:50	1:03:38	10:15
+831	16/19	2045	Mary Ann O'connor	64	Reston VA	1:06:49	1:03:39	10:15
+832	109/142	2675	Amanda Underwood	25	Rockville MD	1:08:45	1:03:41	10:15
+833	127/173	2401	Laurie Scott	32	Ashburn VA	1:08:46	1:03:41	10:15
+834	197/247	1115	Claudia Flatau	38	Rockville MD	1:08:46	1:03:42	10:15
+835	128/173	1934	Masoomeh Mina	33	Montgomery Vill	1:04:52	1:03:46	10:16
+836	49/76	2423	Elyse Sharpe	53	Gaithersburg MD	1:05:08	1:03:47	10:16
+837	110/142	2716	Jennifer Walter	25	Gaithersburg MD	1:07:59	1:03:56	10:18
+838	139/173	3006	Sally Chisholm	44	Rockville MD	1:09:03	1:03:57	10:18
+839	111/142	2435	Doris Shim	28	Silver Spring M	D 1:08:03	1:03:57	10:18
+840	112/142	3277	Laura Willard	26	Washington DC	1:09:04	1:03:58	10:18
+841	140/173	2221	Susan Rail	40	Rockville MD	1:09:07	1:04:02	10:19
+842	50/76	126	Rosie Cassidy	52	Rockville MD	1:07:22	1:04:02	10:19
+843	141/173	1194	Margaret Gates	42	Rockville MD	1:05:17	1:04:03	10:19
+844	12/28	1439	Clare Imholtz	59	Beltsville MD	1:09:07	1:04:06	10:19
+845	85/110	1687	Soon Lee	49	Laurel MD	1:07:11	1:04:07	10:19
+846	86/110	2538	Donna St. George	45	North Bethesda	M 1:08:05	1:04:07	10:20
+847	2/3	890	Betty Dameron	70	Fredericksburg	V 1:04:19	1:04:13*	10:21
+848	51/76	3020	Diane Ring	50	Bethesda MD	1:07:23	1:04:16	10:21
+849	24/26	2915	Nicole Melnick	16	Bethesda MD	1:07:23	1:04:17	10:21
+850	198/247	2213	Jennifer Rabin`	36	Rockville MD	1:08:17	1:04:19	10:22
+851	199/247	471	Debby Amsellem	39	Rockville MD	1:05:56	1:04:24	10:22
+852	142/173	1970	Ruth Moss	40	Laytonsville MD	1:09:38	1:04:27	10:23
+853	200/247	227	Amy Westerman	39	Amissville VA	1:07:38	1:04:28	10:23
+854	52/76	1606	Trish Koch	52	Silver Spring M	D 1:08:33	1:04:29	10:23
+855	67/86	450	Michelle Adkins	24	Gaithersburg MD	1:07:32	1:04:29	10:23
+856	113/142	1908	Emily Mellet	28	Arlington VA	1:08:38	1:04:33	10:24
+857	201/247	1876	Lisa Mcgonigal	36	Kensington MD	1:09:53	1:04:34	10:24
+858	129/173	1173	Jennifer Gaies	30	Germantown MD	1:09:46	1:04:35	10:24
+859	13/28	2717	Wanda Walters	55	Bethesda MD	1:09:39	1:04:38	10:24
+860	130/173	2693	Shannon Vetter	34	Frederick MD	1:07:50	1:04:39	10:25
+861	202/247	585	Heidi Berkowitz	39	Gaithersburg MD	1:09:50	1:04:40	10:25
+862	114/142	881	Stacey Cwynar	29	Ashburn VA	1:08:46	1:04:41	10:25
+863	203/247	2389	Melanie Schwabe	37	Chevy Chase MD	1:08:47	1:04:42	10:25
+864	87/110	2143	Barbara Pfarr	46	Bowie MD	1:08:32	1:04:45	10:26
+865	204/247	426	Heather Brown	35	Hendersonville	N 1:08:39	1:04:45	10:26
+866	131/173	2622	Sheila Thibodeau	33	Gaithersburg MD	1:08:39	1:04:46	10:26
+867	68/86	2560	Susie Stockwell	22	Arlington VA	1:08:49	1:04:48	10:26
+868	69/86	2526	Elizabeth Spehalski	22	Bethesda MD	1:08:49	1:04:48	10:26
+869	205/247	2756	Laurie Wenger	38	Bethesda MD	1:07:56	1:04:49	10:26
+870	70/86	2945	Ariel Schumer	22	Rockville MD	1:06:37	1:04:50	10:26
+871	14/28	477	Janice Anderson	59	Bethesda MD	1:08:14	1:04:51	10:27
+872	115/142	2335	Colleen Ruppert	25	Baltimore MD	1:10:13	1:04:54	10:27
+873	88/110	2198	Lissa Provenzo	46	Gaithersburg MD	1:08:52	1:04:59	10:28
+874	71/86	1723	Nathasha Lim	23	Silver Spring M	D 1:10:11	1:05:02	10:28
+875	72/86	2025	Kimberly Nguyen	24	Silver Spring M	D 1:10:12	1:05:02	10:28
+876	73/86	3259	Franfelen Stuean	23	Bethesda MD	1:08:43	1:05:04	10:29
+877	15/28	2509	Pat Solan	59	Vienna VA	1:08:57	1:05:07	10:29
+878	206/247	1818	Kimberly Martin	37	Germantown MD	1:10:24	1:05:13	10:30
+879	143/173	683	Leslie Brown	40	Silver Spring M	D 1:10:26	1:05:13	10:30
+880	132/173	2887	Jessica Wills	33	Chevy Chase MD	1:08:29	1:05:16	10:31
+881	116/142	747	Rebecca Carroll	28	Montgomery Vill	1:08:27	1:05:16	10:31
+882	133/173	2831	Kimberly Yost	30	Gaithersburg MD	1:08:28	1:05:16	10:31
+883	16/28	2767	Gladys White	56	Gaithersburg MD	1:09:18	1:05:19	10:31
+884	89/110	1624	Rhoda Kroeker	46	Rockville MD	1:09:04	1:05:19	10:31
+885	117/142	2817	Lisa Wright	28	Silver Spring M	D 1:09:23	1:05:22	10:32
+886	207/247	2386	Jolisse Schuler	35	Derwood MD	1:10:39	1:05:23	10:32
+887	134/173	2295	Megan Rodham	34	Vienna VA	1:08:35	1:05:24	10:32
+888	135/173	489	Sarah Angus	33	Frederick MD	1:08:35	1:05:24	10:32
+889	144/173	185	Kathleen Mchugh	41	Amissville VA	1:08:35	1:05:25	10:32
+890	118/142	2180	Roseanne Powell	27	Clarksburg MD	1:09:21	1:05:25	10:32
+891	145/173	1082	Desiree Farve	44	Gaithersburg MD	1:08:42	1:05:26	10:32
+892	13/15	2698	Regina Viqueira	14	Germantown MD	1:06:36	1:05:27	10:32
+893	136/173	2702	Gaylin Vogel	31	Washington DC	1:09:16	1:05:28	10:32
+894	90/110	2148	Teresa Phillips	49	Montpelier VA	1:09:13	1:05:31	10:33
+895	208/247	3338	Heather Nathans	37	Silver Spring M	D 1:10:45	1:05:35	10:34
+896	91/110	2070	Amy Ortlieb	46	Kensington MD	1:09:18	1:05:41	10:35
+897	25/26	2296	Nataly Rodriguez	16	Silver Spring M	D 1:09:24	1:05:42	10:35
+898	119/142	2952	Jenni Strabley	28	Rockville MD	1:09:26	1:05:43	10:35
+899	137/173	3314	Kathryn Scaletti	33	Frederick MD	1:11:03	1:05:44	10:35
+900	146/173	2624	Robin Thieme	43	Kensington MD	1:09:21	1:05:46	10:35
+901	74/86	1898	Robyn Mcquillen	23	Bethesda MD	1:11:13	1:05:54	10:37
+902	147/173	2761	Heather Westing	40	Rockville MD	1:09:43	1:05:55	10:37
+903	92/110	3270	Kathy Martin	48	Mclean VA	1:07:24	1:05:56	10:37
+904	120/142	987	Janet Doody	25	Germantown MD	1:09:19	1:05:57	10:37
+905	53/76	1988	Mary Murphy	50	Woodbine MD	1:10:03	1:05:58	10:37
+906	138/173	3268	Diva Peterson	31	Bethesda MD	1:11:10	1:06:02	10:38
+907	209/247	815	Michelle Cohen	36	Rockville MD	1:11:35	1:06:03	10:38
+908	75/86	797	Elizabeth Cissel	24	Gaithersburg MD	1:09:26	1:06:04	10:38
+909	93/110	2880	Jan Branscome	48	Germantown MD	1:09:43	1:06:09	10:39
+910	94/110	1400	Nannette Horan	46	Gaithersburg MD	1:09:51	1:06:10	10:39
+911	139/173	466	Tanya Alteras	33	Silver Spring M	D 1:10:06	1:06:17	10:40
+912	140/173	2821	Elizabeth Wyatt	31	Rockville MD	1:09:51	1:06:17	10:40
+913	76/86	2268	Karla Reznikov	24	Derwood MD	1:11:21	1:06:19	10:41
+914	141/173	1392	Shella Holmes	30	Mclean VA	1:09:57	1:06:21	10:41
+915	17/28	2315	Mary Rouse	57	Gaithersburg MD	1:11:31	1:06:21	10:41
+916	95/110	1045	Marilyn Emery	46	Kensington MD	1:10:01	1:06:24	10:42
+917	77/86	2490	Sarah C Smith	24	Adamstown MD	1:11:44	1:06:25	10:42
+918	148/173	3222	Lauri Schlo	42	Ellicott City M	D 1:10:18	1:06:27	10:42
+919	149/173	530	Vicki Aylor	44	Silver Spring M	D 1:10:18	1:06:27	10:42
+920	96/110	2563	Mary Stone	49	My Airy MD	1:11:38	1:06:28	10:42
+921	18/28	2649	Trudie Toussaint	58	Rockville MD	1:11:36	1:06:31	10:43
+922	210/247	978	Janice Dobson	39	Thurmont MD	1:09:48	1:06:31	10:43
+923	121/142	816	Jaclyn Cohen	26	Baltimore MD	1:11:35	1:06:33	10:43
+924	211/247	1486	Julie Johnson	36	Bethesda MD	1:11:56	1:06:36	10:43
+925	150/173	822	Gail Cohen	43	Bethesda MD	1:11:56	1:06:36	10:43
+926	78/86	704	Rene Butters	24	N. Bethesda MD	1:11:52	1:06:45	10:45
+927	151/173	2612	Miriam Taylor	40	Bowie MD	1:11:54	1:06:46	10:45
+928	152/173	2139	Anthea Perti	43	Mclean VA	1:11:54	1:06:47	10:45
+929	142/173	165	Katherine Hohl	32	Adamstown MD	1:10:49	1:06:48	10:45
+930	122/142	2658	Nancy Truong	27	Germantown MD	1:10:57	1:06:51	10:46
+931	143/173	1672	Jocelyn Leatherwood	30	North Potomac M	D 1:11:58	1:06:51	10:46
+932	54/76	2891	Judity Middleton	50	Frederick MD	1:11:58	1:06:51	10:46
+933	153/173	2571	Darlene Stuart	44	Germantown MD	1:10:42	1:06:51	10:46
+934	79/86	1738	Amelia Lo	23	Washington DC	1:12:07	1:06:56	10:47
+935	123/142	2806	Elaine Wong	26	Silver Spring M	D 1:11:00	1:06:57	10:47
+936	3/5	1469	Evansmore Jean	65	Ellicott City M	D 1:12:26	1:07:07	10:48
+937	154/173	594	Grace Bestland	41	Brookeville MD	1:08:27	1:07:15	10:50
+938	212/247	2342	Doris Ryba	38	Washington Grov	1:08:28	1:07:16	10:50
+939	144/173	2253	Christine Reible-Gray	32	Germantown MD	1:12:25	1:07:17	10:50
+940	155/173	1258	Wendi Gordon	44	Laurel MD	1:12:39	1:07:22	10:51
+941	19/28	1452	Helen Jacobs	56	Gaithersburg MD	1:12:44	1:07:26	10:52
+942	213/247	2904	Rathini Vijayaverl	35	Potomac MD	1:12:43	1:07:27	10:52
+943	214/247	802	Kellie Clelland	36	Rockville MD	1:12:32	1:07:27	10:52
+944	156/173	2353	Cathy Salgado	43	Gaithersburg MD	1:12:38	1:07:29	10:52
+945	145/173	1887	Julie Mclain	32	Clarksville MD	1:11:00	1:07:29	10:52
+946	55/76	3021	Jull Robinson	51	Rockville MD	1:11:12	1:07:30	10:52
+947	146/173	1017	Naomi Dyer	33	North Bethesda	M 1:11:12	1:07:30	10:52
+948	124/142	1551	Rebecca Kennedy	28	Bethesda MD	1:11:46	1:07:40	10:54
+949	56/76	616	Karen Blass	52	North Bethesda	M 1:12:56	1:07:53	10:56
+950	147/173	2223	Ellyn Rainey	34	Greenbelt MD	1:11:43	1:07:55	10:56
+951	125/142	1896	Katelyn Mcnulty	27	Washington DC	1:11:53	1:07:58	10:57
+952	157/173	1629	Lina Kubli	41	Germantown MD	1:13:12	1:08:00	10:57
+953	20/28	2397	Justina Schwemberger	58	Rockville MD	1:13:01	1:08:01	10:57
+954	215/247	1328	Amy Hannum	35	Germantown MD	1:13:02	1:08:01	10:57
+955	216/247	630	Theresa Bohs	35	Damascus MD	1:13:02	1:08:01	10:57
+956	80/86	1893	Emily Mcmanaman	22	Gaithersburg MD	1:11:34	1:08:04	10:58
+957	148/173	2871	Malini Joel	30	Olney MD	1:11:47	1:08:05	10:58
+958	158/173	951	Jacquelin Dietrichson	40	Triangle VA	1:09:12	1:08:05	10:58
+959	217/247	675	Heidi Brodsky	39	Bethesda MD	1:12:14	1:08:11	10:59
+960	218/247	2589	Bernadett Sylvester	35	Silver Spring M	D 1:13:18	1:08:12	10:59
+961	97/110	1686	Sung Lee	45	Laurel MD	1:11:24	1:08:16	11:00
+962	4/5	2890	Lois Dicker	66	Wheaton MD	1:13:33	1:08:17	11:00
+963	81/86	2418	Christie Shahan	24	Washington DC	1:13:43	1:08:25	11:01
+964	126/142	2607	Christina Taylor	29	Bowie MD	1:09:35	1:08:27	11:01
+965		201	Carla Sabloff	0	Mclean VA	1:13:38	1:08:29	11:02
+966	219/247	538	Maggie Bahou	35	Rockville MD	1:13:43	1:08:30	11:02
+967	149/173	2776	Valerie Wilder	34	Fairfax VA	1:13:50	1:08:40	11:03
+968	150/173	2935	June Prakash	33	Arlington VA	1:13:56	1:08:42	11:04
+969	127/142	1146	April Freeburn	29	Centreville VA	1:14:09	1:08:56	11:06
+970	57/76	465	Cezarina Alonza	50	Germantown MD	1:14:05	1:09:03	11:07
+971	128/142	2467	Lauren Sinay	25	Olney MD	1:14:17	1:09:12	11:09
+972	98/110	1605	Deborah Kobernick	45	N. Bethesda MD	1:12:39	1:09:14	11:09
+973	159/173	1496	Heather Jordan	40	Gaithersburg MD	1:14:29	1:09:20	11:10
+974	160/173	2791	Renee Winkfield	44	Bowie MD	1:14:44	1:09:26	11:11
+975	58/76	179	Ellie Laumark	54	Silver Spring M	D 1:14:27	1:09:27	11:11
+976	151/173	3293	Deidra Fisher	32	Olney MD	1:14:35	1:09:27	11:11
+977	161/173	769	Ai-Mei Chang	42	Bethesda MD	1:13:10	1:09:31	11:12
+978	152/173	1466	Deborah Jansen	30	Washington DC	1:14:39	1:09:32	11:12
+979	129/142	1730	Jamie Linski	29	Washington DC	1:14:39	1:09:33	11:12
+980		2843	Susan Rasmussen		Gaithersburg MD	1:14:51	1:09:34	11:12
+981	21/28	2196	Colleen Prorok	58	Brookeville MD	1:14:48	1:09:41	11:13
+982	220/247	971	Virginia Dlamni	35	Seabrook MD	1:11:05	1:09:44	11:14
+983	82/86	1522	Mayookha Kariyawasam	23	Rockville MD	1:14:55	1:09:44	11:14
+984	59/76	123	Christina Caravoulias	51	Silver Spring M	D 1:14:52	1:09:47	11:14
+985	221/247	872	Stacey Cruse	35	Columbia MD	1:13:46	1:09:51	11:15
+986	222/247	2297	Tracey Rogers	38	Boyds MD	1:15:09	1:09:53	11:15
+987	153/173	2407	Luz Segura	34	Rockville MD	1:15:00	1:09:54	11:15
+988	223/247	2158	Claudia Pinto	37	Bethesda MD	1:13:19	1:09:54	11:15
+989	154/173	1467	Helen Jarecki	33	Rockville MD	1:15:12	1:09:55	11:16
+990	83/86	2837	Jennifer Yuen	23	Silver Spring M	D 1:13:42	1:09:57	11:16
+991	155/173	553	Jenn Barnes	31	Kensington MD	1:13:43	1:09:59	11:16
+992	60/76	1796	Patricia Maloney	53	Potomac MD	1:15:17	1:10:02	11:17
+993	84/86	2017	Tara Nesvaderani	22	Silver Spring M	D 1:13:35	1:10:05	11:17
+994	162/173	813	Sara Cohen	44	Gaithersburg MD	1:15:07	1:10:05	11:17
+995	156/173	1828	Victoria Martinez	32	Germantown MD	1:15:19	1:10:12	11:18
+996	157/173	2990	Linea Mackey	33	Arlington VA	1:15:49	1:10:31	11:21
+997	61/76	2963	Debi Fredrickson	50	Germantown MD	1:13:55	1:10:34	11:22
+998	99/110	146	Jeanette Edwards	48	Woodbridge VA	1:15:56	1:10:35	11:22
+999	100/110	2964	Talitha Appenzeller	46	Davenport IA	1:13:56	1:10:36	11:22
+1000	14/15	1611	Nicole Kopsidas	11	Rockville MD	1:12:10	1:10:36	11:22
+1001	62/76	2682	Deborah Van Dover	53	Monrovia MD	1:15:58	1:10:42	11:23
+1002	5/5	230	Jamie Wollard	67	Rockville MD	1:14:17	1:10:55	11:25
+1003	22/28	2868	Ellen Maryman	56	New Market MD	1:14:37	1:10:57	11:25
+1004	17/19	1953	Shirley Moore	63	Gaithersburg MD	1:16:13	1:11:02	11:26
+1005	101/110	1840	Karen Mathias	46	Silver Spring M	D 1:16:16	1:11:04	11:27
+1006	224/247	1972	Andrea Moss	37	Laurel MD	1:16:30	1:11:15	11:28
+1007	163/173	2264	Gloria Reyes	44	Rockville MD	1:16:31	1:11:16	11:29
+1008	130/142	1777	Caroline Mackey	25	Bethesda MD	1:16:35	1:11:18	11:29
+1009	15/15	1778	Susan Mackey	-1	North Potomac M	D 1:16:36	1:11:18*	11:29
+1010	225/247	1388	Gail Hollenbeck	39	Centreville VA	1:14:38	1:11:18	11:29
+1011	226/247	777	Renee Chen	36	Silver Spring M	D 1:16:32	1:11:19	11:29
+1012	102/110	1678	Jeong Hee Lee	47	Columbia MD	1:14:44	1:11:37	11:32
+1013	164/173	1622	Laura Kresse	43	Rockville MD	1:17:08	1:11:48	11:34
+1014	227/247	2474	Heather Slater	36	Rockville MD	1:17:06	1:11:49	11:34
+1015	228/247	2707	Kelly Wakefield	37	Purcellville VA	1:13:10	1:11:57	11:35
+1016	63/76	701	Jan Bussler	50	Silver Spring M	D 1:17:26	1:12:10	11:37
+1017	158/173	1649	Lysa Lantang	31	Germantown MD	1:15:38	1:12:13	11:38
+1018	229/247	1299	Karla Gutierrez	35	Silver Spring M	D 1:15:57	1:12:18	11:39
+1019	131/142	506	Anita Arya	26	Clarksburg MD	1:17:46	1:12:26	11:40
+1020	23/28	1379	Elaine Hirsch	55	Rockville MD	1:13:41	1:12:28	11:40
+1021	159/173	2888	Kristin Dow	34	Olney MD	1:17:59	1:12:43	11:43
+1022	132/142	1062	Lesley Evans	28	Germantown MD	1:17:54	1:12:47	11:43
+1023	24/28	1132	Mary Forte'	57	Frederick MD	1:17:51	1:12:48	11:43
+1024	133/142	1940	Angela Mitchell	25	Silver Spring M	D 1:17:59	1:12:53	11:44
+1025	103/110	1962	Pearleana Morris	48	Gaithersburg MD	1:18:07	1:12:53	11:44
+1026	64/76	2889	Carmen Benito Vessel	50	Kensington MD	1:14:08	1:12:54	11:44
+1027	160/173	1169	Michele Fuller	33	Bethesda MD	1:16:17	1:13:03	11:46
+1028	65/76	1298	Barbara Gusack	52	College Park MD	1:16:18	1:13:03	11:46
+1029	18/19	1682	Catheryn Lee	62	Rockville MD	1:18:09	1:13:05	11:46
+1030	230/247	1268	Erin Grace	39	Derwood MD	1:18:14	1:13:08	11:46
+1031	231/247	2354	Jouhayna Saliba	38	Olney MD	1:18:12	1:13:09	11:47
+1032	25/28	177	Lorraine Krawczyk	59	Dunkrirk MD	1:18:37	1:13:22	11:49
+1033	104/110	1264	Elise Gotay	49	Rockville MD	1:18:32	1:13:29	11:50
+1034	105/110	3042	Dianne Fischer	49	Rockville MD	1:18:47	1:13:30	11:50
+1035	232/247	2713	Antoinett Waller	37	Rockville MD	1:18:45	1:13:31	11:50
+1036	134/142	2923	Meredith Reed	26	Boyds MD	1:18:48	1:13:32	11:50
+1037	66/76	1148	Susan Freeburn	54	Kensington MD	1:18:46	1:13:32	11:50
+1038	233/247	2248	Rebecca Redman	37	Germantown MD	1:18:49	1:13:33	11:51
+1039	234/247	1024	Suni Edson	35	Silver Spring M	D 1:18:35	1:13:34	11:51
+1040	26/28	2541	Louise Stalter	59	Kensington MD	1:18:47	1:13:34	11:51
+1041	135/142	1200	Jonella Gavin	29	Alexandria VA	1:16:58	1:13:37	11:51
+1042	136/142	2454	Paula Simon	27	Silver Spring M	D 1:19:05	1:13:49	11:53
+1043	165/173	839	Linda Consorti	42	Hyattsville MD	1:17:30	1:13:50	11:53
+1044	161/173	1771	Cathlyn Lynch	34	Potomac MD	1:19:05	1:13:50	11:53
+1045	67/76	2795	Patti Wise	50	Middletown MD	1:19:05	1:13:55	11:54
+1046	162/173	1505	Katherine Kadin	31	North Bethesda	M 1:17:45	1:13:59	11:55
+1047	27/28	2085	Jean Pagan-Bullock	57	Gaithersburg MD	1:19:23	1:14:15	11:57
+1048	166/173	628	Jaya Bohlmann	42	Olney MD	1:19:23	1:14:17	11:58
+1049	68/76	2310	Barbara Ross	52	Olney MD	1:19:45	1:14:40	12:01
+1050	163/173	601	Amy Bielski	30	Mount Airy MD	1:19:52	1:14:44	12:02
+1051	164/173	947	Aimee Diem	33	Derwood MD	1:20:16	1:15:03	12:05
+1052	235/247	1006	Darci Duelge	37	Rockville MD	1:20:32	1:15:21	12:08
+1053	3/3	2921	Jacquelin O'neil	74	Washington DC	1:19:29	1:15:33	12:10
+1054	165/173	2345	Nicole Ryman	30	Rockville MD	1:20:50	1:15:37	12:11
+1055	137/142	2715	Alyssa Walstein	29	Rockville MD	1:20:50	1:15:37	12:11
+1056	26/26	1206	Willa Geisertdole	16	Chevy Chase MD	1:20:00	1:15:59	12:14
+1057	167/173	2027	Stephanie Nichols	40	Rockville MD	1:21:15	1:16:11	12:16
+1058	168/173	1437	Caroline Ige	44	Silver Spring M	D 1:20:17	1:16:38	12:20
+1059	166/173	2700	Elizabeth Virgin	32	Washington DC	1:21:55	1:16:42	12:21
+1060	69/76	459	Page Albro	51	Germantown MD	1:20:07	1:16:46	12:22
+1061	70/76	2068	Kathleen Oreilly	53	Rockville MD	1:22:14	1:16:59	12:24
+1062	71/76	1309	Jenny Haddon	52	Rockville MD	1:22:06	1:17:00	12:24
+1063	236/247	2811	Susanne Woodlan	39	Silver Spring M	D 1:22:06	1:17:01	12:24
+1064	237/247	1602	Theresa Knox	37	Damascus MD	1:22:23	1:17:12	12:26
+1065	169/173	2258	Anne Reinhold	40	Damascus MD	1:22:23	1:17:13	12:26
+1066	72/76	1868	Christell Mcdonald	52	Woodbine MD	1:21:22	1:17:16	12:27
+1067	73/76	534	Cathy Backinger	51	Rockville MD	1:22:34	1:17:30	12:29
+1068	138/142	854	Natalie Corbin	26	Germantown MD	1:22:34	1:17:30	12:29
+1069	106/110	1213	Susan Gerecht	49	Kensington MD	1:22:40	1:17:35	12:30
+1070	107/110	2392	Tracy Blo Schwartz	49	Potomac MD	1:22:53	1:17:44	12:31
+1071	167/173	3235	Debbie Young	33	Washington DC	1:23:16	1:18:04	12:34
+1072	74/76	908	Patricia Davis	52	Arlington VA	1:23:38	1:18:34	12:39
+1073	139/142	2805	Tina Wong	28	Silver Spring M	D 1:22:53	1:18:49	12:41
+1074	170/173	3371	Joyce Setsuda	42	.	1:24:27	1:19:13	12:45
+1075	140/142	2082	Sarah Owens	25	Rockville MD	1:23:16	1:19:20	12:47
+1076	141/142	1859	Lacey Mccann	26	Catonsville MD	1:25:26	1:20:08	12:54
+1077	108/110	468	Lisa Amans	47	Bethesda MD	1:25:34	1:20:31	12:58
+1078	171/173	2873	Karen Friedman	41	Potomac MD	1:26:03	1:21:01	13:03
+1079	172/173	2058	Taiwo Oki	43	Silver Spring M	D 1:24:44	1:21:06	13:03
+1080	85/86	2016	Hiva Nesvaderani	23	Silver Spring M	D 1:24:38	1:21:08	13:04
+1081	28/28	2977	Joann Robertson	58	Bethesda MD	1:26:19	1:21:14	13:05
+1082	238/247	2807	Eun Woo	39	Laurel MD	1:24:36	1:21:28	13:07
+1083	168/173	2219	Althea Raiford	34	Silver Spring M	D 1:25:50	1:22:05	13:13
+1084	173/173	2989	Veronica Thurmond	43	Silver Spring M	D 1:26:24	1:22:44	13:19
+1085	142/142	1853	Emily Mcbride	26	Mclean VA	1:28:41	1:23:23	13:26
+1086	75/76	1329	Linda Hanson	54	Gaithersburg MD	1:28:41	1:23:23	13:26
+1087	239/247	1886	Sheila Mckinney	39	Washington DC	1:34:54	1:26:10	13:52
+1088	109/110	2362	Janelle Sandford	48	Woodbine MD	1:31:25	1:26:11	13:53
+1089	240/247	1912	Alyce Menton	37	Germantown MD	1:31:25	1:26:18	13:54
+1090	86/86	1252	Melanie Gomez	21	Silver Spring M	D 1:27:38	1:26:30	13:56
+1091	241/247	943	Leyla Diaz	36	Silver Spring M	D 1:37:00	1:31:39	14:45
+1092	169/173	1451	Lisa Jackson	32	Rockville MD	1:33:04	1:31:56	14:48
+1093	242/247	1855	Carla Mccaffrey	39	Rockville MD	1:37:45	1:32:30	14:54
+1094	243/247	3034	Dayna Cavanaugh	37	Gaithersburg MD	1:37:45	1:32:30	14:54
+1095	76/76	2427	Lesley Shear	53	Boyds MD	1:38:01	1:32:57	14:58
+1096	244/247	3274	Cynthia Wong	36	Rockville MD	1:37:54	1:34:30	15:13
+1097	170/173	3353	Karen Liu	33	Potomac MD	1:37:54	1:34:31	15:13
+1098	245/247	2627	Marci Thomas	35	Silver Spring M	D 1:43:36	1:38:15	15:49
+1099	246/247	93	Yvonne Savage	39	Silver Spring M	D 1:44:08	1:38:48	15:54
+1100	19/19	2458	Rani Simon	61	Silver Spring M	D 1:44:10	1:39:03	15:57
+1101	247/247	1847	Alicia Maxwell	35	Germantown MD	1:43:47	1:40:39	16:12
+1102	110/110	2618	Regina Tenali	47	Gaithersburg MD	1:50:31	1:45:22	16:58
+1103	171/173	986	Nirmala Donley	32	Ellicott City M	D 1:50:31	1:45:22	16:58
+1104	172/173	1214	Heidi Gertner	34	Bethesda MD	1:46:49	1:46:49	17:12
+1105	173/173	2852	Deborah Zerwitz	33	Washington DC	1:46:49	1:46:49	17:12

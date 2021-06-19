@@ -1,0 +1,1266 @@
+Place	Div/Tot	Num	Name	Ag	Hometown	Gun Tim	Net Tim	Pace
+1	1/48	9	Joshua Kemei	22	Kenya .	28:48	28:47#	4:38
+2	2/48	35	George Kirwa Misoi	22	Kenya .	29:11	29:10#	4:42
+3	3/48	3	Jacob Frey	24	Oakton VA	29:38	29:37#	4:46
+4	1/96	49	Gurmessa Kumsa	27	Oxon Hill MD	29:46	29:46#	4:48
+5	4/48	31	Mike Baird	24	Ardmore PA	30:31	30:30	4:55
+6	5/48	1662	Jon Lauder	23	Oakton VA	31:14	31:13	5:02
+7	1/143	11	Paul Rades	33	Wheaton MD	31:40	31:38	5:06
+8	6/48	48	Haile Gelalcha	20	Oxon Hill MD	31:39	31:39	5:06
+9	2/96	33	John Bitok	26	Kenya .	31:55	31:55	5:09
+10	1/45	50	Dema Woyessa	19	Oxon Hill MD	32:30	32:30*	5:14
+11	7/48	711	Paris Caballero	23	Gaithersburg MD	32:33	32:31	5:14
+12	2/143	3011	Troy Harrison	30	Hustontown PA	32:54	32:52	5:18
+13	3/143	27	Albert Haan	32	Washington DC	32:57	32:56	5:18
+14	1/203	825	Mike Colaiacovo	36	Baltimore MD	33:01	33:00	5:19
+15	1/201	15	Mark Malander	48	Herndon VA	33:07	33:06*	5:20
+16	2/203	2299	Stavros Rologas	37	Baltimore MD	33:10	33:10	5:21
+17	2/45	565	Nick Bax	15	Bethesda MD	33:21	33:18*	5:22
+18	8/48	405	Alvin Yew	20	Silver Spring MD	33:32	33:31	5:24
+19	4/143	2656	Jason Tripp	33	Ellicott City MD	33:39	33:37	5:25
+20	1/132	2135	Terry Permar	51	Perkasie PA	33:42	33:42*	5:26
+21	3/203	3013	David Mead	37	Washington DC	33:56	33:53	5:28
+22	1/214	5	Darrell General	40	Bowie MD	34:03	34:02	5:29
+23	2/214	1302	David Haaga	44	Rockville MD	34:11	34:10	5:30
+24	5/143	3019	Andrew Cherviyot	34	Beltsville MD	34:24	34:23	5:32
+25	2/201	41	George Buckheit	48	Reson VA	34:25	34:23*	5:32
+26	3/45	416	David Bernstein	19	Chevy Chase MD	34:24	34:23	5:32
+27	3/96	1459	Andrew Jacobson	28	Washington DC	34:29	34:27	5:33
+28	2/132	17	Dan Lawson	50	Gaithersburg MD	34:29	34:29*	5:33
+29	4/45	410	Cooper Linde	18	York PA	34:32	34:30	5:34
+30	5/45	897	Neal Darmody	16	Gaithersburg MD	34:40	34:38*	5:35
+31	3/214	2628	Derik Thomas	40	Alexandria VA	34:42	34:41	5:35
+32	4/96	1791	Stephen Majkrzak	26	Olney MD	35:04	35:02	5:39
+33	4/214	1632	Ronald Kulik	42	Herndon VA	35:15	35:14	5:41
+34	6/143	1552	David Kent	34	Arlington VA	35:18	35:16	5:41
+35	6/45	3227	Sam Epstein	16	Bethesda MD	35:29	35:28	5:43
+36	9/48	409	Justin Ahn	20	Silver Spring MD	35:29	35:28	5:43
+37	5/214	922	Sheldon Degenhardt	41	Marriottsville V	35:31	35:28	5:43
+38	5/96	3012	Craig Shearer	25	Gaithersburg MD	35:31	35:28	5:43
+39	7/143	997	Steven Dowler	31	Kensington MD	35:34	35:30	5:43
+40	10/48	576	William Bedford	23	Bethesda MD	35:37	35:31	5:43
+41	6/96	3346	Ted Bradley	27	Comus MD	35:37	35:33	5:44
+42	6/214	800	Antonio Claro	44	Rockville MD	35:38	35:37	5:44
+43	11/48	418	Alex Hooke	22	College Park MD	35:41	35:40	5:45
+44	3/201	1401	Marty Horan	46	Gaithersburg MD	35:48	35:46	5:46
+45	4/203	1354	Stephen Hays	38	University Park	35:48	35:46	5:46
+46	8/143	13	Christoph Dean	31	Alexandria VA	35:55	35:53	5:47
+47	7/96	1084	Thomas Faucette	29	Silver Spring MD	36:05	36:02	5:48
+48	7/45	2637	John O Thornton	17	Columbia MD	36:10	36:07	5:49
+49	12/48	415	Paul Longoria	20	College Park MD	36:12	36:10	5:50
+50	7/214	1457	Paul Jacobson	43	Gaithersburg MD	36:14	36:12	5:50
+51	4/201	3242	Dennis Coleman	48	Gaithersburg MD	36:19	36:19	5:51
+52	13/48	401	Aaron Macgray	21	College Park MD	36:23	36:21	5:51
+53	8/96	1728	Leyi Lin	26	Washington DC	36:30	36:28	5:52
+54	8/45	2096	Artem Panasenkov	16	Gaithersburg MD	36:42	36:39	5:54
+55	3/132	896	Peter Darmody	50	Gaithersburg MD	36:43	36:41	5:55
+56	8/214	1370	Ronald Hess	44	Baltimore MD	36:56	36:53	5:56
+57	9/96	1548	Kevin Kemp	27	Reston VA	37:06	37:03	5:58
+58	5/201	127	John Chall	48	Jessup MD	37:08	37:06	5:59
+59	6/201	3292	Jack Morrison	46	.	37:14	37:10	5:59
+60	9/45	411	Mike Montano	19	Rockville MD	37:12	37:12	6:00
+61	9/214	3216	Jonathan Auerbach	42	Bethesda MD	37:20	37:18	6:01
+62	1/73	442	Richard Adams	55	Herndon VA	37:24	37:22*	6:01
+63	7/201	1293	Rafael Guijarro	45	Pembroke Pines F	37:30	37:28	6:02
+64	8/201	3241	Alvino Castro	46	Brookeville MD	37:30	37:29	6:02
+65	10/214	147	Terry Eickel	44	Germantown MD	37:34	37:30	6:02
+66	2/73	1961	Timothy Morgan	55	Damascus MD	37:32	37:30*	6:03
+67	5/203	1845	Tom Matzke	35	Rockville MD	37:37	37:34	6:03
+68	1/50	19	Patrick Griffith	61	Alexandria VA	37:39	37:39*	6:04
+69	9/201	3321	Oscar Ramirez	48	Gaithersburg MD	37:49	37:45	6:05
+70	9/143	2657	Ken Trombatore	33	Germantown MD	37:54	37:50	6:06
+71	3/73	29	Jim Wright	56	Gaithersburg MD	37:58	37:55*	6:07
+72	4/73	2327	Steve Ruckert	56	Woodbine MD	37:59	37:58*	6:07
+73	10/96	1015	Michael Dusenbery	27	Savage MD	37:59	37:58	6:07
+74	10/201	1871	Weems Mcfadden	48	Laurel MD	38:01	38:00	6:07
+75	11/214	1387	John Holland	41	Philadelphia PA	38:06	38:05	6:08
+76	10/45	2061	Burke Oleszewski	18	Bethesda MD	38:08	38:07	6:08
+77	10/143	2230	Chris Rankin	34	Clarksburg MD	38:12	38:07	6:08
+78	12/214	2343	Alan Ryder	42	Gaithersburg MD	38:16	38:13	6:09
+79	4/132	2725	Larry Washington	54	Rockville MD	38:16	38:13	6:09
+80	6/203	3255	Kevin Odons	36	Rockville MD	38:22	38:17	6:10
+81	11/45	2069	William Orndorff	15	Rockville MD	39:19	38:18	6:10
+82	11/201	2985	Bill Stahr	45	.	38:25	38:22	6:11
+83	11/143	2757	Gregory Werner	30	Glen Burnie MD	38:31	38:28	6:12
+84	7/203	2477	Keith Slonski	36	Gaithersburg MD	38:35	38:31	6:12
+85	12/201	1274	Jeff Green	46	Rockville MD	38:34	38:31	6:12
+86	13/201	2011	Greg Nelson	45	Olney MD	38:34	38:31	6:12
+87	5/132	1867	Denis Mcdonald	51	Woodbine MD	38:43	38:39	6:14
+88	12/143	2946	John Howard	34	Brunswick MD	38:47	38:45	6:15
+89	13/214	835	Carleton Conant	44	Kensington MD	38:59	38:56	6:16
+90	14/48	404	Erik Westlund	21	College Park MD	38:59	38:57	6:17
+91	14/214	2192	Matthew Prineas	41	Silver Spring MD	39:07	39:03	6:17
+92	6/132	2103	Joseph Parker	50	Rockville MD	39:11	39:07	6:18
+93	8/203	1101	Dante Figueroa	37	Washington DC	40:13	39:08	6:18
+94	9/203	2057	Frank Odeh	37	Oak Hill VA	39:25	39:22	6:20
+95	7/132	3249	Vassili Triantos	51	Rockville MD	39:27	39:24	6:21
+96	10/203	2763	Scott Wharton	37	Rockville MD	39:35	39:30	6:22
+97	11/203	178	Mark Krulikowski	37	Arlington VA	39:34	39:31	6:22
+98	12/45	2587	Matthew Sushinsky	15	Rockville MD	39:39	39:35	6:23
+99	13/143	2496	Tyson Smith	31	Washington DC	39:45	39:40	6:23
+100	15/48	402	Nick Fernandez	22	College Park MD	39:49	39:43	6:24
+101	11/96	1229	Keith Gilmore	26	Washington DC	39:51	39:45	6:24
+102	14/143	2885	Gary Coppeler	34	Gaithersburg MD	39:52	39:45	6:24
+103	5/73	2804	Ronnie Wong	59	Catonsville MD	39:50	39:47	6:25
+104	12/203	2667	Fred Turner	35	Montgomery Vill	39:55	39:52	6:25
+105	14/201	2639	Elias Tinta	47	Derwood MD	40:55	39:53	6:26
+106	13/203	1425	Daryl Hultquist	36	Gaithersburg MD	40:01	39:54	6:26
+107	14/203	101	Arya Akmal	38	Bethesda MD	40:03	39:57	6:26
+108	15/203	842	Jeff Contract	38	Rockville MD	40:03	39:57	6:26
+109	15/214	1435	Steven Hyde	43	Germantown MD	41:00	39:58	6:26
+110	16/203	2900	Mark Hemmig	38	Rockville MD	40:07	40:03	6:27
+111	15/201	445	Mark Adams	46	Gaithersburg MD	40:05	40:05	6:27
+112	16/214	1301	John Gygax	42	Stevensville MD	40:09	40:06	6:28
+113	12/96	948	Ambrose Dieringer	26	Bethesda MD	40:27	40:20	6:30
+114	17/203	2830	Philip Yin	37	Kensington MD	40:25	40:21	6:30
+115	17/214	1222	Thomas Giblin	41	Kensington MD	41:26	40:25	6:31
+116	16/201	700	Ronald Busch	45	Germantown MD	40:34	40:29	6:31
+117	17/201	2140	Ron Petersen	45	Germantown MD	41:34	40:30	6:31
+118	15/143	1895	Bill Mcnary	33	Washington DC	40:39	40:35	6:32
+119	8/132	2984	Brian Ruberry	50	Gaithersburg MD	40:42	40:38	6:33
+120	18/203	1346	Paul Hasson	37	Rockville MD	40:52	40:46	6:34
+121	18/214	211	Thomas Snyder	44	Gaithersburg MD	41:54	40:51	6:35
+122	19/214	1192	Jeff Garten	40	Greenbelt MD	41:57	40:55	6:35
+123	18/201	2616	Lawrence Tempchin	46	Rockville MD	40:58	40:55	6:36
+124	19/201	895	Hal Danoff	46	Gaithersburg MD	40:58	40:55	6:36
+125	13/96	1480	Clifford John	27	Rockville MD	40:59	40:57	6:36
+126	16/143	1712	Monte Lewis	30	Frederick MD	42:01	40:57	6:36
+127	20/214	160	Bruce Gross	44	Potomac MD	41:03	41:00	6:36
+128	19/203	682	Patrick Brown	39	Baltimore MD	42:20	41:10	6:38
+129	20/201	1699	Ralph Lennon	45	Montgomery Vill	41:19	41:16	6:39
+130	17/143	2547	Scott Steffen	34	Laurel MD	42:18	41:17	6:39
+131	16/48	2676	Blair Unger	24	College Park MD	42:26	41:19	6:39
+132	20/203	1992	Jon Murphy	35	Washington DC	42:28	41:20	6:40
+133	21/214	216	Elmar Sulk	40	Bethesda MD	42:28	41:22	6:40
+134	13/45	2933	Corey Graeves	16	Olney MD	42:43	41:25	6:40
+135	21/203	1018	Sean Eastman	37	Montgomery Vill	41:29	41:26	6:40
+136	14/96	406	Viktor Nagy	29	Riverdale MD	42:34	41:28	6:41
+137	18/143	1145	Michael Fredericks	33	Fairfax VA	42:40	41:36	6:42
+138	21/201	977	Stephan Dobson	45	Thurmont MD	42:48	41:39	6:43
+139	15/96	874	Matt Crysler	26	Columbia MD	44:55	41:40	6:43
+140	22/214	1854	Robert Mccaffrey	40	Rockville MD	42:55	41:45	6:44
+141	9/132	3221	Dan Devlin	51	Silver Spring MD	41:50	41:45	6:44
+142	1/19	23	John Elliott	67	Columbia MD	41:53	41:47*	6:44
+143	23/214	1691	Bill Leffingwell	40	Rockville MD	42:51	41:50	6:44
+144	22/201	809	William Cobbett	48	Bethesda MD	43:05	41:55	6:45
+145	19/143	115	Carl Blake	34	Silver Spring MD	42:59	41:55	6:45
+146	24/214	1508	Dan Kahn	40	Gaithersburg MD	43:07	41:57	6:45
+147	14/45	1238	Matthew Glinkowski	15	Gaithersburg MD	43:13	41:59	6:46
+148	25/214	3251	Cesar Canizales	40	Washington DC	43:06	41:59	6:46
+149	22/203	2585	Brett Surbey	37	Fairfax VA	42:04	42:00	6:46
+150	26/214	1820	Hans Martin	41	Washington DC	43:20	42:01	6:46
+151	23/201	2388	Bill Schulz	49	Chevy Chase MD	43:03	42:01	6:46
+152	16/96	1582	Gregory Kinney	25	Vienna VA	43:04	42:03	6:46
+153	27/214	2317	Anthony Rowedder	42	Rockville MD	43:40	42:04	6:47
+154	23/203	2175	John Porton	36	Burtonsville MD	43:08	42:04	6:47
+155	20/143	2689	Hector Ventura	32	Olney MD	43:25	42:05	6:47
+156	17/48	3319	Diego Vincente	23	Washington DC	43:06	42:06	6:47
+157	21/143	2694	Gonzalo Vicente	34	Chevy Chase MD	43:07	42:06	6:47
+158	22/143	1790	Charles Majewski	32	Gaithersburg MD	43:11	42:08	6:47
+159	1/28	1054	Nicolas Escobar	14	Derwood MD	45:47	42:10	6:48
+160	24/203	2205	Dominic Quattrocchi	38	Silver Spring MD	42:14	42:10	6:48
+161	28/214	3253	John Way	40	Montgomery Vill	43:17	42:14	6:48
+162	23/143	1836	David Massey	33	Chevy Chase MD	43:23	42:14	6:48
+163	18/48	1355	Steve Heagy Ii	22	Arlington VA	43:27	42:18	6:49
+164	25/203	1973	Tim Mossman	36	Gaithersburg MD	43:20	42:18	6:49
+165	17/96	1165	Matt Fry	25	Silver Spring MD	43:24	42:20	6:49
+166	24/201	3325	David Bennaim	46	Gaithersburg MD	43:28	42:25	6:50
+167	18/96	1289	Michael Grinnell	28	Bethesda MD	43:28	42:27	6:50
+168	19/96	1131	John Forrest	25	North Bethesda M	43:51	42:27	6:50
+169	25/201	2363	Robert Sandler	48	Potomac MD	43:30	42:27	6:50
+170	26/203	678	Robert Broughton	35	Arlington VA	42:32	42:29	6:51
+171	10/132	2957	Aldo Salerno	50	Brookeville MD	43:35	42:29	6:51
+172	11/132	176	Glenn Klenk	53	Arlington VA	42:36	42:29	6:51
+173	27/203	194	Deric Park	37	Bethesda MD	43:33	42:30	6:51
+174	20/96	2234	Sujit Rathod	26	Gaithersburg MD	45:51	42:36	6:52
+175	24/143	2173	David Porton	33	Germantown MD	43:38	42:36	6:52
+176	29/214	3356	Doug Baruch	44	.	43:38	42:37	6:52
+177	26/201	1461	Thomas Jagodits	45	Poolesville MD	43:47	42:39	6:52
+178	27/201	584	Philip Bergman	46	Washington DC	43:42	42:39	6:52
+179	30/214	651	Simon Bradbury	43	Kensington MD	46:12	42:41	6:53
+180	31/214	2878	Edward Warwick	44	Potomac MD	43:52	42:42	6:53
+181	21/96	181	Sean Lee	28	Frederick MD	44:17	42:48	6:54
+182	15/45	200	Jon Ryan	16	Clarksburg MD	43:53	42:49	6:54
+183	32/214	761	Brian Chabot	41	Rockville MD	43:53	42:51	6:54
+184	28/203	3041	Tj Ward	38	Alexandria VA	44:06	42:57	6:55
+185	33/214	1756	Richard Lowell	44	Catlett VA	44:03	42:59	6:55
+186	19/48	3038	Brian Jones	21	College Park MD	44:05	43:00	6:56
+187	34/214	175	Tim Kirkner	44	Damascus MD	44:02	43:01	6:56
+188	28/201	2084	Daniel Packer	45	Rockville MD	44:07	43:01	6:56
+189	29/201	2527	John Spencer	46	Chevy Chase MD	44:08	43:02	6:56
+190	12/132	2876	Ghirma Meres	51	Silver Spring MD	44:05	43:03	6:56
+191	29/203	502	Paul Arnsberger	36	Washington DC	44:19	43:07	6:57
+192	30/201	1160	Jean-Luc Froeliger	48	Bethesda MD	44:17	43:07	6:57
+193	6/73	3306	William Scott	58	Seabrook MD	44:18	43:07	6:57
+194	25/143	2067	Steve Orders	30	Rockville MD	44:31	43:08	6:57
+195	31/201	2566	Tom Strite	48	Damascus MD	44:11	43:08	6:57
+196	32/201	148	Thomas Engle	47	Alexandria VA	44:13	43:10	6:57
+197	33/201	174	Ilam Kim	47	Bethesda MD	44:18	43:12	6:57
+198	26/143	810	Scott Coble	31	Falls Church VA	44:32	43:13	6:58
+199	35/214	2902	David Feltwell	40	Gaithersburg MD	44:25	43:14	6:58
+200	27/143	783	Scott Chidakel	32	Derwood MD	44:21	43:14	6:58
+201	22/96	1166	Joseph Fuemmeler	28	Washington DC	44:37	43:15	6:58
+202	34/201	2008	Al Navidi	46	Rockville MD	44:17	43:16	6:58
+203	28/143	1528	Corby Kassebaum	33	Germantown MD	44:18	43:17	6:58
+204	36/214	2790	Tom Winkert	41	Potomac MD	43:21	43:17	6:58
+205	30/203	3215	Lawrence Peterson	38	Dover PA	47:01	43:20	6:59
+206	37/214	3209	Vincente Ramirez	41	Rockville MD	44:23	43:21	6:59
+207	31/203	3210	James Stewart	35	Gaithersburg MD	44:28	43:22	6:59
+208	23/96	1037	Radmil Elkis	29	New Market MD	44:35	43:23	6:59
+209	38/214	1825	James Martin	42	Potomac MD	44:36	43:24	6:59
+210	29/143	1196	Justin Gaul	30	Kensington MD	44:35	43:25	7:00
+211	30/143	3339	Chris Sansone	34	Kensington MD	46:30	43:26	7:00
+212	16/45	1051	Can Erikan	15	Rockville MD	44:40	43:27	7:00
+213	39/214	2903	David Handel	40	Gaithersburg MD	44:39	43:28	7:00
+214	35/201	1955	William Moore	48	Baltimore MD	44:35	43:28	7:00
+215	32/203	2312	Stephen Rothandler	38	Alexandria VA	44:37	43:31	7:01
+216	40/214	1509	Zoran Kahric	40	Kensington MD	44:38	43:32	7:01
+217	2/28	894	Corey Danoff	13	North Potomac MD	44:40	43:37	7:01
+218	13/132	482	Laurence Anderson	50	Springfield VA	44:47	43:37	7:02
+219	20/48	2960	Andrew Duncan	23	Rockville MD	45:14	43:39	7:02
+220	41/214	102	Luis Amaya	43	Arlington VA	44:56	43:39	7:02
+221	14/132	1042	Alan Elsner	52	Rockville MD	44:43	43:40	7:02
+222	31/143	1343	James Harshman	34	Rockville MD	44:52	43:40	7:02
+223	36/201	1833	Mike Mason	49	Spencerville MD	46:42	43:40	7:02
+224	42/214	1514	Tom Kane	41	Silver Spring MD	45:06	43:41	7:02
+225	43/214	457	Greg Akins	44	Potomac MD	45:00	43:43	7:03
+226	24/96	3347	Greg Padilla	27	Ft Meade MD	46:57	43:45	7:03
+227	44/214	1827	Hector B Martinez	43	Germantown MD	44:55	43:49	7:03
+228	25/96	3046	Jonathan Pickell	29	Seattle WA	45:04	43:51	7:04
+229	15/132	1460	Matthew Jaffe	50	Chevy Chase MD	44:54	43:51	7:04
+230	2/50	1566	Roger Kilgore	62	Tall Timbers MD	43:57	43:53	7:04
+231	17/45	1030	Jason Edwards	16	Germantown MD	45:12	43:56	7:05
+232	45/214	3244	Leroy Isreal	44	Burtonsville MD	44:59	43:56	7:05
+233	16/132	2411	David Senft	52	Gaithersburg MD	44:57	43:57	7:05
+234	46/214	1506	David Kadonoff	43	Silver Spring MD	45:10	44:00	7:05
+235	32/143	453	Aaron Ahlburn	31	Chevy Chase MD	45:07	44:01	7:05
+236	33/203	1257	Christoph Gordon	37	Bethesda MD	45:04	44:01	7:05
+237	47/214	2275	John Paul Ridge	44	Rockville MD	45:05	44:02	7:06
+238	21/48	3039	Jeremy Anton	24	Severn MD	45:10	44:05	7:06
+239	3/50	685	Walter Brown	62	Montgomery Vill	44:11	44:06	7:06
+240	18/45	1578	Ryan King	16	Aithersburg MD	45:08	44:07	7:06
+241	34/203	2726	John Waterman	38	Silver Spring MD	45:15	44:07	7:06
+242	26/96	2932	Paul Tesar	25	Rockville MD	45:12	44:08	7:07
+243	35/203	1140	Ken France	38	Mt. Airy MD	44:14	44:11	7:07
+244	36/203	2744	Michael Weil	35	Gaithersburg MD	47:38	44:12	7:07
+245	33/143	2720	Felix Wang	30	Rockville MD	45:38	44:13	7:07
+246	48/214	219	Lawrence Thrower	41	Kensington MD	45:17	44:13	7:07
+247	19/45	1310	Chris Hague	17	Kensington MD	45:27	44:14	7:07
+248	17/132	638	William Booth	50	Bethesda MD	45:43	44:15	7:08
+249	22/48	417	James Blackwood	21	Laurel MD	45:28	44:15	7:08
+250	34/143	1998	Emilio Nadal Jr	31	Odenton MD	45:19	44:17	7:08
+251	23/48	419	Patrick Wu	23	College Park MD	44:22	44:17	7:08
+252	37/203	545	Juan Balsa	39	Washington DC	45:36	44:22	7:09
+253	37/201	43	Dan Pereles	45	Potomac MD	44:27	44:22	7:09
+254	27/96	1127	Michael Foran	28	Silver Spring MD	45:42	44:23	7:09
+255	38/201	1231	Jeff Gitlin	48	Damascus MD	45:30	44:24	7:09
+256	38/203	932	Donald Derrenbacher	36	Gaithersburg MD	45:31	44:27	7:10
+257	49/214	1684	Leonard Lee	40	Silver Spring MD	45:37	44:28	7:10
+258	39/201	994	George Doumar	45	Falls Church VA	45:58	44:31	7:10
+259	40/201	2390	Jeff Schwaber	45	Rockville MD	45:35	44:31	7:10
+260	35/143	2782	Symeon Williams	33	Bethesda MD	47:34	44:32	7:10
+261	18/132	1583	Kevin Kirchner	50	Kensington MD	46:00	44:33	7:11
+262	50/214	1339	Todd Harper	40	Derwood MD	45:44	44:34	7:11
+263	7/73	444	David Adams	59	Gaithersburg MD	45:50	44:35	7:11
+264	51/214	2210	Christoph Quinn	42	Rockville MD	45:59	44:37	7:11
+265	39/203	2311	Jason Ross	36	Bowie MD	45:45	44:40	7:12
+266	52/214	1475	David Jeo	44	Montgomery Vill	45:54	44:41	7:12
+267	8/73	2775	Daniel Wilcox	55	Germantown MD	45:57	44:41	7:12
+268	19/132	2500	Philip Snoy	54	Poolesville MD	45:49	44:44	7:12
+269	40/203	110	Michael Bartleman	36	Bethesda MD	45:48	44:44	7:12
+270	36/143	1556	Peter Key	31	Germantown MD	46:13	44:44	7:12
+271	41/203	1446	Junji Iwahara	35	Rockville MD	45:49	44:45	7:13
+272	41/201	187	Guy Montgomery	48	Potomac MD	45:54	44:46	7:13
+273	53/214	3048	Chris Patterson	40	Rockville MD	45:50	44:46	7:13
+274	24/48	1938	Keith Mitchell	24	Silver Spring MD	45:55	44:48	7:13
+275	42/201	713	Reinaldo Cabanas	45	Rockville MD	45:52	44:48	7:13
+276	20/45	1220	Jared Gibbs	17	Gaithersburg MD	46:01	44:51	7:13
+277	54/214	744	Bob Carroll	41	Damascus MD	47:52	44:51	7:13
+278	43/201	2826	Peter Yao	46	Rockville MD	45:56	44:51	7:13
+279	44/201	2334	David Rupp	45	Bethesda MD	46:09	44:52	7:14
+280	20/132	1117	Robert Fleshner	51	Bethesda MD	46:07	44:52	7:14
+281	42/203	1130	Jonathan Forest	36	Rockville MD	46:19	44:53	7:14
+282	21/132	972	Trong Do	53	Gaithersburg MD	45:03	44:57	7:15
+283	43/203	2018	Noam Neusner	36	Bethesda MD	46:14	44:58	7:15
+284	55/214	1377	Nemesio Hillon	44	Bethesda MD	46:13	44:58	7:15
+285	45/201	1134	Paul Foster	49	Laytonsville MD	46:06	44:59	7:15
+286	56/214	2029	John Nichols	42	Silver Spring MD	46:07	44:59	7:15
+287	46/201	2499	James Snee	45	Montgomery Vill	46:03	44:59	7:15
+288	37/143	1262	Stan Gorski	31	Rockville MD	45:05	45:00	7:15
+289	47/201	231	Bill Wright	49	Olney MD	46:09	45:00	7:15
+290	38/143	2199	Marcel Pruessner	30	Silver Spring MD	46:24	45:00	7:15
+291	57/214	494	Gregory Applewhite	41	Beltsville MD	46:05	45:02	7:15
+292	44/203	1338	Brian Harner	38	Washington DC	46:19	45:03	7:15
+293	58/214	1287	Joe Griffin	41	Olney MD	46:24	45:03	7:15
+294	59/214	226	Harvey Warnick	41	Silver Spring MD	46:23	45:04	7:16
+295	48/201	929	Stephen Dembek	46	Derwood MD	46:16	45:05	7:16
+296	45/203	2793	Seth Winnick	35	Silver Spring MD	46:22	45:09	7:16
+297	46/203	1500	Fang Ju	36	Boyds MD	46:13	45:09	7:16
+298	60/214	729	Curtis Carlson	40	North Potomac MD	46:36	45:09	7:16
+299	1/3	1272	Skip Grant	70	Silver Spring MD	45:21	45:16*	7:18
+300	47/203	2214	Jeffrey Rackow	39	Bethesda MD	48:26	45:18	7:18
+301	48/203	2623	Sean Thielke	37	Damascus MD	46:43	45:23	7:19
+302	28/96	2071	Andrew Ortner	29	Silver Spring MD	46:44	45:26	7:19
+303	49/203	956	Allen Diewald	36	Rockville MD	46:40	45:27	7:19
+304	29/96	1882	Mark Mckennett	27	Silverspring MD	46:29	45:28	7:19
+305	61/214	3245	Frederick Roseman	44	Mclean VA	46:35	45:28	7:19
+306	39/143	228	Dave Witkowski	31	Oakton VA	46:34	45:29	7:20
+307	40/143	1851	Mark Mazzetti	31	Washington DC	46:47	45:30	7:20
+308	4/50	1433	Matthew Hutmaker	63	Gaithersburg MD	46:36	45:30	7:20
+309	49/201	1410	Mike House	46	Middletown MD	46:38	45:32	7:20
+310	9/73	1412	David Houser	55	Olney MD	46:37	45:32	7:20
+311	21/45	3300	Matthew Klise	15	Rockville MD	46:45	45:35	7:21
+312	62/214	1276	Brian Green	41	Germantown MD	46:55	45:39	7:21
+313	30/96	1374	Patrick High	27	Silver Spring MD	46:46	45:40	7:21
+314	50/201	162	Ira Hammerman	45	Rockville MD	46:44	45:40	7:21
+315	22/132	114	Ronald Black	51	Frederick MD	45:44	45:40	7:21
+316	41/143	1807	Jos?ë Marcano	30	Frederick MD	47:11	45:41	7:21
+317	50/203	1367	Juan Herrera	35	Silver Spring MD	46:48	45:43	7:22
+318	51/203	686	Norman Brown	37	Washington DC	47:05	45:43	7:22
+319	52/203	2556	Kenneth Stewart	39	Silver Spring MD	48:52	45:43	7:22
+320	63/214	1028	Jim Edwards	43	Potomac MD	46:53	45:45	7:22
+321	22/45	1881	Joey Mckenna	15	Olney MD	47:08	45:45	7:22
+322	53/203	2777	Steve Wilkerson	36	Owings Mills MD	49:11	45:46	7:22
+323	54/203	1880	Kevin Mckenna	38	Olney MD	47:10	45:48	7:23
+324	64/214	1533	Matthew Katz	43	Gaithersburg MD	46:53	45:48	7:23
+325	51/201	1219	Russell Gibbs	49	Gaithersburg MD	47:00	45:50	7:23
+326	52/201	882	Lino D'affuso	48	North Potomac MD	47:09	45:50	7:23
+327	31/96	470	Michael Ames	26	Germantown MD	47:07	45:51	7:23
+328	32/96	3024	Evan Caldwell	25	Silver Spring MD	46:57	45:53	7:23
+329	42/143	2860	Jason Zorn	34	North Bethesda M	49:13	45:54	7:24
+330	53/201	1693	Kerry Leifer	49	Brookeville MD	47:00	45:55	7:24
+331	55/203	1567	Greg Killeen	39	Bethesda MD	47:05	45:56	7:24
+332	23/45	2514	Russell Solomon	16	North Potomac MD	47:06	45:58	7:24
+333	65/214	2973	Jack Brownell	44	Rockville MD	49:10	45:58	7:24
+334	54/201	1688	Byung Lee	46	Laurel MD	47:09	45:59	7:24
+335	43/143	1573	Joshua King	32	Gaithersbug MD	47:18	45:59	7:24
+336	66/214	171	Stewart Jordan	40	Silver Spring MD	47:20	46:00	7:25
+337	56/203	746	J Carroll	37	Gaithersburg MD	47:10	46:01	7:25
+338	44/143	2117	Jeff Peang-Meth	33	Silver Spring MD	47:13	46:02	7:25
+339	45/143	523	David Aungst	34	Fairfax VA	47:20	46:02	7:25
+340	57/203	2272	Joshua Rich	36	Chicago IL	47:29	46:04	7:25
+341	23/132	1656	Lary Larson	51	Silver Spring MD	47:08	46:04	7:25
+342	24/132	2266	Mauricio Rezende	50	Potomac MD	47:13	46:05	7:25
+343	3/28	3201	Jeremy Ardanuy	12	Silver Spring MD	49:06	46:05	7:25
+344	58/203	888	Jeff Dalhoff	36	Silver Spring MD	47:27	46:08	7:26
+345	25/132	214	Anton Struntz	51	Gaithersburg MD	47:34	46:09	7:26
+346	33/96	2132	Justin Perkins	25	Washington DC	49:26	46:10	7:26
+347	46/143	2912	Renny Velasquez	30	Rockville MD	49:57	46:12	7:27
+348	55/201	1095	Rodney Fennell	46	Clinton MD	47:39	46:15	7:27
+349	67/214	222	Norwood Uzzell	44	Takoma Park MD	47:47	46:15	7:27
+350	24/45	3260	Scott Berg	19	Olney MD	47:30	46:16	7:27
+351	25/45	1341	Daniel Harris	18	Olney MD	47:30	46:16	7:27
+352	68/214	1136	Ted Foster	42	Silver Spring MD	49:57	46:17	7:27
+353	26/45	2267	Nicholas Reznikov	17	Derwood MD	51:19	46:17	7:27
+354	34/96	2126	Richard Pelaez	28	Clarksburg MD	47:28	46:18	7:28
+355	59/203	2211	J. Arnold Quinn	37	Kensington MD	47:48	46:19	7:28
+356	27/45	408	Max Gordon	19	Middlefield CT	47:34	46:21	7:28
+357	60/203	203	Aaron Schneider	37	Gaithersburg MD	47:39	46:21	7:28
+358	56/201	2336	Paul Rushing	49	Rockville MD	47:24	46:22	7:28
+359	26/132	2188	Ed Pratt	53	Silver Spring MD	47:27	46:22	7:28
+360	47/143	2133	Jeffrey Perkins	34	Washington DC	49:39	46:23	7:28
+361	69/214	1375	David Hill	42	Germantown MD	47:24	46:24	7:28
+362	28/45	1929	Karl Miller	16	Potomac MD	47:38	46:26	7:29
+363	48/143	1061	Dave Eubanks	32	Greenbelt MD	47:50	46:27	7:29
+364	35/96	1503	Jonathan Jurewicz	26	Vienna VA	49:34	46:28	7:29
+365	27/132	926	Chris Demain	52	Rockville MD	47:47	46:30	7:29
+366	28/132	108	Richard Barron	52	Potomac MD	47:47	46:31	7:30
+367	29/132	1864	Keith Mcdaniel	50	Olney MD	49:56	46:33	7:30
+368	49/143	600	Jim Bielski	31	Mount Airy MD	49:45	46:35	7:30
+369	25/48	3223	Adrian Hartline	24	Arlington VA	47:46	46:38	7:31
+370	50/143	3267	Nelson Ortiz Cruz	30	Gaithersburg MD	50:21	46:40	7:31
+371	57/201	422	Kevin Babcock	46	Poolesville MD	49:43	46:41	7:31
+372	29/45	3269	Alexander Petrov	19	Rockville MD	47:44	46:41	7:31
+373	10/73	2034	Thomas Noonan	57	Mclean VA	47:43	46:41	7:31
+374	61/203	1742	Ted Logothetti	36	Alexandria VA	47:57	46:44	7:32
+375	30/132	1983	Jaime Munoz	50	Gaithersburg MD	47:48	46:44	7:32
+376	70/214	2979	Eric Bilsky	43	Silver Spring MD	48:08	46:45	7:32
+377	71/214	2019	Andy New	44	Rockville MD	48:13	46:46	7:32
+378	62/203	212	Mark Soldavini	35	Rockville MD	48:09	46:46	7:32
+379	72/214	486	John Andrews	40	Bethesda MD	48:07	46:48	7:32
+380	63/203	2184	Chris Powers	37	Silver Spring MD	47:52	46:49	7:32
+381	36/96	2142	James Petrungaro	25	Silver Spring MD	50:15	46:51	7:33
+382	11/73	2339	Scott Ryan	55	Clarksburg MD	47:55	46:52	7:33
+383	30/45	1959	Raffie Moreson	17	Bethesda MD	46:59	46:53	7:33
+384	73/214	2095	Sergey Panasenkov	41	Gaithersburg MD	48:03	46:54	7:33
+385	4/28	1515	Robbie Kane	14	Clarksville MD	50:35	46:56	7:34
+386	64/203	2150	John Piana	37	Rockville MD	48:16	46:57	7:34
+387	51/143	3001	Spencer Culen	31	Gaithersburg MD	47:02	46:59	7:34
+388	65/203	2046	Peter O'connor	35	G'burg MD	50:16	46:59	7:34
+389	74/214	2433	Todd Sherwood	44	Damascus MD	48:04	47:01	7:34
+390	26/48	512	Brian Attridge	24	Rockville MD	48:05	47:02	7:35
+391	66/203	242	Jim Katzman	39	Herndon VA	50:13	47:03	7:35
+392	58/201	1080	Kevin Farragher	48	Gaithersburg MD	48:22	47:03	7:35
+393	52/143	2125	David Peikin	34	Gaithersburg MD	48:21	47:05	7:35
+394	59/201	1718	Andrew Lieber	45	Potomac MD	48:31	47:05	7:35
+395	75/214	2929	Bruce Lemieux	41	Germantown MD	48:29	47:05	7:35
+396	53/143	458	Ive Albertie	30	Rockville MD	48:16	47:05	7:35
+397	60/201	927	Edward Demarco	45	Silver Spring MD	50:12	47:06	7:35
+398	67/203	784	Aaron Chidakel	35	Bethesda MD	48:15	47:08	7:35
+399	68/203	923	Mike Dellamura	38	Walkersville MD	48:39	47:11	7:36
+400	31/132	153	Mark Gallagher	54	Mount Airy MD	48:20	47:13	7:36
+401	5/28	2236	Adam Rau	14	Clarksville MD	50:54	47:14	7:36
+402	76/214	149	Gary Fahle	42	Chevy Chase MD	48:42	47:20	7:37
+403	69/203	1129	Robert Ford	36	Kensington MD	50:44	47:21	7:38
+404	37/96	144	Christian Drumm	26	Washington DC	50:36	47:23	7:38
+405	61/201	640	Don Bordine	49	Rockville MD	48:36	47:23	7:38
+406	27/48	2736	Andrew Weaver	24	Damascus MD	51:02	47:23	7:38
+407	32/132	2316	Tim Rowe	51	Damascus MD	48:44	47:23	7:38
+408	62/201	2471	Rich Singer	48	Derwood MD	48:27	47:24	7:38
+409	63/201	1580	Ken Kinka	48	Gaithersburg MD	48:50	47:27	7:39
+410	54/143	3250	Joseph Mcgroarty	33	Germantown MD	48:56	47:27	7:39
+411	77/214	2352	Gothard Saghi-Szabo	42	College Park MD	48:44	47:31	7:39
+412	55/143	1668	Galen Lawson	30	Washington DC	50:37	47:31	7:39
+413	78/214	2242	Michael Ray	42	Fairfax Station	49:09	47:32	7:39
+414	64/201	204	Terrence Sheehan	47	Ijamsville MD	48:45	47:33	7:40
+415	38/96	2987	Eric Delgado	29	Wheaton MD	48:56	47:35	7:40
+416	65/201	1417	Brad Howell	45	Kensington MD	49:03	47:37	7:40
+417	79/214	2134	Daniel Perlin	43	Potomac MD	50:40	47:37	7:40
+418	56/143	946	Ken Dieffenbach	32	Springfield VA	50:48	47:39	7:40
+419	6/28	893	Jake Danoff	14	Rockville MD	48:49	47:40	7:41
+420	57/143	1429	Damon Hunt	34	Olney MD	49:04	47:40	7:41
+421	33/132	902	Laurence Davey	54	Fairfax VA	48:56	47:46	7:42
+422	58/143	2653	Jaeden Traum	32	Baltimore MD	49:09	47:48	7:42
+423	34/132	3342	Irfan Aleem	52	Rockville MD	48:53	47:49	7:42
+424	80/214	183	Patrick Lopez	44	Derwood MD	49:12	47:50	7:42
+425	81/214	1608	Vincent Kolesnitchenk	44	Clarksburg MD	49:08	47:51	7:42
+426	59/143	2678	Maxwell Uy	33	Germantown MD	48:56	47:54	7:43
+427	60/143	1977	Nate Mulcahy	32	Rockville MD	51:09	47:54	7:43
+428	82/214	2178	Craig Poulson	40	Silver Spring MD	49:25	47:54	7:43
+429	5/50	749	John Casinghino	60	Kensington MD	49:14	47:55	7:43
+430	6/50	1490	Moline Jonathan	60	Rockville MD	51:25	47:56	7:43
+431	12/73	2899	Don Komai	57	Alexandria VA	49:08	47:56	7:43
+432	83/214	199	William Rowell	40	Gaithersburg MD	51:49	47:56	7:43
+433	28/48	811	Dan Coghlan	24	Leesburg VA	51:20	47:59	7:44
+434	7/28	963	Jeremy Dingott	13	Potomac MD	49:15	48:00	7:44
+435	66/201	2769	Brian White	47	Germantown MD	49:19	48:03	7:44
+436	67/201	3298	Bill Dudley	47	Rockville MD	49:33	48:03	7:44
+437	70/203	2712	Charles Walker	39	Olney MD	49:30	48:04	7:45
+438	61/143	934	Brian Desantis	33	Wash DC	52:01	48:04	7:45
+439	39/96	3219	Andrew Miller	28	Arlington VA	49:13	48:05	7:45
+440	68/201	2235	Barth Rau	48	Clarksville MD	51:45	48:06	7:45
+441	84/214	521	Doug Auld	42	Potomac MD	51:10	48:06	7:45
+442	35/132	615	David Blass	52	North Bethesda M	51:13	48:08	7:45
+443	36/132	3263	Ronald Greenbaum	53	Potomac MD	49:14	48:10	7:45
+444	85/214	2231	Mark Rasavage	40	Rockville MD	51:54	48:10	7:46
+445	86/214	117	John Bosworth Jr.	44	Rockville MD	49:26	48:11	7:46
+446	87/214	1633	Stephen Kunze	43	Germantown MD	49:23	48:12	7:46
+447	88/214	2626	Matt Thomas	41	Olney MD	49:27	48:13	7:46
+448	69/201	1151	Matthew Freeman	45	Rockville MD	51:35	48:16	7:46
+449	89/214	921	Michael Decrick	42	Montgomery Vill	51:42	48:16	7:47
+450	71/203	3340	Mike Connaghan	35	Alexandria VA	51:42	48:19	7:47
+451	72/203	955	Tim Dietz	36	Silver Spring MD	49:44	48:20	7:47
+452	13/73	3010	John Kenney	56	Rockville MD	49:41	48:21	7:47
+453	62/143	3047	Jamie Pickell	33	Rockville MD	49:35	48:22	7:48
+454	90/214	914	Roberto De Michele	44	Bethesda MD	49:37	48:23	7:48
+455	73/203	1862	Keith Mccracken	36	Chantilly VA	49:47	48:27	7:48
+456	70/201	2978	James Cooney	45	Rockville MD	49:42	48:30	7:49
+457	40/96	1945	Andrew Moden	28	Clarksburg MD	49:38	48:32	7:49
+458	37/132	1058	Pedro Esteban	52	Rockville MD	49:47	48:32	7:49
+459	29/48	2340	Ben Ryan	21	Rockville MD	50:00	48:34	7:49
+460	30/48	2862	Matthew Zuraw	22	Bethesda MD	52:21	48:34	7:49
+461	71/201	3030	Numa Magalhaes	47	Bethesda MD	49:40	48:34	7:49
+462	38/132	467	John Alvanis	51	Germantown MD	49:39	48:36	7:50
+463	39/132	1155	Peter Friedmann	53	Bethesda MD	51:50	48:37	7:50
+464	74/203	145	Ken Earley	38	Rockville MD	50:03	48:38	7:50
+465	8/28	2270	Drew Ricci	14	Darnestown MD	52:11	48:39	7:50
+466	72/201	1008	Daniel Duggan	49	Derwood MD	49:50	48:39	7:50
+467	63/143	2321	Charles Rowell	34	Olney MD	52:32	48:40	7:50
+468	91/214	1440	Jim Inglese	43	Bethesda MD	51:44	48:40	7:50
+469	73/201	3265	Michael Eisen	45	.	48:48	48:42	7:51
+470	14/73	525	Ed Avila	58	Manassas VA	51:51	48:42	7:51
+471	92/214	1969	Kemmith Mosley	44	Frederick MD	51:43	48:42	7:51
+472	40/132	1201	Charles Gebbert	52	Rockville MD	51:50	48:43	7:51
+473	31/45	531	Raymond Aylor Iv	16	Silver Spring MD	52:33	48:43	7:51
+474	74/201	2444	Michael Siegel	45	Rockville MD	49:58	48:43	7:51
+475	93/214	559	Robert Barta	40	Olney MD	49:53	48:44	7:51
+476	41/132	139	John Debelius	52	Darnestown MD	50:09	48:44	7:51
+477	75/203	753	Greg Catron	36	Frederick MD	52:10	48:45	7:51
+478	94/214	2277	David Ries	44	Rockville MD	50:22	48:52	7:52
+479	76/203	2864	Marc Zwillinger	36	Bethesda MD	50:15	48:53	7:52
+480	31/48	1223	Brian Giganti	24	Olney MD	50:16	48:54	7:53
+481	41/96	1943	Joshua Model	27	Cambridge MA	56:16	48:54	7:53
+482	42/132	1064	Joseph Evers	50	Fairfax VA	50:23	48:57	7:53
+483	9/28	2400	Soren Scott	14	Kensington MD	52:04	48:58	7:53
+484	95/214	2399	John Scott	41	Kensington MD	52:04	48:58	7:53
+485	43/132	2098	Les Pang	53	Silver Spring MD	52:04	48:59	7:53
+486	96/214	643	Joseph Bottiglieri	44	Rockville MD	50:22	49:00	7:54
+487	75/201	1610	Joseph Kopanski	46	Takoma Park MD	50:34	49:00	7:54
+488	42/96	172	Hyunjun Jung	29	Oakton VA	52:35	49:01	7:54
+489	97/214	1666	Troy Lawrence	40	Damascus MD	52:02	49:01	7:54
+490	98/214	572	Gene Beard	41	Montgomery Vill	52:39	49:01	7:54
+491	2/19	3239	David Osias	66	Chevy Chase MD	50:26	49:02	7:54
+492	76/201	983	Chris Dominic	48	Bethesda MD	50:21	49:02	7:54
+493	44/132	655	Rod Brana	50	Mclean VA	52:45	49:06	7:54
+494	77/203	1577	Gerald King	37	Dunkirk MD	50:22	49:08	7:55
+495	32/45	1600	Michael Knestout	16	Brookeville MD	50:27	49:09	7:55
+496	78/203	709	Joe Byrnes Ii	36	Gaithersburg MD	50:30	49:10	7:55
+497	99/214	1766	Richard Luxenberg	40	Rockville MD	50:36	49:10	7:55
+498	45/132	2138	Pelle Persson	53	Washington DC	52:37	49:11	7:55
+499	15/73	631	Richard Bokansky	59	New Market MD	50:28	49:13	7:56
+500	77/201	141	Kris Dighe	46	Rockville MD	52:15	49:14	7:56
+501	78/201	2938	Carlos Saenz	46	Gaithersburg MD	50:43	49:14	7:56
+502	100/214	517	Sean Augerson	41	Damascus MD	52:38	49:15	7:56
+503	43/96	487	Matt Angelidis	26	Silver Spring MD	52:31	49:17	7:56
+504	7/50	1787	Steve Mahaney	60	Silver Spring MD	50:20	49:17	7:56
+505	101/214	3299	Steve Himmelsarv	40	Kensington MD	50:39	49:18	7:56
+506	102/214	727	Dan Carey	41	Rockville MD	50:28	49:18	7:56
+507	32/48	1679	Edwin Lee	22	Washington DC	50:31	49:18	7:56
+508	79/203	2848	Paul Zeller	36	Germantown MD	54:22	49:21	7:57
+509	80/203	1800	Bard Malovany	35	Arlington VA	50:48	49:21	7:57
+510	46/132	1227	John Gill	53	Potomac MD	50:40	49:21	7:57
+511	81/203	184	James Love	36	Rockville MD	53:10	49:27	7:58
+512	103/214	1484	William Johnson	40	Rockville MD	52:53	49:28	7:58
+513	33/45	2633	Josh Thompson	17	Clarksburg MD	50:51	49:28	7:58
+514	79/201	1235	David Givens	45	Bethesda MD	50:40	49:28	7:58
+515	104/214	2249	Phil Redmond	42	Bethesda MD	50:50	49:30	7:58
+516	105/214	155	Jonathan Ger	42	Olney MD	50:53	49:30	7:58
+517	106/214	1087	David Feitel	43	Rockville MD	50:45	49:30	7:58
+518	3/19	861	Tom Cowley	68	Gaithersburg MD	52:52	49:31	7:59
+519	47/132	794	Donald Chung	50	Rockville MD	51:03	49:32	7:59
+520	48/132	1396	Jonathan Hope	50	Silver Spring MD	52:48	49:32	7:59
+521	64/143	3045	Robert Richardson	34	Silver Spring MD	53:13	49:33	7:59
+522	107/214	2995	Ronald Tosh	43	Frederick MD	50:49	49:33	7:59
+523	44/96	1856	Moses Mccall	28	Silver Spring MD	50:57	49:33	7:59
+524	33/48	990	Matthew Dornic	24	Washington DC	53:28	49:34	7:59
+525	80/201	1053	Jose Escobar	46	Derwood MD	53:11	49:34	7:59
+526		2003	Chris Nash	0	Brookeville MD	51:04	49:35	7:59
+527	81/201	688	Jim Brumby	49	Washington DC	53:06	49:36	7:59
+528	4/19	213	Bill Sollers	66	Sliver Spring MD	50:38	49:36	7:59
+529	49/132	1345	Doug Harvey	51	Potomac MD	49:44	49:38	8:00
+530	50/132	1242	Brad Gold	52	Gaithersburg MD	50:50	49:40	8:00
+531	82/203	2002	Leon Nasar	37	Potomac MD	51:01	49:41	8:00
+532	45/96	2094	Sam Pan	27	Bethesda MD	52:57	49:41	8:00
+533	16/73	1630	Dan Kuhn	55	Germantown MD	53:04	49:41	8:00
+534	83/203	1763	Doug Lunenfeld	35	Rockville MD	50:54	49:42	8:00
+535	108/214	2869	Chris Doe	44	Reson VA	53:07	49:43	8:00
+536	82/201	491	Alan Ansher	49	Bethesda MD	50:50	49:44	8:01
+537	34/45	2381	Jeffrey Scholl	15	Bethesda MD	53:17	49:46	8:01
+538	83/201	1044	Keith Emery	48	Kensington MD	53:16	49:48	8:01
+539	65/143	2355	Tim Salo	33	Olney MD	51:12	49:48	8:01
+540	66/143	562	Andrew Battiata	33	Potomac MD	53:04	49:48	8:01
+541	84/201	1733	Robert Litman	49	Bethesda MD	53:15	49:48	8:01
+542	51/132	2579	Judry Subar	50	Potomac MD	51:06	49:50	8:02
+543	109/214	845	Tyrone Cook	40	Dale City VA	51:02	49:50	8:02
+544	85/201	1246	Saul Goldfarb	45	Rockville MD	51:07	49:52	8:02
+545	84/203	1806	David Mao	38	Olney MD	53:43	49:52	8:02
+546	8/50	2304	Harold Rosen	63	Potomac MD	51:14	49:55	8:02
+547	85/203	2598	Elvis Tanke	35	Reston VA	51:07	49:55	8:02
+548	110/214	150	Eric Fedowitz	41	Bethesda MD	53:12	49:56	8:03
+549	52/132	3264	Phil Malet	51	Rockville MD	51:02	49:57	8:03
+550	35/45	1625	Philip Kroeker	16	Rockville MD	51:11	49:57	8:03
+551	86/203	2798	Thomas Witz	37	Germantown MD	53:36	49:57	8:03
+552	67/143	899	John Darvish	33	Silver Spring MD	50:58	49:58	8:03
+553	111/214	1359	Stephen Heinsinger	42	Silver Spring MD	51:15	49:58	8:03
+554	112/214	1947	Sean Molloy	44	Rockville MD	51:27	49:58	8:03
+555	17/73	2827	Robert Yarchoan	55	Bethesda MD	51:25	49:58	8:03
+556	53/132	210	Wendell Smoot	51	Rockville MD	51:04	49:59	8:03
+557	113/214	2927	Samuel Juarez	43	Bethesda MD	53:13	50:00	8:03
+558	18/73	1899	Joseph Mctighe	58	Germantown MD	53:05	50:01	8:03
+559	86/201	1674	Jeffrey Leclaire	46	Waldorf MD	53:37	50:01	8:03
+560	87/203	2969	James Hodge	38	Kensington MD	53:10	50:03	8:04
+561	46/96	2742	Thomas Webster	25	Washington DC	53:17	50:06	8:04
+562	54/132	644	Martin Bowers	54	Germantown MD	51:27	50:06	8:04
+563	68/143	1233	Matthew Gittleson	31	Rockville MD	51:18	50:07	8:04
+564	88/203	1541	James Keller	38	Rockville MD	54:16	50:10	8:05
+565	89/203	620	Byron Blunt	35	Rockville MD	51:24	50:12	8:05
+566	90/203	2063	Eric Olson	37	Gaithersburg MD	53:58	50:12	8:05
+567	114/214	1700	James Leonard	43	Frederick MD	53:57	50:12	8:05
+568	115/214	1767	Mario Luzzi Jr	42	Rockvile MD	51:23	50:14	8:05
+569	55/132	1904	Peter Mechak	52	Rockville MD	54:08	50:15	8:06
+570	116/214	1683	Dan Lee	40	Clarksburg MD	51:52	50:15	8:06
+571	117/214	608	Scott Blackman	44	Gaithersburg MD	51:27	50:16	8:06
+572	69/143	142	Edwin Doe	34	Bethesda MD	53:38	50:16	8:06
+573	70/143	590	Andrew Bernstein	33	Bethesda MD	53:20	50:19	8:06
+574	56/132	1499	Michael Joyce	53	Ellicott City MD	51:36	50:19	8:06
+575	57/132	2824	Loren Yager	51	Bethesda MD	51:45	50:20	8:06
+576	71/143	1450	Michael Jackson	32	Germantown MD	53:33	50:21	8:07
+577	91/203	2975	Charles Mehler	36	Potomac MD	53:25	50:25	8:07
+578	92/203	710	Mike Byrum	35	Potomac MD	53:29	50:25	8:07
+579	93/203	1922	Patrick Miles	36	Baltimore MD	51:45	50:26	8:07
+580	34/48	2291	Richard Robinson	24	Silver Spring MD	53:43	50:27	8:08
+581	94/203	168	Chuck Iliff	38	Rockville MD	51:51	50:30	8:08
+582	87/201	1449	Fernando Izquierdo	45	Rockville MD	51:47	50:31	8:08
+583	72/143	2722	Bill Warren	33	Silver Spring MD	54:06	50:32	8:08
+584	118/214	1111	Joseph Fitzpatrick	44	Rockvilee MD	54:18	50:34	8:09
+585	58/132	716	John Cahill	54	North Bethesda M	54:01	50:35	8:09
+586	59/132	1372	Matthew Heyman	54	Potomac MD	51:57	50:35	8:09
+587	95/203	497	Pedro Arizti	36	Washington DC	51:46	50:37	8:09
+588	96/203	1005	Jason Duelge	37	Rockville MD	54:37	50:38	8:09
+589	19/73	2026	Earl Nicewarner	59	Gaithersburg MD	53:41	50:39	8:10
+590	73/143	3327	Michael Ryan	34	Arlington VA	54:00	50:40	8:10
+591	119/214	2829	Mike Yeager	40	Gaithersburg MD	51:59	50:41	8:10
+592	20/73	1792	Charles Majkrzak	56	Olney MD	55:49	50:41	8:10
+593	60/132	1483	Mark Johnson	54	Derwood MD	53:51	50:41	8:10
+594	120/214	1911	Yitbarek Mengistu	41	Silver Spring MD	51:47	50:42	8:10
+595	88/201	3214	Richard Schwartz	47	North Potomac MD	51:49	50:42	8:10
+596	74/143	2109	Mark Partridge	34	Gaithersburg MD	54:10	50:43	8:10
+597	35/48	1371	Chris Heuberger	23	Olney MD	54:05	50:45	8:10
+598	10/28	1007	Kaleb Duelge	13	Rockville MD	54:43	50:45	8:10
+599	9/50	1104	Earle Fingerhut	63	Potomac MD	53:54	50:46	8:11
+600	89/201	3352	Mike Mcgulgan	49	Mclean VA	52:14	50:46	8:11
+601	90/201	850	James Cooper	49	Alexandria VA	54:02	50:46	8:11
+602	61/132	844	Michael Cook	52	Dickerson MD	52:12	50:49	8:11
+603	62/132	2060	Victor Olano	52	Silver Spring MD	51:55	50:50	8:11
+604	10/50	154	Glenn Geelhoed	64	Derwood MD	51:54	50:52	8:12
+605	36/48	1432	Andrew Hutchinson	24	Washington DC	54:23	50:53	8:12
+606	21/73	116	Peter Boice	59	Rockville MD	52:20	50:54	8:12
+607	1/6	1892	Jack Mcmahon	75	Rockville MD	50:59	50:54*	8:12
+608	75/143	944	Matt Dicello	32	Boyds MD	52:25	50:54	8:12
+609	91/201	2485	Carl Smith	49	Rockville MD	55:06	50:55	8:12
+610	11/50	3212	William Griefs	60	Rockville MD	54:03	50:55	8:12
+611	121/214	3328	Jeff Miller	40	Potomac MD	52:19	50:56	8:12
+612	92/201	799	Leslie Clark	46	Severn MD	54:48	50:59	8:13
+613	5/19	808	Chet Coates	66	Silver Spring MD	52:10	51:03	8:13
+614	122/214	104	L. Felipe Arzayus	42	Laurel MD	54:18	51:03	8:13
+615	93/201	1216	Sid Getz	47	Bethesda MD	54:30	51:03	8:13
+616	22/73	193	Robert Parillo	59	Burke VA	54:09	51:04	8:13
+617	37/48	765	Calvin Chan	20	Gaithersburg MD	54:47	51:04	8:14
+618	63/132	1070	Philip Fabrizio	53	North Potomac MD	54:09	51:06	8:14
+619	94/201	852	Peter Cooper	47	Lovettsville VA	56:22	51:11	8:15
+620	6/19	1159	Rush Fritz	66	Washington DC	54:15	51:14	8:15
+621	76/143	2701	Ganesh Vishwanathan	30	Germantown MD	52:40	51:15	8:15
+622	64/132	671	William Britz	54	Montgomery Vill	55:19	51:17	8:16
+623	97/203	1909	Paul Meloan	38	Montgomery Vill	54:47	51:17	8:16
+624	98/203	2204	David Quam	38	Potomac MD	54:36	51:18	8:16
+625	123/214	993	Jonathan Dosik	43	Silver Spring MD	52:30	51:19	8:16
+626	124/214	2365	Anders Sandstrom	44	Silver Spring MD	54:31	51:19	8:16
+627	125/214	1579	Michael King	42	Gaithersburg MD	54:40	51:20	8:16
+628	65/132	2177	Lane Potkin	51	Bethesda MD	54:31	51:20	8:16
+629	47/96	1333	Kashif Haque	28	Gaithersburg MD	54:38	51:20	8:16
+630	48/96	2954	John Sullivan	25	Rockville MD	54:50	51:20	8:16
+631	126/214	3217	Phil Benoit	44	Eldersburg MD	54:43	51:21	8:16
+632	77/143	1394	Robert Holsopple	32	Columbia MD	54:38	51:22	8:16
+633	95/201	945	Thomas Didone	46	Gaithersburg MD	55:24	51:23	8:17
+634	99/203	1210	Vincent George	37	Bethesda MD	55:31	51:25	8:17
+635	96/201	551	Naba Barkakati	49	North Potomac MD	52:52	51:26	8:17
+636	66/132	1991	Phil Murphy	52	Rockville MD	54:34	51:27	8:17
+637	127/214	2820	Lewin Wright	44	Gertmantown MD	55:26	51:27	8:17
+638	100/203	578	Hedrick Belin	38	Silver Spring MD	55:09	51:28	8:17
+639	67/132	2376	Jeffery Schloss	54	Rockville MD	55:05	51:29	8:17
+640	49/96	1128	Megan Foran	28	Silver Spring MD	54:32	51:30	8:18
+641	36/45	962	Joshua Dingott	16	Potomac MD	52:45	51:30	8:18
+642	12/50	1071	Martin Faigin	62	Silver Spring MD	54:32	51:30	8:18
+643	50/96	1631	Dave Kulansky	26	Columbia MD	58:54	51:32	8:18
+644	51/96	2260	Massimo Renke	28	Chevy Chase MD	54:51	51:32	8:18
+645	101/203	1701	Mark Leonard	39	Gaithersburg MD	55:02	51:33	8:18
+646	97/201	2081	Terry Owen	48	Chevy Chase MD	52:56	51:33	8:18
+647	23/73	1925	Alan Miller	56	Rockville MD	55:42	51:35	8:18
+648	68/132	2409	Stephen Seidel	53	Chevy Chas MD	55:43	51:35	8:19
+649	128/214	2972	Todd Regnell	41	Rockville MD	52:47	51:36	8:19
+650	24/73	2208	Timothy Quinn	57	Woodbridge VA	55:04	51:37	8:19
+651	102/203	3016	Jim Delorenzo	37	.	55:33	51:37	8:19
+652	129/214	1406	French Horwitz	41	Brookeville MD	55:39	51:38	8:19
+653	52/96	235	Richard Balsewich	29	Germantown MD	55:13	51:39	8:19
+654	69/132	575	Ted Bechtol	53	Silver Spring MD	54:42	51:40	8:19
+655	70/132	2738	William Webber	52	Bethesda MD	55:30	51:41	8:19
+656	103/203	2967	Chris Dahlin	39	Rockville MD	55:27	51:41	8:20
+657	98/201	1801	Don Mandich	48	Dunn Loring VA	54:59	51:42	8:20
+658	99/201	966	Jeff Disbrow	45	Potomac MD	53:10	51:42	8:20
+659	130/214	2583	Doug Sullivan	44	Clarksville MD	55:18	51:42	8:20
+660	53/96	1023	Andrew Eckert	26	Gaithersburg MD	55:02	51:44	8:20
+661	100/201	2833	Se Youn	49	Germantown MD	54:46	51:44	8:20
+662	131/214	1830	Peter Maser	44	Potomac MD	53:02	51:45	8:20
+663	13/50	2066	Keith Ord	63	Potomac MD	55:13	51:45	8:20
+664	104/203	1507	John Kagwa	37	Silver Spring MD	55:10	51:45	8:20
+665	101/201	901	Christian Daubert	47	Fairfax VA	55:32	51:48	8:21
+666	102/201	2123	Scott Peel	48	Potomac MD	54:54	51:50	8:21
+667	132/214	2592	Richard Szwerc	42	Gaithersburg MD	55:13	51:50	8:21
+668	105/203	592	Michael Bertocchi	35	Silver Spring MD	54:58	51:50	8:21
+669	11/28	514	Michael Aubertin	11	Rockville MD	54:59	51:51	8:21
+670	133/214	428	Derrick Wright	41	New Market MD	55:35	51:54	8:22
+671	134/214	1974	Kevin Mozdy	41	Baltimore MD	55:52	51:55	8:22
+672	7/19	1703	Michael Leonard	68	Silver Spring MD	55:26	51:59	8:22
+673	71/132	695	David Bunn	50	Germantown MD	55:30	52:01	8:23
+674	78/143	2064	Leif Olson	32	Gaithersburg MD	53:24	52:02	8:23
+675	135/214	1434	Leon Hwang	40	Potomac MD	55:41	52:03	8:23
+676	79/143	2284	Mark Rittenberg	34	Bethesda MD	55:09	52:05	8:23
+677	106/203	2503	Jason Snyder	38	Boyds MD	53:24	52:06	8:23
+678	72/132	1405	Peter Horton	50	Germantown MD	53:38	52:06	8:23
+679	54/96	1428	Tim Hunt	28	Rockville MD	55:39	52:06	8:23
+680	107/203	807	John Coakley	38	New Market MD	53:31	52:06	8:23
+681	136/214	2924	Nanjan Selvaraj	41	Rockville MD	53:30	52:07	8:24
+682	103/201	1599	Bob Knestout	46	Brookeville MD	53:28	52:07	8:24
+683	80/143	137	Roy Crumrine	33	Germantown MD	55:13	52:08	8:24
+684	137/214	2638	Tim Thurmond	42	Silver Spring MD	55:50	52:09	8:24
+685	138/214	613	Dave Blankenship	40	Boyds MD	55:19	52:11	8:24
+686	73/132	208	Barry Smith	53	Silver Spring MD	55:54	52:11	8:24
+687	74/132	771	Frank Chang	51	Potomac MD	53:18	52:12	8:24
+688	104/201	2679	Kevin Vaillant	45	Rockville MD	53:33	52:12	8:24
+689	108/203	1926	Rachel Miller	36	Gaithersburg MD	55:35	52:13	8:25
+690	81/143	2665	Sinan Turnacioglu	31	Bethesda MD	55:50	52:19	8:26
+691	25/73	1059	Ignacio Estevez	55	Rockville MD	55:32	52:21	8:26
+692	109/203	2359	Aseer Samuel	35	Rockville MD	55:40	52:21	8:26
+693	2/3	209	Robert Smith	72	Comus MD	52:27	52:24	8:26
+694	139/214	2166	Stuart Plotnick	43	Rockville MD	53:53	52:25	8:27
+695	55/96	2369	Christoph Saunders	27	Columbia MD	56:09	52:26	8:27
+696	82/143	1273	Kevin Gray	34	Germantown MD	55:29	52:28	8:27
+697	12/28	1903	Mark Mechak	13	Rockville MD	56:22	52:30	8:27
+698	105/201	2377	Steven Schmidt	46	Boyds MD	56:27	52:30	8:27
+699	106/201	2632	Michael Thompson	45	Germantown MD	55:37	52:30	8:27
+700	107/201	2422	Barry Shapiro	48	Potomac MD	53:38	52:31	8:27
+701	108/201	1208	Barry Geisler	47	Potomac MD	56:01	52:32	8:28
+702	83/143	2441	Kenneth Shortall	32	Rockville MD	56:28	52:32	8:28
+703	75/132	736	Robert Carnevale	51	Silver Spring MD	56:17	52:33	8:28
+704	140/214	2301	Gregory Romero	41	Bristow VA	55:34	52:34	8:28
+705	109/201	1168	Ken Fujikura	45	Gaithersburg MD	55:54	52:34	8:28
+706	110/201	1545	Christoph Kelly	48	Rockville MD	55:43	52:38	8:29
+707	56/96	1527	Amir Kashani	29	Baltimore MD	55:55	52:38	8:29
+708	141/214	2495	Robert Smith	44	Silver Spring MD	56:18	52:38	8:29
+709	110/203	2053	Cary O'reilly	39	Silver Spring MD	55:45	52:39	8:29
+710	111/201	870	Robert Cross	48	Silver Spring MD	55:56	52:40	8:29
+711	142/214	3272	Walter Liv	43	Gaithersburg MD	55:54	52:41	8:29
+712	112/201	2107	Jim Parsons	47	Bristow VA	56:26	52:42	8:29
+713	143/214	1841	Michael Mattison	44	Gaithersburg MD	55:58	52:42	8:29
+714	144/214	2155	Brian Pike	40	Derwood MD	56:01	52:42	8:29
+715	57/96	1419	David Huang	26	Severn MD	53:48	52:42	8:29
+716	14/50	105	Jose Ayala	63	Kensington MD	53:48	52:43	8:29
+717	84/143	2749	Joshua Weinberg	33	Bethesda MD	56:01	52:46	8:30
+718	111/203	622	James Boden	36	Washington DC	56:02	52:47	8:30
+719	38/48	2373	Nicholas Schaeffer	21	Baltimore MD	55:52	52:49	8:30
+720	76/132	3002	Steven Laur	54	Rockville MD	57:52	52:50	8:31
+721	145/214	3311	Steve Chojna	44	Potomac MD	53:57	52:51	8:31
+722	15/50	1889	Martin Mclean	61	Potomac MD	55:54	52:53	8:31
+723	113/201	2001	Paul Nalikka	49	Boyds MD	54:08	52:54	8:31
+724	112/203	2101	Omar Pardo	35	Urbana MD	56:43	52:55	8:31
+725		1999	Alan Nadelbach		Columbia MD	54:16	52:56	8:32
+726	114/201	2956	Tim Ambrose	46	Laurel MD	56:36	52:56	8:32
+727	26/73	2907	Thomas Gallo	56	Rockville MD	56:35	53:00	8:32
+728	113/203	1494	Darius Jones	35	Clarksburg MD	56:35	53:00	8:32
+729	16/50	2801	Robert Wolff	62	Potomac MD	56:25	53:03	8:33
+730	27/73	451	Richard Adkins	58	Damascus MD	56:08	53:05	8:33
+731	28/73	1125	Robert Fontana	56	Potomac MD	56:09	53:07	8:33
+732	114/203	767	Peter Chan	36	Germantown MD	56:31	53:07	8:33
+733	115/203	2788	Larry Willis	39	Chevy Chase MD	56:34	53:09	8:34
+734	85/143	1395	Edward Holt	31	Washington DC	56:20	53:09	8:34
+735	37/45	2446	William Siegel	17	Rockville MD	54:35	53:11	8:34
+736	29/73	2090	Thomas Palagano	55	Chevy Chase MD	56:41	53:15	8:35
+737	115/201	1073	Hamid Fallahi	48	Potomac MD	54:22	53:15	8:35
+738	86/143	2036	Dennis Norkiewicz	32	Olney MD	56:31	53:15	8:35
+739	146/214	2416	Joseph Shaffner	43	Silver Spring MD	56:40	53:16	8:35
+740	39/48	2986	Ashwin Singh	23	Gaithersburg MD	56:21	53:17	8:35
+741	77/132	2530	Stuart Spielman	54	Potomac MD	56:21	53:17	8:35
+742	116/203	2962	David Birely	36	Germantown MD	56:28	53:18	8:35
+743	117/203	1254	Mark Gooding	35	Damascus MD	56:55	53:18	8:35
+744	17/50	1118	Samuel Floyd	63	Columbia MD	56:38	53:19	8:35
+745	87/143	1535	Michael Kaufman	34	Rockville MD	57:08	53:19	8:35
+746	78/132	2770	Dave White	50	Silver Spring MD	54:25	53:23	8:36
+747	118/203	2595	Dylan Tait	35	Boyds MD	57:16	53:24	8:36
+748	88/143	1335	Chris Harback	34	Bathesda MD	58:31	53:24	8:36
+749	18/50	2174	Bill Porton	63	Glenwood MD	56:26	53:24	8:36
+750	119/203	2099	Patrick Paolini	38	North Potomac MD	56:35	53:25	8:36
+751	120/203	3204	Noel King	36	Comus MD	57:20	53:25	8:36
+752	79/132	2636	John H Thornton	53	Columbia MD	56:53	53:26	8:36
+753	121/203	2332	Jaime Rummler	37	Gaithersburg MS	56:34	53:29	8:37
+754	116/201	1996	Linda Mutziger	48	Laytonsville MD	56:51	53:29	8:37
+755	117/201	887	James Dalbora	45	Olney MD	57:11	53:30	8:37
+756	147/214	455	Jun Ahn	40	Cabin John MD	56:36	53:30	8:37
+757	30/73	1175	Albert Galdi	55	Rockville MD	56:58	53:32	8:37
+758	118/201	2111	Kamlesh Patel	48	Germantown MD	56:38	53:32	8:37
+759	89/143	755	Kevin Caudell	33	Frederick MD	54:36	53:33	8:38
+760	148/214	1768	Doug Lwin	44	North Potomac MD	56:33	53:35	8:38
+761	80/132	479	Myron Anderson	50	Gaithersburg MD	57:33	53:36	8:38
+762	122/203	1638	Victor Lacy	39	Gaithersburg MD	57:20	53:37	8:38
+763	58/96	1924	Greg Miller	27	Sterling VA	57:00	53:38	8:38
+764	119/201	3278	John Winkert	49	S. Riding VA	56:47	53:38	8:38
+765	81/132	1492	Purley Jones	52	Gaithersburg MD	56:51	53:41	8:39
+766	149/214	1715	Jiang Li	41	Great Falls VA	56:42	53:42	8:39
+767	59/96	1750	Mike Lorete	26	Montgomery Vill	57:32	53:43	8:39
+768	150/214	2842	Juan Zaldumbide	41	Frederick MD	56:54	53:44	8:39
+769	82/132	454	Hyunsu Ahn	51	Silverspring MD	56:48	53:45	8:39
+770	120/201	1353	Michael Hayre	48	Olney MD	57:13	53:46	8:40
+771	40/48	2202	Matt Pullen	20	Silver Spring MD	57:42	53:47	8:40
+772	123/203	2640	John Tisaranni	36	Germantown MD	57:31	53:47	8:40
+773	19/50	2472	Richard Siracusa	63	Washington DC	57:00	53:47	8:40
+774	151/214	134	Lake Coulson	41	Gaithersburg MD	55:07	53:48	8:40
+775	124/203	1226	John Gill	35	Germantown MD	57:27	53:48	8:40
+776	152/214	2539	Rick Stahovec	42	Silver Spring MD	57:25	53:49	8:40
+777	121/201	2992	Michael April	48	Potomac MD	57:17	53:50	8:40
+778	125/203	2280	Bill Riggs	36	Poolesville MD	57:24	53:50	8:40
+779	126/203	2320	Harry Rowell	38	Elkridge MD	57:42	53:50	8:40
+780	20/50	2318	William Rowell	62	Olney MD	57:42	53:51	8:40
+781	83/132	750	Robert Cassagnol	50	Silver Spring MD	55:00	53:51	8:40
+782	31/73	869	John Cromwell	55	Silver Spring MD	57:14	53:52	8:41
+783	122/201	1296	Jeff Gura	47	Potomac MD	57:10	53:52	8:41
+784	13/28	1297	Colin Gura	12	Potomac MD	57:10	53:53	8:41
+785	127/203	2511	Andrew Solberg	37	Germantown MD	57:45	53:56	8:41
+786	90/143	421	Brett Hoffman	32	Rockville MD	57:31	53:58	8:42
+787	128/203	1256	Richard Goorevich	39	Gaithersburg MD	59:09	54:00	8:42
+788	84/132	112	Steven Beatrice	53	Germantown MD	57:34	54:00	8:42
+789	14/28	868	Tony Crist	12	Silver Spring MD	55:13	54:03	8:42
+790	85/132	2169	David Podolsky	54	Derwood MD	57:47	54:04	8:42
+791	86/132	1848	Patrick May	52	Rockville MD	57:43	54:04	8:42
+792	15/28	1555	Jon Kesler	-1	Silver Spring MD	59:20	54:06	8:43
+793	91/143	3257	Greg Mason	33	Frederick MD	57:51	54:07	8:43
+794	60/96	1802	Brendan Manfreda	26	Rockville MD	58:04	54:10	8:43
+795	153/214	2711	Greg Walker	44	Silver Spring MD	57:51	54:13	8:44
+796	87/132	2457	Jon Simon	50	Bethesda MD	55:41	54:14	8:44
+797	123/201	2850	Mark Zentz	47	Brookeville MD	57:45	54:14	8:44
+798	8/19	1542	Kenneth Kelley	67	Barnesville MD	57:18	54:15	8:44
+799	88/132	2654	Dave Traynor	52	Gaithersburg MD	57:52	54:16	8:44
+800	129/203	2414	Matt Seubert	36	Germantown MD	59:43	54:22	8:45
+801	92/143	1785	Mark Magdaleno	31	Kensington MD	57:42	54:22	8:45
+802	93/143	3022	Joe Boisvert	30	Cabin John MD	58:10	54:24	8:46
+803	124/201	1184	Jayprakas Gandhi	49	Boyds MD	57:29	54:24	8:46
+804	89/132	218	Steuart Thomsen	52	Chevy Chase MD	58:14	54:24	8:46
+805	94/143	776	Ray Chen	30	Rockville MD	58:13	54:24	8:46
+806	21/50	836	Bruce Congdon	60	Silver Spring MD	58:01	54:27	8:46
+807	125/201	2367	John Santell	48	Gaithersburg MD	58:12	54:30	8:47
+808	154/214	564	Brian Bauk	42	Ashton MD	57:32	54:32	8:47
+809	126/201	3233	Howard Tracer	48	Potomac MD	57:38	54:33	8:47
+810	155/214	705	Thompson Butz	42	Boyds MD	58:30	54:33	8:47
+811	32/73	2586	George Sushinsky	59	Rockville MD	58:19	54:33	8:47
+812	156/214	3295	Dave Feldman	43	Kensington MD	57:39	54:34	8:47
+813	130/203	2670	Mark Uhl	38	Gaithersburg MD	57:55	54:36	8:48
+814	22/50	1512	Kit-Keung Kan	62	Bethesda MD	58:01	54:38	8:48
+815	131/203	1788	Greg Maidens	39	Monrovia MD	58:07	54:41	8:48
+816	61/96	938	Arzan Devlaliwalla	29	Olney MD	57:57	54:43	8:49
+817	127/201	1036	Jim Elbe	48	Lorton VA	58:02	54:44	8:49
+818	62/96	2970	Scott Moerschbacher	26	Silver Spring MD	58:17	54:46	8:49
+819	157/214	1753	Gene Doe	40	Stone Ridge VA	58:13	54:46	8:49
+820	95/143	2857	Matthew Zisman	33	Bethesda MD	58:34	54:48	8:50
+821	33/73	2086	Tim Pagana	56	Kensington MD	58:28	54:50	8:50
+822	128/201	1897	David Mcpherson	47	Bethesda MD	58:53	54:52	8:50
+823	90/132	3309	Barry Merritt	54	Gaithersburg MD	58:50	54:57	8:51
+824	129/201	99	Ronald Alexander	47	Washington DC	58:21	54:57	8:51
+825	91/132	2939	David Dickson	52	Bethesda MD	58:11	54:58	8:51
+826	63/96	1463	Clifford James	26	Rockville MD	58:37	54:59	8:51
+827	23/50	779	Nathan Cheney	64	Gaithersburg MD	58:11	55:00	8:51
+828	130/201	1013	Patrick Durbin	45	Rockville MD	58:15	55:01	8:52
+829	96/143	1174	Benjamin Galbraith	31	Bethesda MD	59:03	55:03	8:52
+830	158/214	1928	Tomas Miller	43	Potomac MD	58:24	55:06	8:52
+831	159/214	2191	Timothy Prindle	44	Silver Spring MD	59:02	55:11	8:53
+832	132/203	837	Steve Connaghan	36	Wheaton MD	1:00:22	55:12	8:53
+833	133/203	918	Ramoncito Deborja	37	Rockville MD	58:25	55:14	8:54
+834	134/203	2283	Howard Rittenberg	36	Derwood MD	58:19	55:15	8:54
+835	92/132	1025	Jack Edwards	52	Clarksburg MD	58:21	55:17	8:54
+836	93/132	2631	Fred Thompson	54	Sykesville MD	59:12	55:17	8:54
+837	34/73	892	Bill Daniels	58	Chevy Chase MD	58:51	55:17	8:54
+838	135/203	803	Billy Clem	36	Frederick MD	58:44	55:19	8:55
+839	131/201	976	Michael Dobbs	46	Olney MD	58:35	55:26	8:56
+840	160/214	2922	John Hannan	40	Germantown MD	55:29	55:26	8:56
+841	94/132	1569	Jong Kim	53	Silver Spring MD	59:21	55:32	8:57
+842	35/73	3320	Murrey Horwitz	56	Chevy Chase MD	58:38	55:33	8:57
+843	132/201	2269	Kevin Ricci	47	Darnestown MD	59:05	55:33	8:57
+844	64/96	2877	Joshua Sircus	28	Clarksburg MD	58:40	55:35	8:57
+845	97/143	760	Fernando Cerrato	32	Frederick MD	56:43	55:38	8:58
+846	133/201	2384	Thomas Schruben	48	Kensington MD	58:45	55:40	8:58
+847	136/203	3237	David Bruner	36	Gaithersburg MD	56:59	55:41	8:58
+848	137/203	2054	Christoph Obremski	39	Mount Airy MD	56:51	55:41	8:58
+849	98/143	597	Richard Bettencourt	34	Gatihersburg MD	56:59	55:42	8:58
+850	9/19	3218	Roger Burkhart	68	Gaithersburg MD	59:01	55:42	8:58
+851	65/96	1364	Jason Henderson	25	College Park MD	59:20	55:45	8:59
+852	138/203	1279	Jeffrey Greenberg	37	Rockville MD	59:19	55:48	8:59
+853	161/214	3297	Craig Sumberg	43	Rockville MD	59:09	55:48	8:59
+854	162/214	2937	Moses Webster	43	Silver Spring MD	59:23	55:48	8:59
+855	41/48	3316	Michael Lee	21	Rockville MD	59:05	55:49	8:59
+856	99/143	2943	Thomas Bonier	31	Wheaton MD	59:46	55:50	8:59
+857	139/203	3337	Paul Dever	37	Wheaton MD	1:01:00	55:50	9:00
+858	95/132	1984	Rafael Munoz	54	Bethesda MD	59:01	55:50	9:00
+859	36/73	1091	Lee Feldstein	57	Takoma Park MD	59:39	55:51	9:00
+860	140/203	1065	Doug Evers	37	Clarksville MD	59:00	55:53	9:00
+861	100/143	623	Brian Boettger	32	Arlington VA	59:39	55:53	9:00
+862	96/132	2875	Tom Ruck	53	Gaithersburg MD	59:02	55:53	9:00
+863	66/96	785	Glen Chin	28	Temple Hills MD	1:00:01	55:54	9:00
+864	37/73	2768	Frank White	59	Gaithersburg MD	59:47	55:54	9:00
+865	38/73	2588	Don Switzer	58	Mt. Airy MD	59:57	55:55	9:00
+866	97/132	2093	Robert Palmer	53	North Bethesda M	59:16	55:55	9:00
+867	163/214	2550	Andrew Steinfeld	43	Silver Spring MD	59:45	55:56	9:00
+868	98/132	3018	James Carr	53	Mclean VA	56:03	55:58	9:01
+869	164/214	1182	David Gamzon	42	Rockville MD	59:18	55:59	9:01
+870	134/201	2030	James Nickerson	48	Olney MD	59:52	56:01	9:01
+871	135/201	2022	David Newcomer	45	Germantown MD	59:45	56:03	9:02
+872	101/143	968	Marshall Dispenza	30	Arlington VA	59:08	56:04	9:02
+873	24/50	3258	Steven Rabb	60	Silver Spring MD	59:42	56:05	9:02
+874	39/73	2882	Joe Thomas	58	Germantown MD	59:54	56:09	9:03
+875	136/201	1277	Clarke Green	49	Bethesda MD	59:40	56:14	9:03
+876	102/143	1138	Mike Fox	34	Gaithersburg MD	1:00:13	56:14	9:03
+877	3/3	161	Robert Gurtler	71	The Plains VA	57:19	56:14	9:03
+878	2/6	2894	Thomas Brown	75	Potomac MD	59:46	56:16*	9:04
+879	3/6	2822	Nianxiang Xie	78	Rockville MD	56:22	56:17*	9:04
+880	25/50	2605	Len Taylor	64	Gaithersburg MD	59:53	56:20	9:04
+881	40/73	2374	Gary Schaible	58	Silver Spring MD	1:00:15	56:20	9:04
+882	99/132	2780	Clarence Williams	51	Germantown MD	1:00:03	56:21	9:05
+883	141/203	1057	Jairo Esteban	37	Rockville MD	59:38	56:22	9:05
+884	142/203	674	John Brodie	39	Chevy Chase MD	57:32	56:26	9:05
+885	165/214	473	Mark Anchor	43	Rockville MD	59:37	56:27	9:06
+886	41/73	1963	John Morris	58	Fairfax Station	59:32	56:29	9:06
+887	103/143	1068	Olan Ezequiel	32	Rockville MD	57:44	56:32	9:06
+888	38/45	2934	Faustino Fuentes	18	Gaithersburg MD	57:44	56:33	9:06
+889	42/48	2619	William Terrill	23	Gaithersburg MD	1:00:32	56:37	9:07
+890	166/214	1772	Jeff Macafee	41	Germantown MD	1:00:04	56:37	9:07
+891	16/28	1281	Sam Greenberg	14	Rockville MD	1:00:25	56:39	9:07
+892	137/201	1648	Bart Lanman	48	Silver Spring MD	59:53	56:41	9:08
+893	167/214	1421	Tom Huffman Jr	44	Keedysville MD	1:00:43	56:42	9:08
+894	143/203	2385	Michael Schuchert	35	Arlington VA	1:00:40	56:43	9:08
+895	138/201	583	Brent Berger	47	Potomac MD	1:00:11	56:43	9:08
+896	139/201	1143	Mitchell Franklin	46	Germantown MD	1:00:26	56:43	9:08
+897	140/201	2176	Douglas Poster	48	Smithsburg MD	1:00:47	56:43	9:08
+898	141/201	1589	Edward Klees	46	Bethesda MD	1:00:05	56:45	9:08
+899	142/201	460	Craig Alexander	46	Bethesda MD	1:00:05	56:45	9:08
+900	144/203	1680	Edward Lee	36	Rockville MD	1:00:01	56:45	9:08
+901	104/143	2164	Anthony Pisarenkov	32	Washington DC	1:00:11	56:47	9:09
+902	100/132	1193	Mike Garvey	52	Washington DC	1:00:41	56:47	9:09
+903	67/96	2535	David Sracic	26	Gaithersburg MD	1:02:00	56:50	9:09
+904	145/203	3044	Joseph Hall	39	Washington DC	1:00:52	56:53	9:10
+905	26/50	1609	Peter Konigsberg	62	Potomac MD	1:02:24	56:54	9:10
+906	146/203	3261	Jess Soslend	39	Washington DC	1:02:06	56:54	9:10
+907	143/201	580	Michael Benjamin	45	Pasadena MD	1:00:37	56:56	9:10
+908	168/214	1142	Ben Frank	41	Olney MD	1:01:01	56:56	9:10
+909	169/214	1224	John Gilbert	42	Germantown MD	1:00:11	56:56	9:10
+910	144/201	2116	Tarquenni Payne	46	Laurel MD	58:05	56:57	9:10
+911	27/50	605	Max Billinger	62	Montgomery Vill	1:00:06	57:00	9:11
+912	147/203	1842	Mark Matusek	39	Derwood MD	1:00:18	57:00	9:11
+913	170/214	2771	David Whiteis	44	Germantown MD	1:01:01	57:00	9:11
+914	171/214	1757	John Lucas	42	Bethesda MD	1:00:38	57:01	9:11
+915	172/214	1283	Allen Greenberg	44	Rockville MD	1:00:49	57:02	9:11
+916	17/28	1282	Michael Greenberg	12	Rockville MD	1:00:48	57:02	9:11
+917	173/214	164	David Hernandez	40	Gaithersburg MD	1:00:50	57:03	9:11
+918	42/73	2012	Randall Nelson	58	Silver Spring MD	1:00:39	57:05	9:12
+919	105/143	1176	Randy Gale	30	Washington DC	1:00:59	57:05	9:12
+920	174/214	156	Frederick Gilliam	43	Chevy Chase MD	1:00:11	57:05	9:12
+921	148/203	3043	Barnaby Crahan	38	Chevy Chase MD	1:01:06	57:06	9:12
+922	106/143	452	Robert Adkins	34	Potomac MD	1:00:19	57:07	9:12
+923	43/48	1900	Scott Mead	24	Silver Spring MD	1:02:18	57:07	9:12
+924	145/201	1090	Howard Feldman	49	Silver Spring MD	1:00:21	57:10	9:12
+925	68/96	3276	Daniel Alman	29	Chevy Chase MD	1:00:31	57:10	9:12
+926	146/201	2909	John Jost	47	Gaithersburg MD	1:00:53	57:11	9:13
+927	175/214	1850	David Mazel	43	Silver Spring MD	1:02:19	57:11	9:13
+928	176/214	768	Len Chandler	42	Gaithersburg MD	1:00:35	57:12	9:13
+929	43/73	1937	Dominic Miranda	56	Silver Spring MD	1:00:46	57:13	9:13
+930	107/143	2544	Scott Stecker	34	Arlington VA	1:00:55	57:15	9:13
+931	108/143	684	Sam Brown	31	Laurel MD	1:01:19	57:16	9:13
+932	101/132	190	Dat Nguyen	53	North Potomac MD	1:00:20	57:16	9:13
+933	147/201	735	Jeff Carmines	45	Silver Spring MD	1:00:54	57:19	9:14
+934	149/203	1839	Sunil Mathew	37	Poolesville MD	1:02:24	57:20	9:14
+935	148/201	1240	Lionel Gloster	47	Seabrook MD	58:41	57:20	9:14
+936	177/214	2785	Richard Williams	43	N Potomac MD	1:00:54	57:24	9:15
+937	149/201	1810	Alan Marcus	45	Olney MD	1:00:26	57:24	9:15
+938	178/214	589	Howie Berliner	41	Washington DC	1:01:23	57:27	9:15
+939	109/143	2331	James Rumbaugh	33	Silver Spring MD	1:00:49	57:27	9:15
+940	150/201	1821	Paul Martin	46	Bethesda MD	1:01:23	57:31	9:16
+941	102/132	2157	Steven Pines	53	Potomac MD	58:42	57:33	9:16
+942	150/203	1761	Ron Luna	36	Germantown MD	59:02	57:35	9:16
+943	151/201	130	Andrew Colliton	46	Silver Spring MD	1:00:39	57:36	9:17
+944	69/96	544	Glenn Ballard	28	Washington DC	1:01:30	57:36	9:17
+945	103/132	3308	Steve Heagy	52	Hagerstown MD	1:01:42	57:39	9:17
+946	110/143	1760	Jonson Lum	31	South Riding VA	59:04	57:39	9:17
+947	151/203	1834	Michael Massaro	36	Boyds MD	1:01:15	57:46	9:18
+948	152/203	2959	James Koutsos	36	Boyds MD	1:01:15	57:46	9:18
+949	70/96	2119	Stephen Peck	27	Germantown MD	1:02:57	57:49	9:19
+950	152/201	2462	Alan Sims	49	Gaithersburg MD	1:03:08	57:49	9:19
+951	153/201	2349	Ira Sachs	47	Derwood MD	1:00:53	57:51	9:19
+952	10/19	1408	Gregg Houghton	66	Bethesda MD	1:01:49	57:51	9:19
+953	28/50	196	Alan Penn	63	Rockville MD	1:01:10	57:52	9:19
+954	39/45	1448	Brandon Iwamoto	17	Rockville MD	1:01:33	57:55	9:20
+955	154/201	2747	Matthew Weinberg	48	Bethesda MD	59:11	57:55	9:20
+956	18/28	2478	Michael Weinberg	12	Bethesda MD	59:11	57:56	9:20
+957	111/143	1147	Keith Freeburn	32	Centreville VA	1:01:51	57:56	9:20
+958	44/73	1981	William Mullins	55	Potomac MD	1:01:29	57:57	9:20
+959	104/132	1306	John Haaga	52	Bethesda MD	1:02:02	57:57	9:20
+960	112/143	1837	Carlos Mata	31	Silver Spring MD	1:01:35	57:57	9:20
+961	155/201	1366	Jeffrey Herbert	46	Derwood MD	1:03:09	57:58	9:20
+962	113/143	1524	Jeffrey Karton	34	Rockville MD	59:26	57:58	9:20
+963	179/214	848	J Scott Cooper	43	Lutherville MD	1:01:11	57:58	9:20
+964	45/73	1759	Stanley Lugerner	55	Potomac MD	1:03:03	57:59	9:20
+965	153/203	1088	Gary Feldman	39	Rockville MD	59:26	57:59	9:20
+966	154/203	1046	Rob Engels	36	Gaithersburg MD	1:03:26	58:01	9:21
+967	180/214	2673	Jerry Ulrich	44	Jefferson MD	1:01:37	58:01	9:21
+968	40/45	792	Kevin Chung	16	Rockville MD	1:03:05	58:02	9:21
+969	114/143	2740	Charles Webster	34	Baltimore MD	59:38	58:03	9:21
+970	155/203	2285	Robert Ritter	35	Rockville MD	1:03:26	58:04	9:21
+971	71/96	823	Jason Cohen	29	Bethesda MD	1:01:33	58:05	9:21
+972	72/96	2853	Jason Zhang	25	N. Potomac MD	1:01:36	58:06	9:21
+973	46/73	1781	Alan Madison	57	Gaithersburg MD	1:01:40	58:06	9:21
+974	105/132	1003	Arthur Dubin	53	Potomc MD	1:03:15	58:07	9:22
+975	44/48	1230	A. Zachar Girod	24	Bethesda MD	1:01:36	58:07	9:22
+976	115/143	2517	Andrew Sorkin	33	Brookeville MD	1:01:33	58:11	9:22
+977	156/203	851	James Cooper	38	New Market MD	1:02:02	58:12	9:22
+978	157/203	2276	Michael Riegel	35	Montgomery Vill	1:01:48	58:15	9:23
+979	73/96	774	Michael Chau	27	Silver Spring MD	1:02:19	58:16	9:23
+980	158/203	1340	Joe Harrington	35	Alexandria VA	1:02:05	58:18	9:23
+981	156/201	2784	Jim Williams	49	Gaithersburg MD	1:01:20	58:19	9:23
+982	116/143	1317	Richard Hall	30	Falls Church VA	1:02:05	58:19	9:24
+983	74/96	536	Tim Badaczewski	27	Germantown MD	1:03:29	58:21	9:24
+984	29/50	801	Kenneth Classon	61	Gaithersburg MD	1:02:18	58:21	9:24
+985	159/203	3007	Karl Crandall	36	Wheaton MD	1:01:53	58:24	9:24
+986	181/214	2220	Tim Rail	41	Rockville MD	1:03:31	58:24	9:24
+987	117/143	2151	Selwyn Pianim	32	Hyattsville MD	1:01:27	58:24	9:24
+988	30/50	195	David Pee	62	Rockville MD	1:03:28	58:25	9:24
+989	160/203	2914	Emaad Burki	36	Gaithersburg MD	1:02:17	58:25	9:25
+990	11/19	2324	Philip Rubin	69	Washington DC	1:01:49	58:26	9:25
+991	31/50	2668	John Tydings	64	Potomac MD	1:01:50	58:27	9:25
+992	118/143	2466	Craig Sims	34	Newark NJ	59:32	58:28	9:25
+993	161/203	1980	Praveen Mullacherry	35	Rockville MD	1:01:53	58:28	9:25
+994	75/96	1177	Mark Galiano	27	Silver Spring MD	1:01:32	58:28	9:25
+995	162/203	3231	Alan Zwart	35	Washington DC	1:01:32	58:29	9:25
+996	32/50	911	Robert Day	60	Rockville MD	1:01:33	58:30	9:25
+997	157/201	981	Steven Doherty	45	Rockville MD	1:01:42	58:34	9:26
+998	158/201	1212	Tim George	45	Davidsonville MD	1:01:42	58:34	9:26
+999	76/96	2493	Michael Smith	28	Derwood MD	1:03:46	58:34	9:26
+1000	163/203	2746	Harrison Wein	37	Rockville MD	1:03:41	58:35	9:26
+1001	106/132	1709	Mark Levitt	50	Bethesda MD	59:53	58:37	9:26
+1002	41/45	1710	Joel Levitt	15	Bethesda MD	59:54	58:38	9:27
+1003	182/214	1562	Alan Kick	42	Alexandria VA	1:01:58	58:39	9:27
+1004	183/214	1780	Jim Macmillan	40	Olney MD	1:03:45	58:42	9:27
+1005	184/214	1404	John Horton	44	Montgomery Vill	1:02:49	58:43	9:27
+1006	77/96	1794	Theodore Malaska	28	Gaithersburg MD	1:02:49	58:43	9:27
+1007	33/50	1531	Ronald Katz	63	Potomac MD	1:02:45	58:44	9:27
+1008	78/96	430	Tony Hugueley	29	Urbana MD	1:02:27	58:45	9:28
+1009	119/143	603	Nikhil Bijlani	34	Rockville MD	1:02:20	58:45	9:28
+1010	159/201	3025	John Yakoumatos	46	Brookeville MD	1:02:45	58:51	9:29
+1011	34/50	2121	Daniel Peed	61	Wheaton MD	1:02:51	58:52	9:29
+1012	160/201	1894	Dan Mcmullen	47	Silver Spring MD	1:03:57	58:52	9:29
+1013	161/201	554	Jeffrey Barnhart	47	Gaithersburg MD	1:02:04	58:54	9:29
+1014	79/96	2129	Brian Peres	29	Germantown MD	1:04:06	58:55	9:29
+1015	47/73	1915	Bill Merriam	59	North Potomac MD	1:02:54	58:57	9:30
+1016	80/96	2102	Chris Paridon	27	Arlington VA	1:02:02	58:57	9:30
+1017	35/50	1481	Robert Johnson	63	Rockville MD	1:04:00	58:58	9:30
+1018	120/143	1823	Thomas Martin	31	Kensington MD	1:02:23	58:59	9:30
+1019	121/143	1708	Sandra Je Levine	30	Kensington MD	1:02:23	59:00	9:30
+1020	122/143	1658	Karriem Lateef	32	Alexandria VA	1:02:21	59:02	9:30
+1021	162/201	1773	John Macarthur	45	Silver Spring MD	1:02:55	59:05	9:31
+1022	185/214	780	Donald Cherry	40	Bethesda MD	1:02:57	59:06	9:31
+1023	163/201	3014	Tim Ramsey	47	Alexandria VA	1:03:18	59:09	9:32
+1024	81/96	1990	Stephen Murphy	28	Woodbine MD	1:02:50	59:09	9:32
+1025	48/73	2396	John Schwemberger	56	Rockville MD	1:04:13	59:12	9:32
+1026	4/6	2734	George Waxter	75	Frederick MD	1:00:29	59:13*	9:32
+1027	164/203	2161	Chris Pinto	35	Catharpin VA	1:02:26	59:15	9:33
+1028	49/73	1501	Richard Jung	57	Bethesda MD	1:02:37	59:16	9:33
+1029	123/143	1202	Walter Geddes	31	Frederick MD	1:04:32	59:16	9:33
+1030	165/203	756	Robert Cavanaugh	38	N.potomac MD	1:03:30	59:18	9:33
+1031	50/73	2529	John Spiegel	56	Silver Spring MD	1:02:30	59:20	9:33
+1032	186/214	2936	Mike Richards	42	Silver Spring MD	1:02:56	59:21	9:34
+1033	164/201	2974	Mark Patterson	45	Poollesville MD	1:03:07	59:24	9:34
+1034	82/96	3262	Brad Spain	29	Wheaton MD	1:03:05	59:26	9:34
+1035	124/143	2118	Jon Pearlman	31	Gaithersburg MD	1:03:20	59:27	9:34
+1036	166/203	1744	Pete Lombardo	36	Olney MD	1:03:22	59:28	9:35
+1037	167/203	435	Tim Abercrombie	38	Silver Spring MD	1:03:15	59:29	9:35
+1038	165/201	3343	Russell Werner	47	Sterling VA	1:03:30	59:31	9:35
+1039	36/50	3015	Phillip Schwartz	64	Rockville MD	1:03:18	59:31	9:35
+1040	166/201	1047	Paul Englehart	49	Derwood MD	1:03:03	59:37	9:36
+1041	125/143	1139	Bruce Fox	34	Silver Spring MD	1:02:51	59:37	9:36
+1042	19/28	518	Connor Augerson	13	Damascus MD	1:03:36	59:39	9:36
+1043	51/73	2156	David Pincus	58	Potomac MD	1:03:33	59:40	9:36
+1044	20/28	2901	Judson Eisel	13	Olney MD	1:03:33	59:40	9:36
+1045	107/132	1491	James Jones	51	Germantown MD	1:04:43	59:40	9:37
+1046	168/203	889	Ruseell Dalin	36	Gaithersburg MD	1:03:00	59:41	9:37
+1047	169/203	2812	David Woodwell	37	Silver Spring MD	1:03:32	59:41	9:37
+1048	21/28	2502	Logan Snyder	13	North Potomac MD	1:02:52	59:43	9:37
+1049	167/201	1332	Mark Happ	45	Mt. Airy MD	1:03:24	59:43	9:37
+1050	187/214	2845	Jeffrey Zavadil	40	Rockville MD	1:03:01	59:44	9:37
+1051	170/203	233	Martin Yancey	39	Gaithersburg MD	1:01:05	59:48	9:38
+1052	171/203	1877	John Mcgrath	39	N Potomac MD	1:03:46	59:48	9:38
+1053	108/132	1534	Andrew Katz	53	Rockville MD	1:04:56	59:49	9:38
+1054	172/203	733	Mark Carmichael	38	Silver Spring MD	1:03:00	59:49	9:38
+1055	109/132	2510	Jeffrey Solar	53	Silver Spring MD	1:04:56	59:51	9:38
+1056	168/201	2000	Mark Nagurney	47	Laurel MD	1:04:53	59:51	9:38
+1057	52/73	2948	Marc Charmatz	58	Gaithersburg MD	1:04:54	59:52	9:39
+1058	169/201	764	Kim Chan	47	Brookeville MD	1:04:56	59:53	9:39
+1059	170/201	2256	Jonathan Reiner	46	Potomac MD	1:03:32	59:53	9:39
+1060	110/132	2307	Lawrence Rosenblum	51	Gaithersburg MD	1:03:16	59:54	9:39
+1061	173/203	2669	Alfredo Ugalde	35	Germantown MD	1:05:01	59:54	9:39
+1062	111/132	2799	Douglas Wolf	51	Gaithersburg MD	1:03:18	59:55	9:39
+1063	188/214	996	Mitchell Dowdy	40	Gaithersburg MD	1:03:50	59:57	9:39
+1064	174/203	693	Peter Buer	39	Alexandria VA	1:01:07	59:57	9:39
+1065	112/132	1011	Douglas Dunlop	52	Potomac MD	1:04:01	1:00:02	9:40
+1066	37/50	2718	Edward Walters	60	Bethesda MD	1:03:29	1:00:05	9:41
+1067	42/45	3008	Harry Byrne	17	Olney MD	1:03:21	1:00:05	9:41
+1068	175/203	1786	Peter Magnaye	39	Clarksburg MD	1:05:20	1:00:09	9:41
+1069	189/214	1398	Robert Hopkins	43	Bethesda MD	1:04:08	1:00:10	9:41
+1070	83/96	2105	Matthew Parnell	26	Arlington VA	1:03:18	1:00:16	9:42
+1071	45/48	461	Chris Alexander	24	Woodbine MD	1:03:56	1:00:16	9:42
+1072	190/214	1696	Thomas Lemay	44	Frederick MD	1:04:03	1:00:17	9:42
+1073	176/203	1385	Brian Hogston	39	Silver Spring MD	1:04:19	1:00:20	9:43
+1074	191/214	2141	Norman Peterson	44	Gaithersburg MD	1:05:26	1:00:21	9:43
+1075	126/143	568	Michael Bayewitz	33	Olney MD	1:05:24	1:00:22	9:43
+1076	53/73	587	Louis Berlin	59	Bethesda MD	1:03:37	1:00:24	9:44
+1077	171/201	2167	Kenneth Plummer	49	Germantown MD	1:05:51	1:00:29	9:44
+1078	177/203	2216	Ramy Radmanesh	39	Bethesda MD	1:04:21	1:00:31	9:45
+1079	172/201	2172	John Popham	49	Washington DC	1:04:37	1:00:35	9:45
+1080	173/201	804	Pierre Clemenceau	45	Gaithersburg MD	1:00:41	1:00:37	9:46
+1081	54/73	2755	George Weissgerber	55	Silver Spring MD	1:04:26	1:00:38	9:46
+1082	12/19	2615	Walter Telesetsky	68	Rockville MD	1:04:04	1:00:41	9:46
+1083	55/73	2660	Khai Tu	57	Potomac MD	1:00:41	1:00:41	9:46
+1084	22/28	1725	Timothy Lim	12	Rockville MD	1:05:48	1:00:44	9:47
+1085	38/50	186	Raymond Mckinnon	64	Middletown MD	1:05:57	1:00:45	9:47
+1086	174/201	2361	Jim Sandford	49	Woodbine MD	1:04:43	1:00:50	9:48
+1087	178/203	3256	Jon Freedman	35	Chevy Chase MD	1:04:50	1:00:52	9:48
+1088	175/201	1754	David Louis	49	Arlington VA	1:06:31	1:00:57	9:49
+1089	192/214	1747	John Loome	40	Washington DC	1:05:19	1:01:10	9:51
+1090	23/28	1919	Abhijeet Mesepam	13	Beltsville MD	1:02:24	1:01:12	9:51
+1091	179/203	2621	John Thereault	39	Monrovia MD	1:05:13	1:01:16	9:52
+1092	193/214	2313	Ed Rothenberg	40	Boyds MD	1:05:13	1:01:18	9:52
+1093	113/132	2926	Stephan Spitzer	53	Brookeville MD	1:05:26	1:01:19	9:52
+1094	127/143	860	Edward Cowen	33	Potomac MD	1:05:08	1:01:21	9:53
+1095	114/132	2913	Bill Battista	51	Silver Spring MD	1:04:56	1:01:23	9:53
+1096	180/203	2244	Jerome Read	39	Silver Spring MD	1:04:54	1:01:23	9:53
+1097	56/73	2106	Dennis Parnell	56	Rockville MD	1:04:28	1:01:26	9:54
+1098	84/96	2557	Jeffrey Stickle	28	Gaithersburg MD	1:06:43	1:01:39	9:56
+1099	115/132	1623	David Kroeker	50	Rockville MD	1:05:42	1:01:42	9:56
+1100	194/214	1660	Tracy Latona	44	Germantown MD	1:02:45	1:01:43	9:56
+1101	39/50	129	John Collins	63	Columbia MD	1:05:49	1:01:45	9:57
+1102	57/73	2839	Bob Zachariasiewi	59	Rockville MD	1:05:16	1:01:51	9:58
+1103	181/203	1016	Stephen Dwyer	38	Potomac MD	1:07:09	1:01:57	9:59
+1104	195/214	3345	Jp Morgan	42	Rockville MD	1:03:12	1:01:58	9:59
+1105	128/143	1502	Gene Jung	32	Bethesda MD	1:07:29	1:02:11	10:01
+1106	182/203	3324	Mo Fathelbab	39	Alexandria VA	1:03:37	1:02:15	10:02
+1107	196/214	1538	Hamid Kazemi	41	Washington DC	1:03:38	1:02:16	10:02
+1108	183/203	3322	Al Espinoza	39	Comus MD	1:03:38	1:02:16	10:02
+1109	129/143	3301	Dennis Delrosario	31	Olney MD	1:05:48	1:02:36	10:05
+1110	176/201	719	Lennox Campello	49	Potomac MD	1:07:45	1:02:38	10:05
+1111	197/214	1248	Ed Goldman	43	Frederick MD	1:06:30	1:02:42	10:06
+1112	58/73	2097	David Pancost	58	Silver Spring MD	1:08:01	1:02:42	10:06
+1113	85/96	2357	Shiou Sam	27	Gaithersburg MD	1:08:03	1:02:43	10:06
+1114	184/203	1351	Michael Haxton	39	Bowie MD	1:06:15	1:02:49	10:07
+1115	177/201	1941	Frederick Mitchell	45	Germantown MD	1:06:51	1:02:50	10:07
+1116	185/203	1284	Robert Greenblatt	35	Rockville MD	1:05:58	1:02:58	10:08
+1117	130/143	1286	Howard Greif	33	Olney MD	1:08:00	1:02:59	10:08
+1118	86/96	2238	Patrick Rawson	29	Rockville MD	1:09:02	1:03:00	10:09
+1119	24/28	1731	Jason Linzau	10	Silver Spring MD	1:06:44	1:03:01	10:09
+1120	198/214	2774	Robert Wiktor	41	Kensington MD	1:06:57	1:03:13	10:11
+1121	116/132	2813	Thomas Woolheater	53	N. Potomac MD	1:07:10	1:03:16	10:11
+1122	117/132	133	John Corrigan	51	Chevy Chase MD	1:06:54	1:03:16	10:11
+1123	178/201	669	Houston Briscoe	49	Rockville MD	1:07:05	1:03:25	10:13
+1124	179/201	427	Richard Anthony	46	New Windsor MD	1:07:08	1:03:26	10:13
+1125	199/214	1585	Dennis Kirschbaum	44	Washington Grov	1:08:48	1:03:28	10:13
+1126	180/201	431	John Peppel	47	Germantown MD	1:07:15	1:03:31	10:14
+1127	87/96	1179	Ollie Gallardo	29	Herndon VA	1:08:50	1:03:33	10:14
+1128	181/201	2154	Geoffrey Pierce	47	Silver Spring MD	1:07:13	1:03:35	10:14
+1129	46/48	1409	Adam House	21	Frederick MD	1:04:40	1:03:37	10:15
+1130	182/201	191	Timothy O'gwin	48	Damascus MD	1:08:54	1:03:39	10:15
+1131	59/73	1884	Bruce Mckenzie	57	Mclean VA	1:07:22	1:03:39	10:15
+1132	183/201	3318	John Kamya	48	Potomac MD	1:04:56	1:03:42	10:15
+1133	118/132	2893	Richard Minor	53	Mitchelville MD	1:11:34	1:03:45	10:16
+1134	200/214	1085	John Feeney	40	Burke VA	1:09:06	1:03:52	10:17
+1135	186/203	446	Aditya Adarkar	36	Montclair NJ	1:07:25	1:03:58	10:18
+1136	187/203	1613	Eric Kothari	38	Kensington MD	1:07:26	1:03:58	10:18
+1137	60/73	2263	Alejandro Revilla	56	Gaithersburg MD	1:05:05	1:03:59	10:18
+1138	201/214	2255	Sean Reilly	44	Damascus MD	1:07:20	1:04:04	10:19
+1139	119/132	2489	Bernard Smith	54	Laurel MD	1:07:57	1:04:06	10:19
+1140	184/201	2730	Donald Watson	46	Wheaton MD	1:07:58	1:04:07	10:19
+1141	120/132	2916	Gary Melnick	52	Bethesda MD	1:07:17	1:04:11	10:20
+1142	61/73	2437	Lenny Shipe	58	Gaithersburg MD	1:07:41	1:04:24	10:22
+1143	188/203	732	Andy Carlstrom	37	Kensington MD	1:09:44	1:04:29	10:23
+1144	185/201	1187	Israel Gannot	46	Rockville MD	1:09:48	1:04:33	10:24
+1145	131/143	3332	Chandler Ayers	31	Frederick MD	1:05:54	1:04:34	10:24
+1146	186/201	2338	Brent Russell	47	Bethesda MD	1:06:05	1:04:36	10:24
+1147	121/132	928	James Demarest Jr	51	Olney MD	1:09:41	1:04:37	10:24
+1148	62/73	217	Phillip Thompson	59	Springfield VA	1:09:46	1:04:44	10:25
+1149	88/96	1237	Eric Glasser	29	Crofton MD	1:08:41	1:04:47	10:26
+1150	187/201	2732	Joe Watts	46	Bethesda MD	1:08:52	1:04:48	10:26
+1151	122/132	2647	Maria Toruno	51	Gaithersburg MD	1:05:56	1:04:50	10:26
+1152	63/73	131	Richard P Compton	56	North Potomac MD	1:10:00	1:04:51	10:27
+1153	89/96	2073	Gene Osborn	28	Rockville MD	1:09:58	1:04:53	10:27
+1154	123/132	1891	Glen Mcleod	53	Olney MD	1:08:55	1:05:01	10:28
+1155	132/143	1913	Augustin Mercado	32	Germantown MD	1:08:21	1:05:02	10:28
+1156	133/143	1641	David Lakner	33	Frederick MD	1:10:07	1:05:04	10:29
+1157	189/203	2838	Mohammed Zaatari	39	Mclean VA	1:09:07	1:05:15	10:30
+1158	64/73	1113	Frank Flannery	58	Rockville MD	1:08:58	1:05:26	10:32
+1159	90/96	1114	John Flannery	25	Rockville MD	1:08:58	1:05:26	10:32
+1160	40/50	2451	Jonathan Silverman	61	Chevy Chase MD	1:10:40	1:05:27	10:32
+1161	65/73	2170	Vicken Poochikian	58	Potomac MD	1:10:31	1:05:29	10:33
+1162	190/203	2976	Rami Kandel	36	Potomac MD	1:09:31	1:05:30	10:33
+1163	188/201	2731	Douglas Watt	48	Gaithersburg MD	1:09:13	1:05:31	10:33
+1164	191/203	1454	Jeff Jacobs	36	Washington DC	1:10:37	1:05:34	10:33
+1165	192/203	1414	Phillip Howard	37	Westminster MD	1:10:56	1:05:42	10:35
+1166	134/143	2953	Bob Strebley	30	Rockville MD	1:09:27	1:05:43	10:35
+1167	13/19	2033	John Noble	68	Bethesda MD	1:10:53	1:05:43	10:35
+1168	14/19	3238	Michael Sanders	67	Potomac MD	1:08:53	1:05:50	10:36
+1169	135/143	3213	Paul Chin	32	Bethesda MD	1:07:24	1:05:55	10:37
+1170	189/201	1376	Chip Hill	46	Vienna VA	1:09:49	1:05:57	10:37
+1171	41/50	2479	Neil Small	64	Fairfax VA	1:09:50	1:05:58	10:37
+1172	124/132	1993	Thomas Murphy Jr	54	Woodbine MD	1:10:03	1:05:58	10:37
+1173	193/203	814	David Cohen	37	Rockville MD	1:11:33	1:06:01	10:38
+1174	194/203	1393	Robert Holmes	39	Mclean VA	1:09:57	1:06:20	10:41
+1175	190/201	2898	Isaac Okebugwu	47	Silver Spring MD	1:07:28	1:06:23	10:41
+1176	91/96	2779	Sam Williams	26	Washington DC	1:11:35	1:06:33	10:43
+1177	195/203	2601	Kelly Tashiro	37	Rockville MD	1:11:55	1:06:36	10:43
+1178	196/203	1347	Todd Hasssett	35	Germantown MD	1:11:41	1:06:41	10:44
+1179	202/214	1079	Tony Farnham	42	Germantown MD	1:10:37	1:06:50	10:46
+1180	92/96	1002	Scott Drummond	27	Gaithersburg MD	1:11:01	1:06:56	10:47
+1181	191/201	1724	Eddie Lim	47	Rockville MD	1:12:07	1:07:02	10:48
+1182	125/132	1546	David Kelly	52	Clarksburg MD	1:10:15	1:07:03	10:48
+1183	192/201	2453	Marc Silverstein	46	Rockville MD	1:11:17	1:07:17	10:50
+1184	203/214	831	Alfred Colvill	41	Mason Neck VA	1:12:35	1:07:25	10:51
+1185	197/203	789	Eric Cho	37	Gaithersburg MD	1:10:41	1:07:26	10:52
+1186	136/143	1888	John Mclain	32	Clarksville MD	1:11:00	1:07:30	10:52
+1187	126/132	795	David Chung	50	Rockville MD	1:12:36	1:07:31	10:52
+1188	93/96	1331	Jeffrey Hanson	29	Derwood Md MD	1:12:43	1:07:31	10:52
+1189	204/214	2518	Bassem Soueidan	42	Potomac MD	1:12:44	1:07:39	10:54
+1190	137/143	699	Rahmon Burton	32	Silver Spring MD	1:10:57	1:07:45	10:55
+1191	193/201	1783	Michael Mael	49	Potomac MD	1:12:54	1:07:46	10:55
+1192	205/214	830	Benjamin Collins	43	Gaithersburg MD	1:13:03	1:07:48	10:55
+1193	42/50	2395	Michael Schwed	64	Wheaton MD	1:13:16	1:08:00	10:57
+1194	206/214	1628	Victor Kubli	43	Germantown MD	1:13:13	1:08:00	10:57
+1195	15/19	841	Sheldon Contract	66	N. Bethesda MD	1:13:17	1:08:02	10:57
+1196	138/143	2872	Eben Joel	31	Olney MD	1:11:47	1:08:05	10:58
+1197	198/203	950	Donald Dietrichson	39	Silver Spring MD	1:09:12	1:08:05	10:58
+1198	194/201	3252	Peter Weinbergen	45	Brookeville MD	1:12:05	1:08:39	11:03
+1199	127/132	2380	David Scholl	52	Bethesda MD	1:12:24	1:08:53	11:06
+1200	139/143	2417	Michael Shahan	33	Gaithersburg MD	1:14:24	1:09:05	11:07
+1201	66/73	2745	Jack Weil	57	Potomac MD	1:14:39	1:09:30	11:12
+1202	195/201	3028	James Jeffers	45	Potomac MD	1:13:08	1:09:31	11:12
+1203	43/45	3027	Eric Jeffers	16	Potomac MD	1:13:08	1:09:31	11:12
+1204	43/50	1009	Thomas Dunham	60	Germantown MD	1:13:34	1:09:36	11:12
+1205	94/96	1050	Douglas Enzler	26	Rockville MD	1:15:00	1:09:54	11:15
+1206	199/203	2159	Tiago Pinto	38	Bethesda MD	1:13:20	1:09:54	11:15
+1207	67/73	2346	Michael Ryschkewitsch	55	Chevy Chase MD	1:15:22	1:10:06	11:17
+1208	25/28	1516	Matthew Kannan	13	Bethesda MD	1:13:09	1:10:08	11:18
+1209	200/203	985	Tony Donley	35	Ellicott City MD	1:15:22	1:10:14	11:19
+1210	26/28	556	Chris Barr	-1	Germantown MD	1:15:39	1:10:30	11:21
+1211	27/28	557	Cj Barr	13	Germantown MD	1:15:40	1:10:30	11:21
+1212	207/214	2965	Lonnie Castelli	40	Davenport IA	1:13:55	1:10:35	11:22
+1213	140/143	1322	Soong Han	30	Ashburn VA	1:12:01	1:10:37	11:22
+1214	128/132	1362	Larry Heller	50	Bethesda MD	1:16:00	1:10:56	11:25
+1215	44/45	1517	Andrew Kannan	15	Bethesda MD	1:14:13	1:10:59	11:26
+1216	208/214	2642	James Toner	40	Fairfax VA	1:16:16	1:11:03	11:27
+1217	129/132	697	Dennis Brady	52	Bowie MD	1:16:30	1:11:13	11:28
+1218	130/132	1677	Kuhwa Lee	50	Columbia MD	1:14:44	1:11:37	11:32
+1219	16/19	1954	Howard Moore	68	Gaithersburg MD	1:16:51	1:11:41	11:33
+1220	68/73	2040	Robert Noyes	58	North Bethesda M	1:16:51	1:11:41	11:33
+1221	209/214	1902	William Mease	40	Boyds MD	1:16:47	1:11:43	11:33
+1222	17/19	3355	Cary Klimen	65	.	1:11:58	1:11:54	11:35
+1223	210/214	880	Andre Cutar	44	Greenbelt MD	1:17:19	1:11:58	11:35
+1224	131/132	3315	Robert Falcone	51	Great Falls VA	1:17:17	1:12:03	11:36
+1225	211/214	2201	Chris Pugh	40	Silver Spring MD	1:15:58	1:12:20	11:39
+1226	28/28	515	Gregory Aubertin	9	Rockville MD	1:16:21	1:12:26	11:40
+1227	18/19	505	Suresh Arya	65	Clarksburg MD	1:17:46	1:12:26	11:40
+1228	44/50	1681	M. K. Lee	62	Rockville MD	1:17:38	1:12:34	11:41
+1229	45/50	1714	Ned Li	62	Rockville MD	1:17:38	1:12:35	11:41
+1230	46/50	1069	Art Fabel	62	Rockville MD	1:18:26	1:12:39	11:42
+1231	1/2	2092	Raymond Palfrey	81	Springfield VA	1:18:00	1:12:56*	11:45
+1232	5/6	2849	Philip Zenchoff	78	Silver Spring MD	1:17:21	1:13:15	11:48
+1233	69/73	1263	Israel Gotay	56	Rockville MD	1:18:26	1:13:23	11:49
+1234	201/203	2247	Robert Redman	35	Germantown MD	1:18:50	1:13:34	11:51
+1235	70/73	1336	Scott Harman	55	Columbia MD	1:18:57	1:13:39	11:52
+1236	47/50	2197	Philip Prorok	62	Brookeville MD	1:19:00	1:13:53	11:54
+1237	2/2	2152	Frank Pierce	84	Silver Spring MD	1:14:28	1:14:23*	11:59
+1238	71/73	2487	William Smith	58	Mclean VA	1:19:55	1:14:46	12:02
+1239	196/201	543	Joe Balinas	47	Rockville MD	1:18:54	1:15:24	12:08
+1240	132/132	2643	Ali Toosi	51	Silver Spring MD	1:16:33	1:15:27	12:09
+1241	141/143	2059	Cyril Okoro	31	Silver Spring MD	1:16:33	1:15:28	12:09
+1242	45/45	1207	Spencer Geisertdole	15	Chevy Chase MD	1:20:00	1:15:59	12:14
+1243	197/201	2834	David Young	49	Silver Spring MD	1:20:07	1:16:18	12:17
+1244	198/201	2884	Ronald Buenaventura	47	Gaithersburg MD	1:20:04	1:16:18	12:17
+1245	48/50	579	Mike Benesch	62	Rockville MD	1:21:42	1:16:38	12:20
+1246	212/214	125	David Carter	41	Bethesda MD	1:22:14	1:17:00	12:24
+1247	72/73	3303	William Selig	56	Rockville MD	1:23:48	1:18:31	12:38
+1248	49/50	1107	John Fishel	63	Silver Spring MD	1:23:57	1:18:38	12:40
+1249	202/203	782	Quinton Chew	39	Gaithersburg MD	1:23:53	1:18:40	12:40
+1250	19/19	2052	Thomas O'herron	66	Silver Spring MD	1:23:59	1:18:57	12:43
+1251	142/143	788	Andrew Chin	31	Wheaton MD	1:23:22	1:20:02	12:53
+1252	95/96	2536	Madhu Sridharan	29	Owings Mills MD	1:25:26	1:20:08	12:54
+1253	47/48	942	David Diamond	24	Rockville MD	1:23:43	1:20:25	12:57
+1254	199/201	1685	Byung Lee	48	Laurel MD	1:24:36	1:21:33	13:08
+1255	48/48	166	Tom Hunsicker	24	Rockville MD	1:25:59	1:22:12	13:14
+1256	6/6	2534	Burton Squires	77	Rockville MD	1:25:00	1:23:31	13:27
+1257	143/143	1022	Juan Echeandia	34	Frederick MD	1:25:17	1:24:12	13:33
+1258	203/203	952	Douglas Dietrichson	37	Triangle VA	1:25:40	1:24:31	13:36
+1259	213/214	1241	Kenape Gogo	41	Silver Spring MD	1:27:38	1:26:33	13:56
+1260	214/214	1228	Neil Gilliam	40	Chevy Chase MD	1:32:44	1:29:37	14:26
+1261	200/201	2792	Kenneth Winkfield	49	Bowie MD	1:35:50	1:30:29	14:34
+1262	50/50	63	Thom Hunter	63	Gaithersburg MD	1:42:41	1:37:20	15:40
+1263	96/96	1547	Nicholas Kelsch	27	Gaithersburg MD	1:43:00	1:37:50	15:45
+1264	201/201	3330	Cliff Chiet	45	Gaithersburg MD	1:44:07	1:38:46	15:54
+1265	73/73	547	Robert Banning	57	Greenbelt MD	1:43:47	1:40:38	16:12
